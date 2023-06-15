@@ -1,0 +1,5 @@
+fx\textures\braindance\braindance_noise3d_00\braindance_noise3d_00.texarray
+fx\textures\braindance\braindance_noise3d_01\braindance_noise3d_01.texarray
+fx\textures\braindance\braindance_noise3d_02\braindance_noise3d_02.texarray
+fx\textures\braindance\braindance_noise3d_03\braindance_noise3d_03.texarray
+fx\textures\braindance\braindance_noise3d_05\braindance_noise3d_05.texarray

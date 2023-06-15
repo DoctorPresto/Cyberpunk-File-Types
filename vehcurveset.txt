@@ -1,0 +1,3 @@
+gameplay\vehicles\curves\default_bike.vehcurveset
+gameplay\vehicles\curves\default_car.vehcurveset
+gameplay\vehicles\curves\muscle_car.vehcurveset

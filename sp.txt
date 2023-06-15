@@ -1,0 +1,2 @@
+characters\head\player_base_heads\player_man_average\h0_000_pma_c__basehead\textures\customisation_teeth.sp
+characters\head\pwa\h0_000_pwa_c__basehead\default.sp

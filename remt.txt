@@ -1,0 +1,3 @@
+materials\decal.remt
+materials\decal_normal.remt
+materials\pbr_layer.remt

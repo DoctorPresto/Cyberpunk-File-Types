@@ -1,0 +1,2 @@
+worlds\03_night_city\sectors\_generated\traffic\all.traffic_persistent
+worlds\04_main_menu\sectors\_generated\traffic\all.traffic_persistent

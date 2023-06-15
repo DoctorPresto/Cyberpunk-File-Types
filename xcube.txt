@@ -1,0 +1,1 @@
+fx\textures\cubemaps\cubemap1.xcube

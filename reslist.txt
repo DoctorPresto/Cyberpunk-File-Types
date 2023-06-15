@@ -1,0 +1,3 @@
+gamedefs.reslist
+journal\index.reslist
+worlds\worlds.reslist
