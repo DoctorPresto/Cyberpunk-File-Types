@@ -1,0 +1,10 @@
+gameplay\ai\archetypes\adamsmasher.aiarch
+gameplay\ai\archetypes\drone.aiarch
+gameplay\ai\archetypes\exo.aiarch
+gameplay\ai\archetypes\humanoid.aiarch
+gameplay\ai\archetypes\mech.aiarch
+gameplay\ai\archetypes\oda.aiarch
+gameplay\ai\archetypes\oda_locomotion.aiarch
+gameplay\ai\archetypes\sasquatch.aiarch
+gameplay\ai\archetypes\spiderbot_follower.aiarch
+gameplay\ai\archetypes\vehicle.aiarch

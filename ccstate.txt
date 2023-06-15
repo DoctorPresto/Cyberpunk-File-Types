@@ -1,0 +1,2 @@
+gameplay\gui\fullscreen\main_menu\player_presets\default_female.ccstate
+gameplay\gui\fullscreen\main_menu\player_presets\default_male.ccstate

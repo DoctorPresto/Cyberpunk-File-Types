@@ -1,0 +1,2 @@
+gameplay\gui\fullscreen\credits\creditslong_ps4.credits
+gameplay\gui\fullscreen\credits\creditslong_xbox_pc.credits

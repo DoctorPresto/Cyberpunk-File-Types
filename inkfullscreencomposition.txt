@@ -1,0 +1,1 @@
+gameplay\gui\fullscreen\composition_params.inkfullscreencomposition

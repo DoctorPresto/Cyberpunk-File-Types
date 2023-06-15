@@ -1,0 +1,6 @@
+gameplay\gui\fullscreen\main_menu\ui_character_presets\ui_preset_female_corpo.charcustpreset
+gameplay\gui\fullscreen\main_menu\ui_character_presets\ui_preset_female_nomad.charcustpreset
+gameplay\gui\fullscreen\main_menu\ui_character_presets\ui_preset_female_street.charcustpreset
+gameplay\gui\fullscreen\main_menu\ui_character_presets\ui_preset_male_corpo.charcustpreset
+gameplay\gui\fullscreen\main_menu\ui_character_presets\ui_preset_male_nomad.charcustpreset
+gameplay\gui\fullscreen\main_menu\ui_character_presets\ui_preset_male_street.charcustpreset

@@ -1,0 +1,2 @@
+worlds\03_night_city\sectors\_generated\collisions\03_night_city.geometry_cache
+worlds\04_main_menu\sectors\_generated\collisions\04_main_menu.geometry_cache

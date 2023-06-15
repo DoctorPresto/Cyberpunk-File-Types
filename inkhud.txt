@@ -1,0 +1,8 @@
+gameplay\gui\hud_camera.inkhud
+gameplay\gui\hud_drone.inkhud
+gameplay\gui\hud_johnny.inkhud
+gameplay\gui\hud_preview.inkhud
+gameplay\gui\hud_tank.inkhud
+gameplay\gui\hud_turret.inkhud
+gameplay\gui\hud_tutorial.inkhud
+gameplay\gui\prototype_hud.inkhud

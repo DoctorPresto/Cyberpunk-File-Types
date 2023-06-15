@@ -1,0 +1,1 @@
+razer_chroma\animation_mappings.chromaset

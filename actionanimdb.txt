@@ -1,0 +1,5 @@
+animations\anim_motion_database\action_animation.actionanimdb
+animations\anim_motion_database\action_animation_facial.actionanimdb
+animations\anim_motion_database\adam_smasher_weapons.actionanimdb
+animations\anim_motion_database\exo_action_animation.actionanimdb
+animations\anim_motion_database\mantis_animation.actionanimdb

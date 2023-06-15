@@ -1,0 +1,2 @@
+characters\common\garment_default_params.garmentlayerparams
+characters\common\garment_default_params_for_player.garmentlayerparams

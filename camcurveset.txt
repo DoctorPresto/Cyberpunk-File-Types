@@ -1,0 +1,7 @@
+gameplay\vehicles\curves\camera\default_tpp.camcurveset
+gameplay\vehicles\curves\camera\motorcycle_tpp.camcurveset
+gameplay\vehicles\curves\camera\panzer_tpp.camcurveset
+vehicles\sport\v_sport2_quadra_type66\gameplay\tpp_curves.camcurveset
+vehicles\standard\v_standard25_villefort_columbus\gameplay\tpp_curves.camcurveset
+vehicles\standard\v_standard2_makigai_maimai\gameplay\tpp_curves.camcurveset
+vehicles\utility\v_utility4_kaukaz_zeya\gameplay\tpp_curves.camcurveset
