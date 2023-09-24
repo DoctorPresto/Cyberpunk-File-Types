@@ -27,3 +27,5 @@ environment\vegetation\foliage_gradients\ficus.gradient
 environment\vegetation\foliage_gradients\gold.gradient
 environment\vegetation\foliage_gradients\palm.gradient
 environment\vegetation\foliage_gradients\pink.gradient
+engine\materials\defaults\black.gradient
+engine\materials\defaults\default.gradient

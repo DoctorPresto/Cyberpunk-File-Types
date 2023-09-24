@@ -1,8 +1,8 @@
 characters\base_entities\man_big\man_big.hitrepresentation
 characters\base_entities\man_big\man_big_animal.hitrepresentation
 characters\base_entities\man_massive\man_massive.hitrepresentation
-characters\base_entities\npc_base\npc_base.hitrepresentation
-characters\base_entities\woman_base\woman_base.hitrepresentation
+characters\base_entities\npc_npc_base.hitrepresentation
+characters\base_entities\woman_woman_base.hitrepresentation
 characters\boss\adam_smasher\adam_smasher.hitrepresentation
 characters\boss\royce\royce_representations.hitrepresentation
 characters\boss\royce\royce_weakspot.hitrepresentation

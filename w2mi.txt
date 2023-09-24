@@ -9,6 +9,10 @@ materials\hazards_gas.w2mi
 materials\hazards_liquid.w2mi
 materials\hotel_floor_carpet.w2mi
 materials\ld_colour_code_orange.w2mi
+materials\ruler_checker_1m.w2mi
+materials\ruler_checker_1m_cover.w2mi
+materials\ruler_checker_1m_wall.w2mi
+materials\world_map.w2mi
 materials\matlib\global\asphalt_clean.w2mi
 materials\matlib\global\asphalt_damaged.w2mi
 materials\matlib\global\asphalt_old_01.w2mi
@@ -19,10 +23,10 @@ materials\matlib\global\asphalt_road_new.w2mi
 materials\matlib\global\asphalt_road_old.w2mi
 materials\matlib\global\brass_bare_01.w2mi
 materials\matlib\global\brass_brushed_01.w2mi
-materials\matlib\global\brick_rough_01.w2mi
 materials\matlib\global\bricks_old_damaged.w2mi
 materials\matlib\global\bricks_old_mortar.w2mi
 materials\matlib\global\bricks_old_rough.w2mi
+materials\matlib\global\brick_rough_01.w2mi
 materials\matlib\global\ceramic_apartment_wall_01.w2mi
 materials\matlib\global\ceramic_floor_01.w2mi
 materials\matlib\global\ceramic_wall_01.w2mi
@@ -318,8 +322,8 @@ materials\playstyle_boxes_with_text\inspect_txt.w2mi
 materials\playstyle_boxes_with_text\interaction_txt.w2mi
 materials\playstyle_boxes_with_text\jury_rig_txt.w2mi
 materials\playstyle_boxes_with_text\ladder_txt.w2mi
-materials\playstyle_boxes_with_text\lock_txt.w2mi
 materials\playstyle_boxes_with_text\lockable_txt.w2mi
+materials\playstyle_boxes_with_text\lock_txt.w2mi
 materials\playstyle_boxes_with_text\loot_txt.w2mi
 materials\playstyle_boxes_with_text\low_security_clearrance_txt.w2mi
 materials\playstyle_boxes_with_text\mid_security_clearrance_txt3.w2mi
@@ -352,7 +356,5 @@ materials\playstyle_boxes_with_text\use_txt.w2mi
 materials\playstyle_boxes_with_text\wall_run_txt.w2mi
 materials\playstyle_boxes_with_text\winch_txt.w2mi
 materials\playstyle_boxes_with_text\window_of_opportunity_txt.w2mi
-materials\ruler_checker_1m.w2mi
-materials\ruler_checker_1m_cover.w2mi
-materials\ruler_checker_1m_wall.w2mi
-materials\world_map.w2mi
+engine\fallback\helper_no_mesh_mat.w2mi
+engine\materials\defaults\flare.w2mi

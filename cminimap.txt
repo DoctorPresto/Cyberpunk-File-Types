@@ -1,5 +1,0 @@
-worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c109_70_131.cminimap
-worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c110_70_131.cminimap
-worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c127_58_73.cminimap
-worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c128_58_71.cminimap
-worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c128_58_73.cminimap

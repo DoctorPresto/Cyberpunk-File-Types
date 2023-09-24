@@ -36,10 +36,12 @@ gameplay\gui\world\portals\portal_stream_texture.dtex
 gameplay\gui\world\portals\portal_stream_texture_1x2.dtex
 gameplay\gui\world\ripperdoc\poor\preview.dtex
 items\quest\q000__misc\q000_corpo_live_feed_texture.dtex
-media\tv\entities\streaming_cameras\streaming_camera_dynamic_texture.dtex
 media\tv\entities\texture_from_camera.dtex
+media\tv\entities\streaming_cameras\streaming_camera_dynamic_texture.dtex
 quest\main_quests\part1\q112\entities\hanako_screen\q112_hanako_screen_dynamic_texture.dtex
 quest\main_quests\prologue\q004\entities\hellman_scene_camera\q004_hellman_live_feed_texture.dtex
 quest\main_quests\prologue\q004\entities\streaming_camera\q004_bd_yorinobu_live_feed_texture.dtex
 quest\side_quests\sq025\entities\live_feed\sq025_briefing_screen_dynamic_texture.dtex
 quest\side_quests\sq025\entities\live_feed\sq025_reception_screen_dynamic_texture.dtex
+engine\textures\global_ocean_patch\water_patch_fft.dtex
+engine\textures\global_ocean_patch\water_patch_sim.dtex

@@ -1,1 +1,2 @@
 gameplay\gui\fullscreen\composition_params.inkfullscreencomposition
+engine\ink\composition\fallback.inkfullscreencomposition

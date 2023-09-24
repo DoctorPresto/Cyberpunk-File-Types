@@ -25,3 +25,4 @@ environment\vegetation\foliage_profiles\sagebrush_dry.fp
 environment\vegetation\foliage_profiles\terrarium.fp
 environment\vegetation\foliage_profiles\todelete.fp
 environment\vegetation\foliage_profiles\underwater.fp
+engine\materials\defaults\default.fp

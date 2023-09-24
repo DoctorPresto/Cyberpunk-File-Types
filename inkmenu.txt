@@ -1,2 +1,2 @@
-gameplay\gui\fullscreen\main_menu\pregame_menu.inkmenu
 gameplay\gui\fullscreen\menu.inkmenu
+gameplay\gui\fullscreen\main_menu\pregame_menu.inkmenu

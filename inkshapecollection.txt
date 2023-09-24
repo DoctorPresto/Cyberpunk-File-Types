@@ -1,5 +1,5 @@
-gameplay\gui\common\buttons\buttons.inkshapecollection
 gameplay\gui\common\main_shapes.inkshapecollection
+gameplay\gui\common\buttons\buttons.inkshapecollection
 gameplay\gui\fullscreen\common\fullscreen_shapes.inkshapecollection
 gameplay\gui\fullscreen\hub_menu\hub_menu_shape_library.inkshapecollection
 gameplay\gui\fullscreen\loading\shapes_loading_screen.inkshapecollection
@@ -7,3 +7,4 @@ gameplay\gui\fullscreen\main_menu\charactercreationshapelibrary.inkshapecollecti
 gameplay\gui\widgets\crosshair\crosshair_simple.inkshapecollection
 gameplay\gui\widgets\notifications\archived\character_levelup.inkshapecollection
 gameplay\gui\widgets\scanning\shapes_scanner.inkshapecollection
+engine\ink\shapes\fallback.inkshapecollection

@@ -1,2 +1,2 @@
-animations\anim_motion_database\crowd_bumps.genericanimdb
-animations\anim_motion_database\hit_reaction.genericanimdb
+animations\anim_motion_datacrowd_bumps.genericanimdb
+animations\anim_motion_datahit_reaction.genericanimdb

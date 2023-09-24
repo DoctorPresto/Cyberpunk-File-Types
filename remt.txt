@@ -1,3 +1,9 @@
 materials\decal.remt
 materials\decal_normal.remt
 materials\pbr_layer.remt
+engine\materials\debugdraw.remt
+engine\materials\fallback.remt
+engine\materials\metal_base.remt
+engine\materials\mirror.remt
+engine\materials\particles_generic.remt
+engine\materials\particles_liquid.remt

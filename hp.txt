@@ -8,6 +8,7 @@ characters\common\hair\textures\hair_profiles\blonde_ombre.hp
 characters\common\hair\textures\hair_profiles\blonde_platinum.hp
 characters\common\hair\textures\hair_profiles\blue_iridescent.hp
 characters\common\hair\textures\hair_profiles\blue_red_ombre.hp
+characters\common\hair\textures\hair_profiles\blue_sapphire.hp
 characters\common\hair\textures\hair_profiles\blue_sky.hp
 characters\common\hair\textures\hair_profiles\blue_steel.hp
 characters\common\hair\textures\hair_profiles\brown_liquorice.hp
@@ -15,7 +16,6 @@ characters\common\hair\textures\hair_profiles\brown_medium.hp
 characters\common\hair\textures\hair_profiles\brown_ombre.hp
 characters\common\hair\textures\hair_profiles\citrus_yellow.hp
 characters\common\hair\textures\hair_profiles\cold_white.hp
-characters\common\hair\textures\hair_profiles\custom__mitch.hp
 characters\common\hair\textures\hair_profiles\custom_alanah_bottom.hp
 characters\common\hair\textures\hair_profiles\custom_alanah_top.hp
 characters\common\hair\textures\hair_profiles\custom_beige_fur.hp
@@ -46,6 +46,7 @@ characters\common\hair\textures\hair_profiles\custom_red_menace.hp
 characters\common\hair\textures\hair_profiles\custom_red_orange.hp
 characters\common\hair\textures\hair_profiles\custom_royce_beard.hp
 characters\common\hair\textures\hair_profiles\custom_teal_fluorescent.hp
+characters\common\hair\textures\hair_profiles\custom__mitch.hp
 characters\common\hair\textures\hair_profiles\cyberpunk_yellow.hp
 characters\common\hair\textures\hair_profiles\dark_purple.hp
 characters\common\hair\textures\hair_profiles\fur_grey_blue_white.hp
@@ -74,8 +75,8 @@ characters\head\mb\h0_123_mb_c__jesse\textures\jesse.hp
 characters\head\mb\h0_123_mb_c__jesse\textures\jesse_mustache.hp
 characters\head\pma\h0_000_pma_c__basehead\textures\hb_000_pma_c__basehead_01.hp
 characters\head\pma\h0_000_pma_c__basehead\textures\hb_000_pma_c__basehead_02.hp
-characters\head\pma\h0_000_pma_c__basehead\textures\he_000_pma_c_basehead_eyelashes_01.hp
 characters\head\pma\h0_000_pma_c__basehead\textures\heb_000_pma_c__basehead_01.hp
+characters\head\pma\h0_000_pma_c__basehead\textures\he_000_pma_c_basehead_eyelashes_01.hp
 characters\head\pma\h0_001_ma_c__player\textures\player_buzz_hair.hp
 characters\main_npc\bodyguard_dex\h0_001_mb_c__bodyguard_dex\textures\bodyguard_dex.hp
 characters\main_npc\dex\h0_001_mf_b_dex\textures\dex_beard_hair.hp
@@ -90,3 +91,4 @@ characters\main_npc\takemura\h0_001_ma_a__takemura\hb_001_ma_a__takemura.hp
 characters\main_npc\takemura\h0_001_ma_a__takemura\hb_001_ma_a__takemura_beard_variation.hp
 characters\main_npc\takemura\h0_001_ma_a__takemura\hb_001_ma_a__takemura_sides.hp
 characters\main_npc\yorinobu_arasaka\h0_001_ma_a__yorinobu_arasaka\textures\test.hp
+engine\materials\defaults\default.hp

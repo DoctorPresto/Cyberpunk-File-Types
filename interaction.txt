@@ -1,5 +1,6 @@
 gameplay\containers\generic_container_interaction.interaction
 gameplay\containers\generic_singular_container_interaction.interaction
+gameplay\debug\debuginteraction.interaction
 gameplay\debug\debug_interaction.interaction
 gameplay\debug\debug_interaction_aimng.interaction
 gameplay\debug\debug_interaction_companion_room.interaction
@@ -11,11 +12,10 @@ gameplay\debug\debug_interaction_spline.interaction
 gameplay\debug\debug_interaction_strafes.interaction
 gameplay\debug\debug_interaction_straight_lines.interaction
 gameplay\debug\debug_interaction_weapon_type.interaction
-gameplay\debug\debuginteraction.interaction
 gameplay\debug\fake_feature_intraction.interaction
 gameplay\devices\cameras\camerashape.interaction
-gameplay\devices\doors\base\fake_door_interaction.interaction
 gameplay\devices\doors\door_interaction_descriptor.interaction
+gameplay\devices\doors\fake_door_interaction.interaction
 gameplay\devices\elevators\elevator_device_interaction.interaction
 gameplay\devices\elevators\temp_custom_elevator_interaction.interaction
 gameplay\devices\home_appliances\movable_wall_screen\movable_wall_screen_interaction.interaction
@@ -33,7 +33,7 @@ gameplay\devices\ladder\ladder_resource_6m.interaction
 gameplay\devices\ladder\ladder_resource_7m.interaction
 gameplay\devices\ladder\ladder_resource_8m.interaction
 gameplay\devices\ladder\ladder_resource_9m.interaction
-gameplay\interactions\base\basic_area_interaction.interaction
+gameplay\interactions\basic_area_interaction.interaction
 gameplay\interactions\npc\default_puppet_interaction.interaction
 gameplay\interactions\npc\mechanical_puppet_interaction.interaction
 gameplay\interactions\npc\pickup_box.interaction
@@ -56,6 +56,7 @@ gameplay\vehicles\vehicle_device_interaction.interaction
 gameplay\virtual_items\virtual_assault_rifle_interaction.interaction
 gameplay\virtual_items\virtual_rifle_interaction.interaction
 gameplay\virtual_items\virtual_shotgun_interaction.interaction
-gameplay\weakspots\base\weakspot_base_interaction.interaction
+gameplay\weakspots\weakspot_base_interaction.interaction
 quest\side_quests\sq027\temp\q000_temp_panzer_bullet_interaction.interaction
 vehicles\special\v_militech_basilisk\gameplay\basilisk_device_interaction.interaction
+engine\scenesystem\hotspotdefinition.interaction

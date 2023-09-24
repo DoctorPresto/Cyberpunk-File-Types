@@ -47,3 +47,11 @@ gameplay\gui\fonts\raj\raj-bold.fnt
 gameplay\gui\fonts\raj\raj-medium.fnt
 gameplay\gui\fonts\raj\raj-semibold.fnt
 gameplay\gui\fonts\raj\rajdhani-regular.fnt
+engine\fonts\arame-mono-bold.fnt
+engine\fonts\arame-mono-regular.fnt
+engine\fonts\arial.fnt
+engine\fonts\blender.fnt
+engine\fonts\blender_bold.fnt
+engine\fonts\blender_bolditalic.fnt
+engine\fonts\blender_italic.fnt
+engine\fonts\inconsolata.fnt

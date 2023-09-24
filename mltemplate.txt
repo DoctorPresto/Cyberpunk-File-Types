@@ -380,3 +380,4 @@ surfaces\materials\wood\wood_plain\wood_plain_oak_01_300.mltemplate
 surfaces\materials\wood\wood_plain\wood_plain_pine_01_300.mltemplate
 surfaces\materials\wood\wood_plain\wood_plain_pine_polished_01_300.mltemplate
 surfaces\materials\wood\wood_plain\wood_plain_plywood_01_300.mltemplate
+engine\materials\defaults\multilayer_default.mltemplate

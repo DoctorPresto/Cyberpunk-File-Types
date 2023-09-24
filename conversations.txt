@@ -17,8 +17,8 @@ open_world\scenes\conversations\conversation_groups\prostitutes.conversations
 open_world\scenes\conversations\conversation_groups\riots.conversations
 open_world\scenes\conversations\conversation_groups\ripperdoc.conversations
 open_world\scenes\conversations\conversation_groups\scavengers.conversations
-open_world\scenes\conversations\conversation_groups\street_security.conversations
 open_world\scenes\conversations\conversation_groups\streets_civilians.conversations
+open_world\scenes\conversations\conversation_groups\street_security.conversations
 open_world\scenes\conversations\conversation_groups\thanks.conversations
 open_world\scenes\conversations\conversation_groups\tyger_claw.conversations
 open_world\scenes\conversations\conversation_groups\valentinos.conversations

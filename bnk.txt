@@ -1,6 +1,4 @@
 sound\no_spatial\init.bnk
-sound\soundbanks\arch_nazare.bnk
-sound\soundbanks\arch_nazare_additional.bnk
 sound\soundbanks\archer_hella.bnk
 sound\soundbanks\archer_hella_additional.bnk
 sound\soundbanks\archer_hella_jacky.bnk
@@ -22,6 +20,8 @@ sound\soundbanks\archer_quartz_nomad.bnk
 sound\soundbanks\archer_quartz_nomad_additional.bnk
 sound\soundbanks\archer_quartz_nomad_reverb.bnk
 sound\soundbanks\archer_quartz_reverb.bnk
+sound\soundbanks\arch_nazare.bnk
+sound\soundbanks\arch_nazare_additional.bnk
 sound\soundbanks\brennan_cycles_apollo.bnk
 sound\soundbanks\brennan_cycles_apollo_additional.bnk
 sound\soundbanks\brennan_cycles_apollo_hellhound.bnk
@@ -120,8 +120,8 @@ sound\soundbanks\revb_interior_car.bnk
 sound\soundbanks\revb_interior_warehouse.bnk
 sound\soundbanks\revb_vo_focus_mode.bnk
 sound\soundbanks\sfx_container.bnk
-sound\soundbanks\test_veh.bnk
 sound\soundbanks\testconvo.bnk
+sound\soundbanks\test_veh.bnk
 sound\soundbanks\thorton_colby.bnk
 sound\soundbanks\thorton_colby_additional.bnk
 sound\soundbanks\thorton_colby_nomad.bnk

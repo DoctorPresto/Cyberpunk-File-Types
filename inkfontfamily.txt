@@ -16,3 +16,4 @@ gameplay\gui\fonts\foreign\thai\th_sarabun_new\th_sarabun_new.inkfontfamily
 gameplay\gui\fonts\industry\industry.inkfontfamily
 gameplay\gui\fonts\orbitron\orbitron.inkfontfamily
 gameplay\gui\fonts\raj\raj.inkfontfamily
+engine\ink\fonts\arial.inkfontfamily

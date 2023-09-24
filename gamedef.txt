@@ -76,6 +76,7 @@ media\quests\game_definition\q201_3_news_about_confrontation.gamedef
 media\quests\game_definition\sq004_01_nomads_clash.gamedef
 media\quests\game_definition\sq006_03_election_results_version_a.gamedef
 media\tv\test\recorder_test.gamedef
+open_world\open_world_test.gamedef
 open_world\combat_events\city_center\corpo_plaza\cpz_ce_living_city_pass\cpz_ce_living_city_01\cpz_ce_living_city_01.gamedef
 open_world\combat_events\santo_domingo\arroyo\arr_ce_living_city_pass\arr_ce_living_city_01\arr_ce_living_city_01.gamedef
 open_world\combat_events\santo_domingo\arroyo\arr_ce_living_city_pass\arr_ce_living_city_02\arr_ce_living_city_02.gamedef
@@ -88,10 +89,10 @@ open_world\combat_events\santo_domingo\rancho_coronado\rcr_ce_living_city_pass\r
 open_world\combat_events\santo_domingo\rancho_coronado\rcr_ce_living_city_pass\rcr_ce_living_city_02\rcr_ce_living_city_02.gamedef
 open_world\community\badlands\inland_avenue\bad_ina_se1_test_def.gamedef
 open_world\community\badlands\inland_avenue\bad_ina_se5_test_def.gamedef
+open_world\community\city_centre\pop_cct_def.gamedef
 open_world\community\city_centre\corpo_plaza\pop_cct_cpz_def.gamedef
 open_world\community\city_centre\downtown\cct_dtn_def.gamedef
 open_world\community\city_centre\downtown\cct_dtn_testdef.gamedef
-open_world\community\city_centre\pop_cct_def.gamedef
 open_world\community\e3_2018\e3_2018.gamedef
 open_world\community\e3_2018\e3_diner.gamedef
 open_world\community\e3_2018\e3_elevator_traffic.gamedef
@@ -110,6 +111,7 @@ open_world\community\santo_domingo\arroyo\std_arr_testdef.gamedef
 open_world\community\santo_domingo\rancho_coronado\std_rcr_def.gamedef
 open_world\community\santo_domingo\rancho_coronado\test_definitions\std_rcr_01_test.gamedef
 open_world\community\santo_domingo\rancho_coronado\test_definitions\sts_rcr_02_test.gamedef
+open_world\community\watson\pop_wat_def.gamedef
 open_world\community\watson\arasaka_waterfront\pop_wat_awf_def.gamedef
 open_world\community\watson\kabuki\wat_kab_def.gamedef
 open_world\community\watson\kabuki\wat_kab_testdef.gamedef
@@ -118,7 +120,6 @@ open_world\community\watson\little_china\wat_lch_prolog_ow_test.gamedef
 open_world\community\watson\little_china\wat_lch_testdef.gamedef
 open_world\community\watson\northside\pop_wat_nid_def.gamedef
 open_world\community\watson\northside\wat_nid_def.gamedef
-open_world\community\watson\pop_wat_def.gamedef
 open_world\community\westbrook\charter_hill\wbr_hil_com_test.gamedef
 open_world\community\westbrook\charter_hill\wbr_hil_com_test_03_02.gamedef
 open_world\district_definitions\open_world_kabuki.gamedef
@@ -229,6 +230,7 @@ open_world\minor_activities\santo_domingo\arroyo\ma_std_arr_11\ma_std_arr_11.gam
 open_world\minor_activities\santo_domingo\arroyo\ma_std_arr_12\ma_std_arr_12.gamedef
 open_world\minor_activities\santo_domingo\arroyo\ma_std_arr_13\ma_std_arr_13.gamedef
 open_world\minor_activities\santo_domingo\arroyo\ma_std_arr_14\ma_std_arr_14.gamedef
+open_world\minor_activities\santo_domingo\rancho_coronado\rancho_coronado_minor_activities.gamedef
 open_world\minor_activities\santo_domingo\rancho_coronado\ma_std_rcr_01\ma_std_rcr_01.gamedef
 open_world\minor_activities\santo_domingo\rancho_coronado\ma_std_rcr_02\ma_std_rcr_02.gamedef
 open_world\minor_activities\santo_domingo\rancho_coronado\ma_std_rcr_03\ma_std_rcr_03.gamedef
@@ -247,7 +249,6 @@ open_world\minor_activities\santo_domingo\rancho_coronado\ma_std_rcr_15\ma_std_r
 open_world\minor_activities\santo_domingo\rancho_coronado\ma_std_rcr_16\ma_std_rcr_16.gamedef
 open_world\minor_activities\santo_domingo\rancho_coronado\ma_std_rcr_17\ma_std_rcr_17.gamedef
 open_world\minor_activities\santo_domingo\rancho_coronado\ma_std_rcr_18\ma_std_rcr_18.gamedef
-open_world\minor_activities\santo_domingo\rancho_coronado\rancho_coronado_minor_activities.gamedef
 open_world\minor_activities\watson\kabuki\ma_wat_kab_02\ma_wat_kab_02.gamedef
 open_world\minor_activities\watson\kabuki\ma_wat_kab_08\ma_wat_kab_08_def.gamedef
 open_world\minor_activities\watson\little_china\ma_wat_lch_01\ma_wat_ich_01.gamedef
@@ -320,7 +321,6 @@ open_world\minor_activities\westbrook\north_oak\ma_wbr_nok_02\ma_wbr_nok_02.game
 open_world\minor_activities\westbrook\north_oak\ma_wbr_nok_03\ma_wbr_nok_03.gamedef
 open_world\minor_activities\westbrook\north_oak\ma_wbr_nok_04\ma_wbr_nok_04.gamedef
 open_world\minor_activities\westbrook\north_oak\ma_wbr_nok_05\ma_wbr_nok_05.gamedef
-open_world\open_world_test.gamedef
 open_world\police_system\police_system_test.gamedef
 open_world\scenes\dancefloors\dancefloors.gamedef
 open_world\scenes\mirrors\mirror_scene_test.gamedef
@@ -353,6 +353,7 @@ open_world\street_stories\city_center\downtown\sts_cct_dtn_04\sts_cct_dtn_04.gam
 open_world\street_stories\city_center\downtown\sts_cct_dtn_04\sts_cct_dtn_04_test_world.gamedef
 open_world\street_stories\city_center\downtown\sts_cct_dtn_05\sts_cct_dtn_05.gamedef
 open_world\street_stories\city_center\downtown\sts_cct_dtn_05\sts_cct_dtn_05_test.gamedef
+open_world\street_stories\heywood\glenn\sts_hey_glenn_test.gamedef
 open_world\street_stories\heywood\glenn\sts_hey_gle_01\sts_hey_gle_01.gamedef
 open_world\street_stories\heywood\glenn\sts_hey_gle_03\sts_hey_gle_03_gamedef.gamedef
 open_world\street_stories\heywood\glenn\sts_hey_gle_04\sts_hey_gle_04_gamedef.gamedef
@@ -361,7 +362,6 @@ open_world\street_stories\heywood\glenn\sts_hey_gle_05\sts_hey_gle_05.gamedef
 open_world\street_stories\heywood\glenn\sts_hey_gle_05\sts_hey_gle_05_test_def.gamedef
 open_world\street_stories\heywood\glenn\sts_hey_gle_06\sts_hey_gle_06.gamedef
 open_world\street_stories\heywood\glenn\sts_hey_gle_06\sts_hey_gle_06_test.gamedef
-open_world\street_stories\heywood\glenn\sts_hey_glenn_test.gamedef
 open_world\street_stories\heywood\vista_del_rey\sts_hey_rey_01\sts_hey_rey_01.gamedef
 open_world\street_stories\heywood\vista_del_rey\sts_hey_rey_01\sts_hey_rey_01_test.gamedef
 open_world\street_stories\heywood\vista_del_rey\sts_hey_rey_02\sts_hey_rey_02.gamedef
@@ -380,8 +380,8 @@ open_world\street_stories\heywood\wellsprings\sts_hey_spr_06\sts_hey_spr_06.game
 open_world\street_stories\heywood\wellsprings\sts_hey_spr_06\sts_hey_spr_06_nc.gamedef
 open_world\street_stories\pacifica\coastview\sts_pac_cvi_02\sts_pac_cvi_02.gamedef
 open_world\street_stories\pacifica\coastview\sts_pac_cvi_02\sts_pac_cvi_02_test.gamedef
-open_world\street_stories\pacifica\west_wind_estates\sts_pac_wwd_05\sts_pac_wwd_05_def_testworld.gamedef
 open_world\street_stories\pacifica\west_wind_estates\sts_pac_wwd_05\sts_pac_wwd_05_definition.gamedef
+open_world\street_stories\pacifica\west_wind_estates\sts_pac_wwd_05\sts_pac_wwd_05_def_testworld.gamedef
 open_world\street_stories\santo_domingo\arroyo\sts_std_arr_01\sts_std_arr_01.gamedef
 open_world\street_stories\santo_domingo\arroyo\sts_std_arr_01\sts_std_arr_01_test.gamedef
 open_world\street_stories\santo_domingo\arroyo\sts_std_arr_03\sts_std_arr_03.gamedef
@@ -394,8 +394,8 @@ open_world\street_stories\santo_domingo\arroyo\sts_std_arr_11\sts_std_arr_11_gam
 open_world\street_stories\santo_domingo\arroyo\sts_std_arr_11\sts_std_arr_11_gamedef_test.gamedef
 open_world\street_stories\santo_domingo\arroyo\sts_std_arr_12\sts_std_arr_12.gamedef
 open_world\street_stories\santo_domingo\rancho_corronado\sts_std_rcr_01\sts_std_rcr_01_nc_def.gamedef
-open_world\street_stories\santo_domingo\rancho_corronado\sts_std_rcr_02\sts_std_rcr_02_def_testworld.gamedef
 open_world\street_stories\santo_domingo\rancho_corronado\sts_std_rcr_02\sts_std_rcr_02_definition.gamedef
+open_world\street_stories\santo_domingo\rancho_corronado\sts_std_rcr_02\sts_std_rcr_02_def_testworld.gamedef
 open_world\street_stories\santo_domingo\rancho_corronado\sts_std_rcr_03\sts_srd_rcr_03.gamedef
 open_world\street_stories\santo_domingo\rancho_corronado\sts_std_rcr_03\sts_std_rcr_03_test_world.gamedef
 open_world\street_stories\santo_domingo\rancho_corronado\sts_std_rcr_04\sts_std_rcr_04_def.gamedef
@@ -411,10 +411,10 @@ open_world\street_stories\watson\kabuki\sts_wat_kab_02\sts_wat_kab_02_def.gamede
 open_world\street_stories\watson\kabuki\sts_wat_kab_02\sts_wat_kab_02_test_def.gamedef
 open_world\street_stories\watson\kabuki\sts_wat_kab_03\sts_wat_kab_03_definition.gamedef
 open_world\street_stories\watson\kabuki\sts_wat_kab_03\sts_wat_kab_03_testworld_def.gamedef
-open_world\street_stories\watson\kabuki\sts_wat_kab_04\definitions\sts_wat_kab_04_penthouse_def.gamedef
 open_world\street_stories\watson\kabuki\sts_wat_kab_04\sts_wat_kab_04.gamedef
 open_world\street_stories\watson\kabuki\sts_wat_kab_04\sts_wat_kab_04_final_scene_test.gamedef
 open_world\street_stories\watson\kabuki\sts_wat_kab_04\sts_wat_kab_04_test.gamedef
+open_world\street_stories\watson\kabuki\sts_wat_kab_04\definitions\sts_wat_kab_04_penthouse_def.gamedef
 open_world\street_stories\watson\kabuki\sts_wat_kab_05\sts_wat_kab_05.gamedef
 open_world\street_stories\watson\kabuki\sts_wat_kab_05\sts_wat_kab_05_nc.gamedef
 open_world\street_stories\watson\kabuki\sts_wat_kab_05\sts_wat_kab_05_testdef.gamedef
@@ -499,11 +499,11 @@ quest\main_quests\part1\q101\test\profiling\q101_hammer_club_backalley_helipad.g
 quest\main_quests\part1\q101\test\profiling\q101_hammer_club_concert.gamedef
 quest\main_quests\part1\q103\q103.gamedef
 quest\main_quests\part1\q104\q104.gamedef
+quest\main_quests\part1\q105\q105_main.gamedef
 quest\main_quests\part1\q105\definitions\q105_braindance.gamedef
 quest\main_quests\part1\q105\definitions\q105_dollhouse.gamedef
 quest\main_quests\part1\q105\definitions\q105_fingers.gamedef
 quest\main_quests\part1\q105\definitions\q105_jigjig.gamedef
-quest\main_quests\part1\q105\q105_main.gamedef
 quest\main_quests\part1\q108\q108_johnny.gamedef
 quest\main_quests\part1\q108\tests\profiling\q108_hammer_club_backalley.gamedef
 quest\main_quests\part1\q108\tests\profiling\q108_hammer_club_sex_alt.gamedef
@@ -549,7 +549,6 @@ quest\main_quests\prologue\q000\test\q000_vr_lobby_replacer.gamedef
 quest\main_quests\prologue\q000\test\q000_vr_tutorial.gamedef
 quest\main_quests\prologue\q000\test\q000_vr_tutorial_replacer.gamedef
 quest\main_quests\prologue\q001\q001.gamedef
-quest\main_quests\prologue\q001\test\ncw\ncw_guns_recording_gamedef.gamedef
 quest\main_quests\prologue\q001\test\q001_04c_boxing_match.gamedef
 quest\main_quests\prologue\q001\test\q001_epilog_house.gamedef
 quest\main_quests\prologue\q001\test\q001_maxtac_scene.gamedef
@@ -562,24 +561,25 @@ quest\main_quests\prologue\q001\test\q001_ride_to_mb.gamedef
 quest\main_quests\prologue\q001\test\q001_ripperdoc.gamedef
 quest\main_quests\prologue\q001\test\q001_scav_drive_perf_test.gamedef
 quest\main_quests\prologue\q001\test\q001_v_room.gamedef
+quest\main_quests\prologue\q001\test\ncw\ncw_guns_recording_gamedef.gamedef
 quest\main_quests\prologue\q003\q003.gamedef
 quest\main_quests\prologue\q004\lizzies_club\lizzies_test.gamedef
-quest\main_quests\prologue\q004\tests\profiling\q004_yorinobu_bd.gamedef
 quest\main_quests\prologue\q004\tests\q004_braindance_tutorial.gamedef
-quest\main_quests\prologue\q005\afterlife\temp\afterlife_testing.gamedef
+quest\main_quests\prologue\q004\tests\profiling\q004_yorinobu_bd.gamedef
 quest\main_quests\prologue\q005\q005_heist.gamedef
-quest\main_quests\prologue\q005\test\profiling\q005_combat_floor.gamedef
-quest\main_quests\prologue\q005\test\profiling\q005_konpeki_parking_lot.gamedef
+quest\main_quests\prologue\q005\afterlife\temp\afterlife_testing.gamedef
 quest\main_quests\prologue\q005\test\q005_02_cab_ride.gamedef
 quest\main_quests\prologue\q005\test\q005_03_outside.gamedef
-quest\main_quests\prologue\q005\test\q005_04_undercover.gamedef
 quest\main_quests\prologue\q005\test\q005_04b_server.gamedef
+quest\main_quests\prologue\q005\test\q005_04_undercover.gamedef
 quest\main_quests\prologue\q005\test\q005_05_courier.gamedef
 quest\main_quests\prologue\q005\test\q005_060708_escape.gamedef
 quest\main_quests\prologue\q005\test\q005_09_no_tell.gamedef
 quest\main_quests\prologue\q005\test\q005_chase.gamedef
 quest\main_quests\prologue\q005\test\q005_gameplay_review.gamedef
 quest\main_quests\prologue\q005\test\q005_spiderbot_test.gamedef
+quest\main_quests\prologue\q005\test\profiling\q005_combat_floor.gamedef
+quest\main_quests\prologue\q005\test\profiling\q005_konpeki_parking_lot.gamedef
 quest\minor_quests\mq000\mq000.gamedef
 quest\minor_quests\mq000\mq000_thank_you.gamedef
 quest\minor_quests\mq001\mq001.gamedef
@@ -606,8 +606,8 @@ quest\minor_quests\mq021\mq021.gamedef
 quest\minor_quests\mq022\mq022.gamedef
 quest\minor_quests\mq023\mq023_bootleg.gamedef
 quest\minor_quests\mq024\mq024.gamedef
-quest\minor_quests\mq025\batty\batty_definition.gamedef
 quest\minor_quests\mq025\mq025_psycho_brawl.gamedef
+quest\minor_quests\mq025\batty\batty_definition.gamedef
 quest\minor_quests\mq026\mq026.gamedef
 quest\minor_quests\mq027\mq027.gamedef
 quest\minor_quests\mq028\mq028.gamedef
@@ -667,3 +667,4 @@ streaming\test\gamedefs\test_nc_little_china_ow.gamedef
 streaming\test\gamedefs\test_nc_v_walking.gamedef
 streaming\test\gamedefs\test_sq_024_city_center.gamedef
 streaming\test\gamedefs\test_sq_024_city_center_ow.gamedef
+dlc\dlc6_apart\test\dlc6_apart_test.gamedef
