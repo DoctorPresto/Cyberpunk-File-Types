@@ -1,3 +1,4 @@
+gameplay\smart_objects\vehiclecovers.smartobjects
 worlds\03_night_city\sectors\_generated\all.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-001_-001_-001.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-001_-001_0000.smartobjects
@@ -358,6 +359,7 @@ worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-008_-009_0000
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-008_-010_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-008_-011_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-008_-012_0000.smartobjects
+worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-008_-015_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-008_-020_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-008_-021_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-008_-027_0000.smartobjects
@@ -414,6 +416,7 @@ worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-009_-009_0000
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-009_-010_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-009_-011_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-009_-012_0000.smartobjects
+worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-009_-015_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-009_-023_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-009_-027_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-009_-032_0000.smartobjects
@@ -633,6 +636,7 @@ worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-013_-011_0000
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-013_-012_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-013_-013_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-013_-014_0000.smartobjects
+worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-013_-015_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-013_-033_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-013_0000_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-013_0001_0000.smartobjects
@@ -769,6 +773,7 @@ worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-016_-017_0000
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-016_-018_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-016_-019_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-016_-027_0000.smartobjects
+worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-016_-031_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-016_0000_-001.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-016_0000_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-016_0001_0000.smartobjects
@@ -827,6 +832,7 @@ worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-020_-031_0000
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-021_-030_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-021_-031_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-021_-043_0000.smartobjects
+worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-022_-025_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-022_-026_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-022_-030_0000.smartobjects
 worlds\03_night_city\sectors\_generated\smartobjects\resources\so_-025_-041_0000.smartobjects

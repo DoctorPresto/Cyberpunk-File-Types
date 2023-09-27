@@ -40,6 +40,7 @@ gameplay\community\crowd_settings.csv
 gameplay\community\population_preload_console.csv
 gameplay\community\population_preload_console_pro.csv
 gameplay\community\population_settings.csv
+gameplay\community\population_settings_per_area.csv
 gameplay\curves\difficulty_curves_mapping.csv
 gameplay\curves\ai\tbh_weapon_type_distance_mults.csv
 gameplay\curves\ai\tbh_weapon_type_visibility_mults.csv
@@ -97,9 +98,11 @@ gameplay\game_effects\static_effects.csv
 gameplay\onscreens\categories.csv
 gameplay\smart_objects\metrics.csv
 gameplay\static_data\dataenums.csv
+quest\sts_recovery.csv
 quest\telemetry\explicit_end_rewards.csv
 quest\telemetry\important_quest_facts.csv
 quest\telemetry\vr_tutorial_facts.csv
+quest\telemetry\custom_fact_tracker\custom_facts.csv
 systems\game_systems_startup.csv
 vehicles\base_types_map.csv
 vehicles\categories.csv
@@ -111,6 +114,7 @@ weapons\weapon_parts_base_types_map.csv
 weapons\weapon_parts_parts.csv
 engine\animation\anim_controller_presets.csv
 engine\animation\controllers_setups.csv
+engine\animation\game_to_editor_player_entity_map.csv
 engine\materials\textureautobind.csv
 engine\misc\focus_entities.csv
 engine\misc\playgo_chunks.csv

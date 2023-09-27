@@ -38,6 +38,7 @@ gameplay\gui\world\ripperdoc\poor\preview.dtex
 items\quest\q000__misc\q000_corpo_live_feed_texture.dtex
 media\tv\entities\texture_from_camera.dtex
 media\tv\entities\streaming_cameras\streaming_camera_dynamic_texture.dtex
+open_world\mini_world_stories\badlands\se5\mws_se5_03\ui\mws_se5_03_main_camera_texture.dtex
 quest\main_quests\part1\q112\entities\hanako_screen\q112_hanako_screen_dynamic_texture.dtex
 quest\main_quests\prologue\q004\entities\hellman_scene_camera\q004_hellman_live_feed_texture.dtex
 quest\main_quests\prologue\q004\entities\streaming_camera\q004_bd_yorinobu_live_feed_texture.dtex

@@ -79,6 +79,7 @@ surfaces\materials\fabric\cotton_shirt\cotton_shirt_clean_01_30.mltemplate
 surfaces\materials\fabric\cotton_shirt\cotton_shirt_clean_02_30.mltemplate
 surfaces\materials\fabric\cotton_twill\cotton_twill_clean_01_30.mltemplate
 surfaces\materials\fabric\denim\denim_camo_01_30.mltemplate
+surfaces\materials\fabric\denim\denim_camo_02_30.mltemplate
 surfaces\materials\fabric\denim\denim_clean_01_30.mltemplate
 surfaces\materials\fabric\denim\denim_clean_02.mltemplate
 surfaces\materials\fabric\elastic\elastic_clean_01_30.mltemplate
@@ -133,6 +134,8 @@ surfaces\materials\graphics_logos\graphics_logos_001.mltemplate
 surfaces\materials\graphics_logos\graphics_logos_002.mltemplate
 surfaces\materials\graphics_logos\graphics_logos_003.mltemplate
 surfaces\materials\graphics_logos\sticker_bomb_01.mltemplate
+surfaces\materials\graphics_logos\tie_dye_01.mltemplate
+surfaces\materials\graphics_logos\tie_dye_02.mltemplate
 surfaces\materials\ground\dirt_universal\dirt_universal_01_300.mltemplate
 surfaces\materials\ground\soil_peat\soil_peat_coarse_01_100.mltemplate
 surfaces\materials\ground\soil_peat\soil_peat_fine_01_100.mltemplate

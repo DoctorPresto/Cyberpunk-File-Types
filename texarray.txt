@@ -3,5 +3,6 @@ fx\textures\braindance\braindance_noise3d_01\braindance_noise3d_01.texarray
 fx\textures\braindance\braindance_noise3d_02\braindance_noise3d_02.texarray
 fx\textures\braindance\braindance_noise3d_03\braindance_noise3d_03.texarray
 fx\textures\braindance\braindance_noise3d_05\braindance_noise3d_05.texarray
+fx\_textures\noise3d\cloud_fbm_noise3d_01\cloud_fbm_noise3d_01.texarray
 engine\textures\noise\bluenoise_64_rg.texarray
 engine\textures\noise\noise3d.texarray

@@ -5,8 +5,10 @@ characters\common\eyes\gradient_profiles\eye_blue_light_2.gradient
 characters\common\eyes\gradient_profiles\eye_blue_mid.gradient
 characters\common\eyes\gradient_profiles\eye_blue_neon.gradient
 characters\common\eyes\gradient_profiles\eye_brown.gradient
+characters\common\eyes\gradient_profiles\eye_brown_green.gradient
 characters\common\eyes\gradient_profiles\eye_brown_light.gradient
 characters\common\eyes\gradient_profiles\eye_brown_mid.gradient
+characters\common\eyes\gradient_profiles\eye_brown_saturated.gradient
 characters\common\eyes\gradient_profiles\eye_green.gradient
 characters\common\eyes\gradient_profiles\eye_green_light.gradient
 characters\common\eyes\gradient_profiles\eye_green_mid.gradient
@@ -19,6 +21,7 @@ characters\common\eyes\gradient_profiles\eye_white.gradient
 characters\common\eyes\gradient_profiles\eye_yellow.gradient
 characters\common\eyes\gradient_profiles\eye_yellow_light.gradient
 characters\common\eyes\gradient_profiles\eye_yellow_mid.gradient
+environment\vegetation\foliage_gradiends\creeper_dry.gradient
 environment\vegetation\foliage_gradients\desert_dry.gradient
 environment\vegetation\foliage_gradients\desert_green.gradient
 environment\vegetation\foliage_gradients\desert_green_2.gradient

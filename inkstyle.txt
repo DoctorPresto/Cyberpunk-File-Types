@@ -33,7 +33,9 @@ gameplay\gui\common\themes\main_colors_alt_color.inkstyle
 gameplay\gui\common\themes\main_colors_colorblind_deuteranopia.inkstyle
 gameplay\gui\common\themes\main_colors_colorblind_protanopia.inkstyle
 gameplay\gui\common\themes\main_colors_colorblind_tritanopia.inkstyle
+gameplay\gui\common\themes\main_colors_imprint.inkstyle
 gameplay\gui\common\themes\main_colors_johnny.inkstyle
+gameplay\gui\common\themes\main_colors_kurt.inkstyle
 gameplay\gui\common\themes\main_colors_possessed.inkstyle
 gameplay\gui\common\themes\main_colors_theme_sample.inkstyle
 gameplay\gui\common\tooltip\tooltip.inkstyle
@@ -44,6 +46,8 @@ gameplay\gui\common\tooltip\tooltip_style.inkstyle
 gameplay\gui\fullscreen\fullscreen_main_colors.inkstyle
 gameplay\gui\fullscreen\codex\codex_style.inkstyle
 gameplay\gui\fullscreen\crafting\crafting_style.inkstyle
+gameplay\gui\fullscreen\credits\credits_ep1.inkstyle
+gameplay\gui\fullscreen\dlc\patch_notes.inkstyle
 gameplay\gui\fullscreen\dlc\assets\dlc_content.inkstyle
 gameplay\gui\fullscreen\hacking_minigame\hacking_minigame_colors.inkstyle
 gameplay\gui\fullscreen\hacking_minigame\hacking_minigame_style.inkstyle
@@ -52,7 +56,9 @@ gameplay\gui\fullscreen\inventory\backpack_style.inkstyle
 gameplay\gui\fullscreen\inventory\inventory_style.inkstyle
 gameplay\gui\fullscreen\inventory\assets\inventory_button.inkstyle
 gameplay\gui\fullscreen\main_menu\character_creation.inkstyle
+gameplay\gui\fullscreen\main_menu\gog_popup_style.inkstyle
 gameplay\gui\fullscreen\main_menu\load_game_menu.inkstyle
+gameplay\gui\fullscreen\perks\new_perks_style.inkstyle
 gameplay\gui\fullscreen\perks\perks_style.inkstyle
 gameplay\gui\fullscreen\perks\perks_style_colors.inkstyle
 gameplay\gui\fullscreen\perks\perks_tabs.inkstyle
@@ -67,6 +73,7 @@ gameplay\gui\fullscreen\wardrobe\wardrobe_style.inkstyle
 gameplay\gui\fullscreen\world_map\world_map_style.inkstyle
 gameplay\gui\quests\assets\briefing.inkstyle
 gameplay\gui\quests\assets\q115_health_stats_ripperdoc_monitor.inkstyle
+gameplay\gui\widgets\ammo_counter\ammo_counter.inkstyle
 gameplay\gui\widgets\braindance\braindance_style.inkstyle
 gameplay\gui\widgets\camera_hud\cctv_hud.inkstyle
 gameplay\gui\widgets\connected_devices\connected_devices_style.inkstyle
@@ -80,12 +87,14 @@ gameplay\gui\widgets\crosshair\scopes\kanetsugu\kanetsugu.inkstyle
 gameplay\gui\widgets\crosshair\scopes\kyubi\kyubi.inkstyle
 gameplay\gui\widgets\crosshair\scopes\pozhar\pozhar.inkstyle
 gameplay\gui\widgets\crosshair\scopes\senkoh_lx\senkoh_scope.inkstyle
+gameplay\gui\widgets\cyberware_breach\cyberware_breach_style.inkstyle
 gameplay\gui\widgets\damage_digits\damage_digits.inkstyle
 gameplay\gui\widgets\damage_indicator\style_damage_indicator.inkstyle
 gameplay\gui\widgets\dpad_hint\dpad_style.inkstyle
 gameplay\gui\widgets\healthbar\barscolors.inkstyle
 gameplay\gui\widgets\healthbar\nameplatecolors.inkstyle
 gameplay\gui\widgets\healthbar\playerhealthbar_style.inkstyle
+gameplay\gui\widgets\hud_progress_bar\progress_bar.inkstyle
 gameplay\gui\widgets\interactions\contacts.inkstyle
 gameplay\gui\widgets\interactions\dialogchoicesstyle.inkstyle
 gameplay\gui\widgets\interactions\looting_style.inkstyle
@@ -105,6 +114,7 @@ gameplay\gui\widgets\quests\quest.inkstyle
 gameplay\gui\widgets\quickhacks\quickhack_style.inkstyle
 gameplay\gui\widgets\radial_wheel\radial_styles.inkstyle
 gameplay\gui\widgets\scanning\scanning_style.inkstyle
+gameplay\gui\widgets\staminabar\staminabar_style.inkstyle
 gameplay\gui\widgets\stepper\stepper_style.inkstyle
 gameplay\gui\widgets\time_skip\time_skip.inkstyle
 gameplay\gui\widgets\vehicle\arch\arch_regular.inkstyle
@@ -125,6 +135,7 @@ gameplay\gui\widgets\vehicle\porsche\porsche_stylesheet.inkstyle
 gameplay\gui\widgets\vehicle\quadra\quadra_regular.inkstyle
 gameplay\gui\widgets\vehicle\quadra\type66_nomad_stylesheet.inkstyle
 gameplay\gui\widgets\vehicle\rayfield\rayfield_regular.inkstyle
+gameplay\gui\widgets\vehicle\thorton_all\merrimac_ui.inkstyle
 gameplay\gui\widgets\vehicle\thorton_all\thorton_styles.inkstyle
 gameplay\gui\widgets\vehicle\villefort\villefort_delamain.inkstyle
 gameplay\gui\widgets\vehicle\villefort\villefort_luxury.inkstyle
@@ -133,12 +144,15 @@ gameplay\gui\widgets\vehicle\v_standard2_thorton_galena\thorton_styles.inkstyle
 gameplay\gui\widgets\vehicle\v_standard2_thorton_galena\thorton_stylesheet_gt.inkstyle
 gameplay\gui\widgets\vehicle\v_standard2_thorton_galena\thorton_stylesheet_nomad.inkstyle
 gameplay\gui\widgets\vehicle\v_standard2_thorton_galena\thorton_stylesheet_regular.inkstyle
+gameplay\gui\widgets\vehicle_control\vehicles.inkstyle
+gameplay\gui\widgets\wanted\colors_wanted.inkstyle
 gameplay\gui\world\action_button_base.inkstyle
 gameplay\gui\world\computers\computer.inkstyle
 gameplay\gui\world\computers\computer_acitve.inkstyle
 gameplay\gui\world\data_terms\data_term.inkstyle
 gameplay\gui\world\drop_point\drop_point_style.inkstyle
 gameplay\gui\world\intercom\call_button_styles.inkstyle
+gameplay\gui\world\internet\templates\vehicles\vehicle_website_style.inkstyle
 gameplay\gui\world\radio\radio_ui.inkstyle
 gameplay\gui\world\ripperdoc\poor\ripperdoc_poor.inkstyle
 gameplay\gui\world\routers\router.inkstyle

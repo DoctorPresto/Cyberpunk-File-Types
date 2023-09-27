@@ -1,4 +1,5 @@
 environment\vegetation\foliage_profiles\canary_palm.fp
+environment\vegetation\foliage_profiles\creeper_dry.fp
 environment\vegetation\foliage_profiles\debris_city.fp
 environment\vegetation\foliage_profiles\debris_desert.fp
 environment\vegetation\foliage_profiles\ficus.fp
@@ -6,6 +7,7 @@ environment\vegetation\foliage_profiles\furniture.fp
 environment\vegetation\foliage_profiles\grass_desert.fp
 environment\vegetation\foliage_profiles\grass_desert_green.fp
 environment\vegetation\foliage_profiles\grass_lawn.fp
+environment\vegetation\foliage_profiles\grass_lawn_dry.fp
 environment\vegetation\foliage_profiles\grass_stipa.fp
 environment\vegetation\foliage_profiles\grass_stipa_dry.fp
 environment\vegetation\foliage_profiles\grass_stipa_green.fp

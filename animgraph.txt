@@ -210,6 +210,7 @@ characters\main_npc\weyland\i1_004_ma_slot__weyland_pouch.animgraph
 characters\main_npc\weyland\t2_001_ma_vest__weyland.animgraph
 characters\main_npc\wilson\wilson_dangle.animgraph
 characters\main_npc\yorinobu_arasaka\t2_001_ma_dress__yourinobu_arasaka_cloth_simulation.animgraph
+dependencies\vehicles\special\av_zetatech_surveyor\av_zetatech_surveyor_01__basic_01_anim_graph_ep1.animgraph
 gameplay\anim_graphs\cat.animgraph
 gameplay\anim_graphs\cat_locomotion.animgraph
 gameplay\anim_graphs\cinematics_props.animgraph
@@ -233,6 +234,7 @@ gameplay\anim_graphs\player_adhoc.animgraph
 gameplay\anim_graphs\player_base.animgraph
 gameplay\anim_graphs\player_carrying.animgraph
 gameplay\anim_graphs\player_consumable.animgraph
+gameplay\anim_graphs\player_felled.animgraph
 gameplay\anim_graphs\player_grenade.animgraph
 gameplay\anim_graphs\player_inspection.animgraph
 gameplay\anim_graphs\player_interaction.animgraph
@@ -253,6 +255,7 @@ gameplay\anim_graphs\devices\2077_animated.animgraph
 gameplay\anim_graphs\devices\airlock_doors.animgraph
 gameplay\anim_graphs\devices\antenna.animgraph
 gameplay\anim_graphs\devices\braindance_headset.animgraph
+gameplay\anim_graphs\devices\bunker_door.animgraph
 gameplay\anim_graphs\devices\camera_graph.animgraph
 gameplay\anim_graphs\devices\car_lift.animgraph
 gameplay\anim_graphs\devices\ceiling_camera_1.animgraph
@@ -281,6 +284,7 @@ gameplay\anim_graphs\devices\security_turret_maxtac.animgraph
 gameplay\anim_graphs\devices\security_turret_talon_gyro_1.animgraph
 gameplay\anim_graphs\devices\single_door.animgraph
 gameplay\anim_graphs\devices\sliding_ladder.animgraph
+gameplay\anim_graphs\devices\sniper_nest_device.animgraph
 gameplay\anim_graphs\devices\speaker_membrane.animgraph
 gameplay\anim_graphs\devices\targetingcomponent_template.animgraph
 gameplay\anim_graphs\devices\trap_falling_crates.animgraph
@@ -301,6 +305,7 @@ items\interactive\electronics\int_electronics_002__wires\int_electronics_002__wi
 items\interactive\misc\int_misc_002__dashi_carp_holo_sphere\int_misc_002__dashi_carp_holo_sphere.animgraph
 mechanical\android\ndr_001__chasis_ma\ndr_001__chasis_ma_deformations_rig.animgraph
 mechanical\mech\mch_002__centaur\connect_npc_to_parent.animgraph
+open_world\mini_world_stories\badlands\se5\mws_se5_03\misc\mws_se5_03_player_graph.animgraph
 quest\main_quests\part1\q108\fx\cinematics_props.animgraph
 quest\main_quests\part1\q112\test\q112_background_animgraph.animgraph
 quest\main_quests\part1\q112\test\q112_background_animgraph_02.animgraph
@@ -347,6 +352,8 @@ vehicles\base_rig\v_base_x4_412_156_47\v_base_x4_412_156_47.animgraph
 vehicles\base_rig\v_base_x4_413_176_50\v_base_x4_413_176_50.animgraph
 vehicles\base_rig\v_base_x4_450_250_60\v_base_x4_450_250_60.animgraph
 vehicles\base_rig\v_base_x4_700_320_120\v_base_x4_700_320_120.animgraph
+vehicles\base_rig\v_base_x6_364_166_51\v_base_x6_364_166_51.animgraph
+vehicles\base_rig\v_base_x6_403_184_55\v_base_x6_403_184_55.animgraph
 vehicles\base_rig\v_base_x6_444_180_44\v_base_x6_444_180_44.animgraph
 vehicles\base_rig\v_base_x6_479_237_77\v_base_x6_479_237_77.animgraph
 vehicles\base_rig\v_base_x6_530_220_85\v_base_x6_530_220_85.animgraph
@@ -388,6 +395,7 @@ vehicles\common\parts\placeables\bobble_head_01\bobble_head_01_vdog_quadra_turbo
 vehicles\special\av_militech_manticore\rig\av_militech_manticore_01__basic_01_anim_graph.animgraph
 vehicles\special\av_rayfield_excalibur\rig\av_rayfield_excalibur_01__basic_01_anim_graph.animgraph
 vehicles\special\av_zetatech_atlus\rig\av_zetatech_atlus_02__basic_01_anim_graph.animgraph
+vehicles\special\av_zetatech_surveyor\av_zetatech_surveyor_01__basic_01_anim_graph_prevention.animgraph
 vehicles\special\av_zetatech_surveyor\rig\av_zetatech_surveyor_01__basic_01_anim_graph.animgraph
 vehicles\special\av_zetatech_valgus\rig\av_zetatech_valgus_01__basic_01_anim_graph.animgraph
 vehicles\special\v_kaukaz_z71_aras\gameplay\aras_anim_graph.animgraph

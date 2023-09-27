@@ -1,4 +1,5 @@
 fx\characters\npc\_common\status_effects\suicide\ch_status_effect_suicide_gun_npc.es
+fx\gameplay\perks\effects_perks.es
 gameplay\combat_gadgets\grenades\nanowire_grenade\nanowire_grenade_effect.es
 gameplay\combat_gadgets\grenades\piercing_grenade\piercing_grenade_body_pierce_effect.es
 gameplay\combat_gadgets\grenades\piercing_grenade\piercing_grenade_explosion_effect.es
@@ -53,9 +54,11 @@ gameplay\game_effects\attack_effects\direct\direct_target_hit.es
 gameplay\game_effects\attack_effects\dots\damage_over_time.es
 gameplay\game_effects\attack_effects\explosions\explosions.es
 gameplay\game_effects\attack_effects\explosions\micro_generator_explosions.es
+gameplay\game_effects\attack_effects\explosions\minotaur_explosions.es
 gameplay\game_effects\attack_effects\explosions\oda_explosions.es
 gameplay\game_effects\attack_effects\explosions\royce_explosions.es
 gameplay\game_effects\attack_effects\explosions\sasquatch_explosions.es
+gameplay\game_effects\attack_effects\explosions\weapon_explosions.es
 gameplay\game_effects\attack_effects\melee\kicks.es
 gameplay\game_effects\attack_effects\melee\shields.es
 gameplay\game_effects\projectiles\cluster_bomb.es

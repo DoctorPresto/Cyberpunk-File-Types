@@ -84,11 +84,16 @@ worlds\03_night_city\sectors\_generated\foliage\sector128_x65_y68_z85.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x67_y69_z85.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x68_y30_z86.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x68_y69_z85.cfoliage
+worlds\03_night_city\sectors\_generated\foliage\sector128_x68_y80_z85.cfoliage
+worlds\03_night_city\sectors\_generated\foliage\sector128_x68_y81_z85.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x69_y32_z86.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x69_y69_z85.cfoliage
+worlds\03_night_city\sectors\_generated\foliage\sector128_x69_y80_z85.cfoliage
+worlds\03_night_city\sectors\_generated\foliage\sector128_x69_y81_z85.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x70_y30_z86.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x70_y66_z85.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x70_y68_z85.cfoliage
+worlds\03_night_city\sectors\_generated\foliage\sector128_x70_y68_z86.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x70_y69_z85.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x70_y86_z91.cfoliage
 worlds\03_night_city\sectors\_generated\foliage\sector128_x71_y31_z86.cfoliage

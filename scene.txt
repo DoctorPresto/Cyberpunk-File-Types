@@ -1,3 +1,6 @@
+animations\marketing\gifs\dodge\dodge_gif_01.scene
+animations\marketing\gifs\how_you_doing\how_you_doing_gif.scene
+animations\marketing\gifs\popcorn\popcorn_gif_01.scene
 cinematics\scene_blocks\sb_holocall_initializer.scene
 cinematics\scene_blocks\sb_holocall_initializer_audio.scene
 cinematics\scene_blocks\sb_holocall_npc_calling.scene
@@ -5,6 +8,7 @@ cinematics\scene_blocks\sb_holocall_player_calling.scene
 cinematics\scene_blocks\sb_johnny_disappear.scene
 cinematics\scene_blocks\sb_pause_delay.scene
 cinematics\scene_blocks\sb_scene_recorder_setup.scene
+cinematics\scene_blocks\sb_scene_ui.scene
 cinematics\scene_blocks\sb_skip_drive.scene
 cinematics\scene_blocks\sb_t4_end_breathing_effect.scene
 media\animated_billboards\scenes\ab_ad_caliente.scene
@@ -18,6 +22,7 @@ media\animated_billboards\scenes\ab_ad_slaughterhouse.scene
 media\animated_billboards\scenes\ab_ad_sojasil.scene
 media\animated_billboards\scenes\ab_ad_thrud.scene
 media\animated_billboards\scenes\ab_ad_tiancha.scene
+media\animated_billboards\scenes\ab_ad_vargas.scene
 media\animated_billboards\scenes\ab_ad_watson_whore.scene
 media\animated_billboards\scenes\ab_q003_01_all_foods_meat_ad.scene
 media\animated_billboards\scenes\ab_q004_01_lizzies_bar_ad.scene
@@ -40,6 +45,7 @@ media\animated_billboards\scenes\versions\gold\ab_ad_slaughterhouse.scene
 media\animated_billboards\scenes\versions\gold\ab_ad_sojasil.scene
 media\animated_billboards\scenes\versions\gold\ab_ad_thrud.scene
 media\animated_billboards\scenes\versions\gold\ab_ad_tiancha.scene
+media\animated_billboards\scenes\versions\gold\ab_ad_vargas.scene
 media\animated_billboards\scenes\versions\gold\ab_ad_watson_whore.scene
 media\animated_billboards\scenes\versions\gold\ab_q003_01_all_foods_meat_ad.scene
 media\animated_billboards\scenes\versions\gold\ab_q004_01_lizzies_bar_ad.scene
@@ -413,6 +419,7 @@ media\quests\scenes\versions\gold\sq031_01_bushido_x.scene
 media\radio\scenes\radio_00_news.scene
 media\radio\scenes\radio_01_conspiracy.scene
 media\radio\scenes\radio_02_police.scene
+media\radio\scenes\radio_growl.scene
 media\radio\scenes\versions\gold\radio_00_news.scene
 media\radio\scenes\versions\gold\radio_01_conspiracy.scene
 media\radio\scenes\versions\gold\radio_02_police.scene
@@ -498,14 +505,19 @@ open_world\fixers\wakako\scenes\wakako_okada_default.scene
 open_world\fixers\wakako\scenes\versions\gold\wakako_okada_default.scene
 open_world\fixers\wakako\scenes\versions\patch1_3\wakako_okada_default.scene
 open_world\mini_world_stories\badlands\se5\mws_se5_01\scenes\mws_se5_01.scene
+open_world\mini_world_stories\badlands\se5\mws_se5_03\scenes\mws_se5_03_arcade.scene
+open_world\mini_world_stories\city_center\mws_cc_01\scenes\mws_cc_01_vending_shock.scene
 open_world\mini_world_stories\heywood\mws_hey_01\scenes\mws_hey_01_follow.scene
 open_world\mini_world_stories\heywood\mws_hey_02\scenes\mws_hey_02_scene.scene
 open_world\mini_world_stories\heywood\mws_hey_04\scenes\mws_hey_04_rave.scene
 open_world\mini_world_stories\pacifica\mws_pac_01\scenes\mws_pac_01.scene
+open_world\mini_world_stories\pacifica\mws_pac_05\scenes\mws_pac_05.scene
 open_world\mini_world_stories\santo_domingo\mws_arr_01\scenes\mws_arr_01.scene
 open_world\mini_world_stories\watson\mws_wat_01\scenes\mws_wat_01.scene
 open_world\mini_world_stories\watson\mws_wat_02\scenes\mws_wat_02.scene
 open_world\mini_world_stories\watson\mws_wat_03\scenes\mws_wat_03_cop_lines.scene
+open_world\mini_world_stories\watson\mws_wat_08\scenes\mws_wat_08.scene
+open_world\mini_world_stories\westbrook\mws_wbr_01\scenes\mws_wbr_01.scene
 open_world\minor_activities\badlands\inland_avenue_se1\ma_bls_ina_07\scenes\ma_bls_ina_se1_07_brief.scene
 open_world\minor_activities\badlands\inland_avenue_se1\ma_bls_ina_07\scenes\versions\gold\ma_bls_ina_se1_07_brief.scene
 open_world\minor_activities\badlands\inland_avenue_se1\ma_bls_ina_07\test\ma_bls_ina_07_chicken.scene
@@ -917,6 +929,7 @@ open_world\scenes\chats\badlands\versions\patch1_3\bls_south_021.scene
 open_world\scenes\chats\badlands\versions\patch1_3\bls_south_022.scene
 open_world\scenes\chats\badlands\versions\patch1_3\bls_south_023.scene
 open_world\scenes\chats\badlands\versions\patch1_3\bls_south_024.scene
+open_world\scenes\chats\badlands\versions\patch1_5\bls_east_012.scene
 open_world\scenes\chats\charter_hill\wbr_hill_chat_001.scene
 open_world\scenes\chats\charter_hill\wbr_hill_chat_002.scene
 open_world\scenes\chats\charter_hill\wbr_hill_chat_003.scene
@@ -1448,6 +1461,7 @@ open_world\scenes\chats\coast_view\versions\patch1_3\pac_cvi_chat_013.scene
 open_world\scenes\chats\coast_view\versions\patch1_3\pac_cvi_chat_023.scene
 open_world\scenes\chats\coast_view\versions\patch1_3\pac_cvi_chat_029.scene
 open_world\scenes\chats\coast_view\versions\patch1_3\pac_cvi_chat_031.scene
+open_world\scenes\chats\coast_view\versions\patch1_5\pac_cvi_chat_013.scene
 open_world\scenes\chats\corpo_plaza\cct_cpz_chat_001.scene
 open_world\scenes\chats\corpo_plaza\cct_cpz_chat_002.scene
 open_world\scenes\chats\corpo_plaza\cct_cpz_chat_003.scene
@@ -3010,8 +3024,12 @@ open_world\scenes\mirrors\mirror_scene_abandoned_motel.scene
 open_world\scenes\mirrors\mirror_scene_afterlife.scene
 open_world\scenes\mirrors\mirror_scene_anthonys_bathroom.scene
 open_world\scenes\mirrors\mirror_scene_braindance_studio.scene
+open_world\scenes\mirrors\mirror_scene_claire_garage.scene
 open_world\scenes\mirrors\mirror_scene_dollhouse.scene
 open_world\scenes\mirrors\mirror_scene_el_cojote.scene
+open_world\scenes\mirrors\mirror_scene_ep1_pyramid.scene
+open_world\scenes\mirrors\mirror_scene_ep1_pyramid_malebathroom.scene
+open_world\scenes\mirrors\mirror_scene_ep1_spaceport.scene
 open_world\scenes\mirrors\mirror_scene_farmhouse.scene
 open_world\scenes\mirrors\mirror_scene_fingers.scene
 open_world\scenes\mirrors\mirror_scene_joss_trailer.scene
@@ -3179,6 +3197,8 @@ open_world\scenes\mirrors\versions\patch1_2\mirror_scene_sunset_panam.scene
 open_world\scenes\mirrors\versions\patch1_2\mirror_scene_sunset_single.scene
 open_world\scenes\mirrors\versions\patch1_2\mirror_scene_v_penthouse.scene
 open_world\scenes\mirrors\versions\patch1_3\mirror_scene_judys_apartment.scene
+open_world\scenes\mirrors\versions\patch1_5\mirror_scene_joss_trailer.scene
+open_world\scenes\ncpd_radio\ncpd_radio.scene
 open_world\scenes\prostitutes\test\prostitutes_chicken_test.scene
 open_world\scenes\prostitutes\test\versions\gold\prostitutes_chicken_test.scene
 open_world\scenes\sts_characters\aaron_mccarlson_default.scene
@@ -3881,14 +3901,17 @@ open_world\street_stories\westbrook\charter_hill\sts_wbr_hil_07\scenes\versions\
 open_world\street_stories\westbrook\charter_hill\sts_wbr_hil_07\scenes\versions\gold\sts_wbr_hil_07_holocall_prebrief.scene
 open_world\street_stories\westbrook\charter_hill\sts_wbr_hil_101\scenes\sts_wbr_hil_101_chats.scene
 open_world\street_stories\westbrook\charter_hill\sts_wbr_hil_101\scenes\versions\gold\sts_wbr_hil_101_chats.scene
+open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\sts_wbr_jpn_01_alex.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\sts_wbr_jpn_01_holocall_debriefs.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\sts_wbr_jpn_01_holocall_prebrief.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\sts_wbr_jpn_01_meeting_sergei.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\sts_wbr_jpn_01_tyger_claws.scene
+open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\versions\gold\sts_wbr_jpn_01_alex.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\versions\gold\sts_wbr_jpn_01_holocall_debriefs.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\versions\gold\sts_wbr_jpn_01_holocall_prebrief.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\versions\gold\sts_wbr_jpn_01_meeting_sergei.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\versions\gold\sts_wbr_jpn_01_tyger_claws.scene
+open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\versions\patch0\sts_wbr_jpn_01_alex.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_01\scenes\versions\patch1_2\sts_wbr_jpn_01_meeting_sergei.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_02\scenes\sts_wbr_jpn_02.scene
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_02\scenes\sts_wbr_jpn_02_holocall_debriefs.scene
@@ -5287,6 +5310,7 @@ quest\holocalls\joss\joss_holocall.scene
 quest\holocalls\joss\versions\gold\joss_holocall.scene
 quest\holocalls\judy\judy_holocall.scene
 quest\holocalls\judy\versions\gold\judy_holocall.scene
+quest\holocalls\karl_ginsky\karl_ginsky_holocall.scene
 quest\holocalls\kerry\kerry_holocall.scene
 quest\holocalls\kerry\versions\gold\kerry_holocall.scene
 quest\holocalls\kirk\kirk_holocall.scene
@@ -5322,6 +5346,7 @@ quest\holocalls\padre\padre_holocall.scene
 quest\holocalls\padre\versions\gold\padre_holocall.scene
 quest\holocalls\panam\panam_holocall.scene
 quest\holocalls\panam\versions\gold\panam_holocall.scene
+quest\holocalls\pedro_aimar\pedro_aimar_holocall.scene
 quest\holocalls\pepe\pepe_holocall.scene
 quest\holocalls\pepe\versions\gold\pepe_holocall.scene
 quest\holocalls\placide\placide_holocall.scene
@@ -5516,6 +5541,11 @@ quest\main_quests\part1\q101\scenes\versions\patch1_3\q101_06c_memories_backalle
 quest\main_quests\part1\q101\scenes\versions\patch1_3\q101_06c_memories_p2.scene
 quest\main_quests\part1\q101\scenes\versions\patch1_3\q101_07c_johnny_triggers.scene
 quest\main_quests\part1\q101\scenes\versions\patch1_3\q101_08_takemura_v_room.scene
+quest\main_quests\part1\q101\scenes\versions\patch1_5\q101_01_covered_in_trash.scene
+quest\main_quests\part1\q101\scenes\versions\patch1_5\q101_03_car_ride.scene
+quest\main_quests\part1\q101\scenes\versions\patch1_5\q101_06c_memories_p2.scene
+quest\main_quests\part1\q101\scenes\versions\patch1_5\q101_07c_johnny_triggers.scene
+quest\main_quests\part1\q101\scenes\versions\patch1_5\q101_07_ripperdoc.scene
 quest\main_quests\part1\q101\test\q101_00_chicken_test.scene
 quest\main_quests\part1\q101\test\versions\gold\q101_00_chicken_test.scene
 quest\main_quests\part1\q103\scenes\q103_02_afterlife_intro.scene
@@ -5708,6 +5738,7 @@ quest\main_quests\part1\q105\scenes\versions\patch1_2\q105_12a_braindance_voodoo
 quest\main_quests\part1\q105\scenes\versions\patch1_2\q105_12b_braindance_alt.scene
 quest\main_quests\part1\q105\scenes\versions\patch1_3\q105_03a_dollhouse_manager.scene
 quest\main_quests\part1\q105\scenes\versions\patch1_3\q105_06b_fingers_interrogation.scene
+quest\main_quests\part1\q105\scenes\versions\patch1_5\q105_06b_fingers_interrogation.scene
 quest\main_quests\part1\q108\scenes\q108_00_chicken_test.scene
 quest\main_quests\part1\q108\scenes\q108_02_backstage.scene
 quest\main_quests\part1\q108\scenes\q108_04_exit.scene
@@ -5856,6 +5887,7 @@ quest\main_quests\part1\q110\scenes\versions\patch1_2\q110_ow_fluff_hall.scene
 quest\main_quests\part1\q110\scenes\versions\patch1_2\q110_ow_fluff_hall_van.scene
 quest\main_quests\part1\q110\scenes\versions\patch1_3\q110_02_placide.scene
 quest\main_quests\part1\q110\scenes\versions\patch1_3\q110_04_netrunners_den.scene
+quest\main_quests\part1\q110\scenes\versions\patch1_5\q110_13_alt_intro.scene
 quest\main_quests\part1\q110\test\q110_chicken_test.scene
 quest\main_quests\part1\q110\test\versions\gold\q110_chicken_test.scene
 quest\main_quests\part1\q112\scenes\q112_000_setup.scene
@@ -6158,6 +6190,7 @@ quest\main_quests\prologue\q000\scenes\versions\patch1_3\q000_kid_01b_meet_your_
 quest\main_quests\prologue\q000\scenes\versions\patch1_3\q000_nomad_06_chase.scene
 quest\main_quests\prologue\q000\scenes\versions\patch1_3\q000_nomad_07_hideout.scene
 quest\main_quests\prologue\q000\scenes\versions\patch1_3\q000_vr_tutorial.scene
+quest\main_quests\prologue\q000\scenes\versions\patch1_5\q000_nomad_07_hideout.scene
 quest\main_quests\prologue\q000\temp\q000_00_chicken_test.scene
 quest\main_quests\prologue\q000\temp\q000_kid_chicken_test.scene
 quest\main_quests\prologue\q000\temp\versions\gold\q000_00_chicken_test.scene
@@ -6394,6 +6427,7 @@ quest\minor_quests\mq001\scenes\versions\patch1_2\mq001_03_cliff.scene
 quest\minor_quests\mq001\scenes\versions\patch1_3\mq001_01_mood_scenes_funeral.scene
 quest\minor_quests\mq001\scenes\versions\patch1_3\mq001_02_drive_to_cliff.scene
 quest\minor_quests\mq001\scenes\versions\patch1_3\mq001_03_cliff.scene
+quest\minor_quests\mq001\scenes\versions\patch1_5\mq001_03_cliff.scene
 quest\minor_quests\mq002\scenes\mq002_00_chicken.scene
 quest\minor_quests\mq002\scenes\mq002_01_deal.scene
 quest\minor_quests\mq002\scenes\mq002_02_combat.scene
@@ -6408,6 +6442,7 @@ quest\minor_quests\mq002\scenes\versions\patch0\mq002_01_deal.scene
 quest\minor_quests\mq002\scenes\versions\patch1_2\mq002_01_deal.scene
 quest\minor_quests\mq002\scenes\versions\patch1_3\mq002_01_deal.scene
 quest\minor_quests\mq002\scenes\versions\patch1_3\mq002_03_summary.scene
+quest\minor_quests\mq002\scenes\versions\patch1_5\mq002_01_deal.scene
 quest\minor_quests\mq002\test\mq002_00_chicken.scene
 quest\minor_quests\mq002\test\versions\gold\mq002_00_chicken.scene
 quest\minor_quests\mq003\scenes\mq003_00_chicken_test.scene
@@ -6420,7 +6455,11 @@ quest\minor_quests\mq003\scenes\versions\gold\mq003_02_corpse.scene
 quest\minor_quests\mq003\scenes\versions\gold\mq003_03_orbital_pod.scene
 quest\minor_quests\mq003\scenes\versions\patch0\mq003_01_homeless.scene
 quest\minor_quests\mq003\scenes\versions\patch1_2\mq003_01_homeless.scene
+quest\minor_quests\mq003\scenes\versions\patch1_5\mq003_01_homeless.scene
+quest\minor_quests\mq003\scenes\versions\patch1_5\mq003_02_corpse.scene
+quest\minor_quests\mq003\scenes\versions\patch1_5\mq003_03_orbital_pod.scene
 quest\minor_quests\mq005\scenes\mq005_01_alley.scene
+quest\minor_quests\mq005\scenes\mq005_02_passout.scene
 quest\minor_quests\mq005\scenes\versions\gold\mq005_01_alley.scene
 quest\minor_quests\mq005\scenes\versions\patch1_2\mq005_01_alley.scene
 quest\minor_quests\mq005\scenes\versions\patch1_3\mq005_01_alley.scene
@@ -6433,6 +6472,8 @@ quest\minor_quests\mq006\scenes\versions\patch0\mq006_02_finale.scene
 quest\minor_quests\mq006\scenes\versions\patch1_2\mq006_01_intro.scene
 quest\minor_quests\mq006\scenes\versions\patch1_3\mq006_01_intro.scene
 quest\minor_quests\mq006\scenes\versions\patch1_3\mq006_02_finale.scene
+quest\minor_quests\mq006\scenes\versions\patch1_5\mq006_01_intro.scene
+quest\minor_quests\mq006\scenes\versions\patch1_5\mq006_02_finale.scene
 quest\minor_quests\mq006\test\mq006_chicken_test.scene
 quest\minor_quests\mq006\test\versions\gold\mq006_chicken_test.scene
 quest\minor_quests\mq007\scenes\mq007_01_gun_found.scene
@@ -6445,6 +6486,9 @@ quest\minor_quests\mq007\scenes\versions\gold\mq007_03_skippy_about_killing.scen
 quest\minor_quests\mq007\scenes\versions\gold\mq007_04_skippy_return.scene
 quest\minor_quests\mq007\scenes\versions\patch0\mq007_01_gun_found.scene
 quest\minor_quests\mq007\scenes\versions\patch1_3\mq007_02_skippy_reactions.scene
+quest\minor_quests\mq007\scenes\versions\patch1_5\mq007_01_gun_found.scene
+quest\minor_quests\mq007\scenes\versions\patch1_5\mq007_03_skippy_about_killing.scene
+quest\minor_quests\mq007\scenes\versions\patch1_5\mq007_04_skippy_return.scene
 quest\minor_quests\mq007\test\mq007_chicken_test.scene
 quest\minor_quests\mq007\test\versions\gold\mq007_chicken_test.scene
 quest\minor_quests\mq008\scenes\mq008_01_party_chats.scene
@@ -6556,17 +6600,20 @@ quest\minor_quests\mq017\temp\versions\gold\mq017_streetkid_chicken_test.scene
 quest\minor_quests\mq018\scenes\mq018_01_call.scene
 quest\minor_quests\mq018\scenes\mq018_02_fortuneteller.scene
 quest\minor_quests\mq018\scenes\mq018_03_call02.scene
+quest\minor_quests\mq018\scenes\mq018_05_brooklyn.scene
 quest\minor_quests\mq018\scenes\mq018_06_solar.scene
 quest\minor_quests\mq018\scenes\mq018_07_protein.scene
 quest\minor_quests\mq018\scenes\versions\gold\mq018_01_call.scene
 quest\minor_quests\mq018\scenes\versions\gold\mq018_02_fortuneteller.scene
 quest\minor_quests\mq018\scenes\versions\gold\mq018_03_call02.scene
+quest\minor_quests\mq018\scenes\versions\gold\mq018_05_brooklyn.scene
 quest\minor_quests\mq018\scenes\versions\gold\mq018_06_solar.scene
 quest\minor_quests\mq018\scenes\versions\gold\mq018_07_protein.scene
 quest\minor_quests\mq018\scenes\versions\patch0\mq018_07_protein.scene
 quest\minor_quests\mq018\scenes\versions\patch1_3\mq018_01_call.scene
 quest\minor_quests\mq018\scenes\versions\patch1_3\mq018_02_fortuneteller.scene
 quest\minor_quests\mq018\scenes\versions\patch1_3\mq018_03_call02.scene
+quest\minor_quests\mq018\scenes\versions\patch1_3\mq018_05_brooklyn.scene
 quest\minor_quests\mq018\scenes\versions\patch1_3\mq018_06_solar.scene
 quest\minor_quests\mq018\scenes\versions\patch1_3\mq018_07_protein.scene
 quest\minor_quests\mq018\test\mq018_00_chickentest.scene
@@ -6713,6 +6760,7 @@ quest\minor_quests\mq033\scenes\mq033_0_debug_teleports.scene
 quest\minor_quests\mq033\scenes\mq033_1_first_grafitti.scene
 quest\minor_quests\mq033\scenes\mq033_2_all_grafitti.scene
 quest\minor_quests\mq033\scenes\mq033_chicken_test.scene
+quest\minor_quests\mq033\scenes\mq033_ep1_grafitti.scene
 quest\minor_quests\mq033\scenes\versions\gold\mq033_0_debug_teleports.scene
 quest\minor_quests\mq033\scenes\versions\gold\mq033_1_first_grafitti.scene
 quest\minor_quests\mq033\scenes\versions\gold\mq033_2_all_grafitti.scene
@@ -6784,7 +6832,10 @@ quest\minor_quests\mq042\scenes\versions\patch1_3\mq042_nomad_01_gps_signal.scen
 quest\minor_quests\mq042\scenes\versions\patch1_3\mq042_nomad_02_car_found.scene
 quest\minor_quests\mq042\temp\mq042_chicken_test.scene
 quest\minor_quests\mq042\temp\versions\gold\mq042_chicken_test.scene
+quest\minor_quests\mq048\scenes\mq048_01_hook.scene
+quest\minor_quests\mq048\test\mq048_chickentest.scene
 quest\minor_quests\mq049\scenes\mq049_braindance.scene
+quest\minor_quests\mq050\scenes\mq050_johnny_start.scene
 quest\primary_characters\default_dialogues\delamain_default.scene
 quest\primary_characters\default_dialogues\evelyn_default.scene
 quest\primary_characters\default_dialogues\johnny_default.scene
@@ -7162,6 +7213,7 @@ quest\side_quests\sq025\scenes\versions\gold\sq025_08_backoffice.scene
 quest\side_quests\sq025\scenes\versions\gold\sq025_09_labyrinth.scene
 quest\side_quests\sq025\scenes\versions\gold\sq025_10_resolution.scene
 quest\side_quests\sq025\scenes\versions\patch0\sq025_05_scan.scene
+quest\side_quests\sq025\scenes\versions\patch1_5\sq025_01_crash.scene
 quest\side_quests\sq025\test\sq025_00_setup_chicken_test.scene
 quest\side_quests\sq025\test\versions\gold\sq025_00_setup_chicken_test.scene
 quest\side_quests\sq026\definitions\sq026_chicken_test.scene
@@ -7332,6 +7384,8 @@ quest\side_quests\sq029\scenes\versions\patch1_2\sq029_04a_dinner.scene
 quest\side_quests\sq029\scenes\versions\patch1_2\sq029_05_morning_after.scene
 quest\side_quests\sq029\scenes\versions\patch1_3\sq029_05_morning_after.scene
 quest\side_quests\sq029\scenes\versions\patch1_3\sq029_06a_sex.scene
+quest\side_quests\sq029\scenes\versions\patch1_5\sq029_02a_arrival.scene
+quest\side_quests\sq029\scenes\versions\patch1_5\sq029_03_argame.scene
 quest\side_quests\sq030\definitions\sq030_chicken_test.scene
 quest\side_quests\sq030\definitions\versions\gold\sq030_chicken_test.scene
 quest\side_quests\sq030\scenes\sq030_00_holocall.scene
@@ -7360,6 +7414,7 @@ quest\side_quests\sq030\scenes\versions\patch0\sq030_11_morning.scene
 quest\side_quests\sq030\scenes\versions\patch1_2\sq030_04_lake_dive_start.scene
 quest\side_quests\sq030\scenes\versions\patch1_3\sq030_09_pier.scene
 quest\side_quests\sq030\scenes\versions\patch1_3\sq030_11_morning.scene
+quest\side_quests\sq030\scenes\versions\patch1_5\sq030_09_pier.scene
 quest\side_quests\sq031\scenes\sq031_00_johnny.scene
 quest\side_quests\sq031\scenes\sq031_01a_smack_afterlife.scene
 quest\side_quests\sq031\scenes\sq031_01b_smack_tatto.scene
@@ -7470,6 +7525,7 @@ quest\tertiary_characters\default_dialogues\versions\patch1_2\victor_vector_defa
 quest\tertiary_characters\default_dialogues\versions\patch1_3\elizabeth_peralez_default.scene
 quest\tertiary_characters\default_dialogues\versions\patch1_3\gloria_default.scene
 quest\tertiary_characters\default_dialogues\versions\patch1_3\zuleikha_default.scene
+quest\tertiary_characters\default_dialogues\versions\patch1_5\victor_vector_default.scene
 quest\tertiary_characters\vsets\vset_anders.scene
 quest\tertiary_characters\vsets\vset_blue_moon.scene
 quest\tertiary_characters\vsets\vset_bob.scene

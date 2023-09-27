@@ -327,6 +327,8 @@ lighting\gi_surfel.w2mesh
 lighting\gi_surfel_box.w2mesh
 lighting\gi_visible_game_invisible.w2mesh
 lighting\gi_visible_game_invisible_shadows_on.w2mesh
+lighting\reed_scene.w2mesh
+open_world\mini_world_stories\badlands\se5\mws_se5_03\assets\mws_s5_03_sphere.w2mesh
 open_world\police_system\entities\police_lights.w2mesh
 open_world\street_stories\watson\kabuki\sts_wat_kab_01\entities\sts_wat_kab_01_neon_lit.w2mesh
 open_world\street_stories\westbrook\japantown\sts_wbr_jpn_03\entities\sts_wbr_jpn_03_holographic_wall_mesh.w2mesh

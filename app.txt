@@ -310,6 +310,7 @@ characters\appearances\corpse\generated\ma_sts_wbr_hil_07_05.app
 characters\appearances\corpse\generated\ma_sts_wbr_hil_07_06.app
 characters\appearances\corpse\generated\ma_sts_wbr_hil_07_07.app
 characters\appearances\corpse\generated\ma_sts_wbr_hil_07_08.app
+characters\appearances\corpse\generated\ma_sts_wbr_jpn_alex.app
 characters\appearances\corpse\generated\ma_sts_wbr_jpn_sergei.app
 characters\appearances\corpse\generated\ma__q001__6th_leader.app
 characters\appearances\corpse\generated\mba_q110_01_animal_01.app
@@ -507,6 +508,8 @@ characters\appearances\gang\gang__cyberpunk_wa.app
 characters\appearances\gang\gang__generic_ma.app
 characters\appearances\gang\gang__generic_mb.app
 characters\appearances\gang\gang__generic_wa.app
+characters\appearances\gang\gang__kurtz_v2_ma.app
+characters\appearances\gang\gang__kurtz_v2_wa.app
 characters\appearances\gang\gang__maelstrom_ma.app
 characters\appearances\gang\gang__maelstrom_mb.app
 characters\appearances\gang\gang__maelstrom_wa.app
@@ -1241,6 +1244,7 @@ characters\head\player_base_heads\appearances\head\h0_000__basehead_d05.app
 characters\head\player_base_heads\appearances\head\hel_000__basehead.app
 characters\head\player_base_heads\appearances\head\he_000__basehead.app
 characters\head\player_base_heads\appearances\head\ht_000__basehead.app
+characters\head\player_base_heads\appearances\head\hx_000__beatenup_q_307.app
 characters\head\player_base_heads\appearances\head\hx_000__cyberware.app
 characters\head\player_base_heads\appearances\head\hx_000__scars.app
 characters\head\player_base_heads\appearances\head\hx_000__scars_broken_nose.app
@@ -1389,6 +1393,7 @@ characters\head\player_base_heads\appearances\head\tattoos\hx_000__tattoo_09.app
 characters\head\player_base_heads\appearances\head\tattoos\hx_000__tattoo_10.app
 characters\head\player_base_heads\appearances\head\tattoos\hx_000__tattoo_11.app
 characters\head\player_base_heads\appearances\items\i0_000__items.app
+dependencies\vehicles\appearances\special\zetatech_surveyor__basic_ep1.app
 environment\decoration\electronics\devices\screen_device\appearances\monitor_b.app
 environment\decoration\industrial\equipment\gas_pump\appearances\gas_pump_appearances.app
 environment\decoration\public_utility\elevator\construction_elevator\appearances\construction_elevator_cabin_appearance_1.app
@@ -1512,10 +1517,12 @@ gameplay\devices\masters\electric_box\appearances\electric_box.app
 gameplay\devices\masters\fuse_box\appearences\generator.app
 gameplay\devices\masters\switches\appearances\switches.app
 gameplay\devices\masters\terminals\appearances\door_terminal.app
+gameplay\devices\movable\appearances\movable_dumpster.app
 gameplay\devices\movable\movable_rack\movable_rack.app
 gameplay\devices\open_path\appearences\weak_fence.app
 gameplay\devices\portals\appearences\portals.app
 gameplay\devices\security_systems\detectors\appearances\door_detector.app
+gameplay\devices\security_systems\security_turret\appearances\security_turret_1.app
 gameplay\devices\security_systems\security_turret\appearances\ceiling\appearances_ceiling.app
 gameplay\devices\security_systems\surveillance_cameras\appearances\appearances_camera.app
 gameplay\devices\stash\appearances\stash_appearance.app
@@ -1524,6 +1531,8 @@ gameplay\devices\street_signs\lcd_screens\appearences\lcd_screens.app
 gameplay\devices\traffic\road_blockade\appearances\road_barrier.app
 gameplay\devices\traffic\road_blockade\appearances\road_barrier_small.app
 gameplay\devices\traffic\road_blockade\appearances\road_blockade.app
+gameplay\devices\traffic\road_blockade\appearances\road_block_arasaka.app
+gameplay\devices\traffic\road_blockade\appearances\road_block_arasaka_short.app
 gameplay\devices\traffic\traffic_lights\appearances\traffic_light.app
 gameplay\devices\traffic\zebras\appearances\zebra.app
 gameplay\devices\utilities\jukebox\appearances\jukebox.app
@@ -1604,6 +1613,7 @@ items\interactive\apparel\int_apparel_001__braindance_headset\int_apparel_001__b
 items\interactive\apparel\int_apparel_001__lighter_a\int_apparel_001__lighter_a.app
 items\interactive\apparel\int_apparel_001__makeup_a_eyeliner\int_apparel_001__makeup_a_eyeliner.app
 items\interactive\apparel\int_apparel_002_umbrella_multi\int_apparel_002__umbrella_multi.app
+items\interactive\apparel\int_apparel_002_umbrella_multi\int_apparel_002__umbrella_multi_crowd.app
 items\interactive\apparel\int_apparel_002__aviators\aviators.app
 items\interactive\architecture\int_architecture_001__crane_large_b_lift_a_arm_a\int_architecture_001__crane_large_b_lift_a_arm_a.app
 items\interactive\architecture\int_architecture_001__crane_large_b_lift_a_arm_b\int_architecture_001__crane_large_b_lift_a_arm_b.app
@@ -1768,6 +1778,7 @@ items\interactive\furniture\int_furniture_001__poor_utility_chair_d\int_furnitur
 items\interactive\furniture\int_furniture_001__poor_utility_stool_a_low\int_furniture_001__poor_utility_stool_a_low.app
 items\interactive\furniture\int_furniture_001__poor_utility_stool_b\int_furniture_001__poor_utility_stool_b.app
 items\interactive\garbage\int_garbage_001__cardboard_homeless_sign_f\int_garbage_001__cardboard_homeless_sign_f.app
+items\interactive\garbage\int_garbage_001__corrugated_sheet_a\int_garbage_001__corrugated_sheet_a.app
 items\interactive\garbage\int_garbage_002__trash_packaging_c_bottom\int_garbage_002__trash_packaging_c_bottom.app
 items\interactive\industrial\int_industrial_001__car_creeper_a\int_industrial_001__car_creeper_a.app
 items\interactive\industrial\int_industrial_001__cattle_feeder_a_fence_a\int_industrial_001__cattle_feeder_a_fence_a.app
@@ -1895,6 +1906,7 @@ items\quest\q003_intro__tablet\q003_intro__tablet.app
 items\quest\q005_drink_bottle_h_tequila\q005_drink_bottle_h_tequila.app
 items\quest\q005__server_room_trolley\int_industrial_001__trolley_b\int_industrial_001__trolley_b.app
 items\quest\q105_misc\q105_faceplate.app
+items\quest\q110__haitian_book_a\appearances\q301_open_book.app
 items\quest\q112__arasaka_family_photo\q112__arasaka_family_photo.app
 items\quest\q114__book_open\q114__book_open.app
 items\quest\q114__cable_set_a\q114__cable_set_a.app
@@ -1920,6 +1932,7 @@ items\quest\sq028__yacht_a_veh\sq028__yacht_a_veh.app
 items\quest\sq028__yacht_bar_part_a\sq028__yacht_bar_part_a.app
 items\quest\sq028__yacht_bar_part_b\sq028__yacht_bar_part_b.app
 items\quest\sq028__yacht_bar_stool_a\sq028__yacht_bar_stool_a.app
+mechanical\mech\mch_003__minotaur\mch_003__minotaur.app
 prefabs\devices\disposal\appearances\disposal_bush_appearances.app
 prefabs\environment\decoration\public_utility\elevator\common_elevator\appearances\common_elevator_a_appearances.app
 prefabs\environment\decoration\public_utility\elevator\elevator_neomilitary\appearances\neomilitary_elevator_a_appearances.app
@@ -1962,15 +1975,21 @@ surfaces\textures\decals\graffiti\tarot\tarot_dec_wheel_of_fortune.app
 surfaces\textures\decals\graffiti\tarot\tarot_dec_world.app
 surfaces\textures\decals\graffiti\tarot\tarot_emperor.app
 surfaces\textures\decals\graffiti\tarot\tarot_empress.app
+surfaces\textures\decals\graffiti\tarot\tarot_ep1_king_of_the_swords.app
+surfaces\textures\decals\graffiti\tarot\tarot_ep1__king_of_the_cups.app
 surfaces\textures\decals\graffiti\tarot\tarot_fool_01.app
 surfaces\textures\decals\graffiti\tarot\tarot_hangman.app
 surfaces\textures\decals\graffiti\tarot\tarot_hermit.app
 surfaces\textures\decals\graffiti\tarot\tarot_hierphant.app
 surfaces\textures\decals\graffiti\tarot\tarot_high_priestess.app
+surfaces\textures\decals\graffiti\tarot\tarot_king_of_the_wands.app
+surfaces\textures\decals\graffiti\tarot\tartot_ep1_king_of_the_pentacles.app
 surfaces\textures\decals\graffiti\tarot\the_moon.app
 vehicles\appearances\decoration\deco_nomad_camp.app
+vehicles\appearances\decoration\v_decoration_clean.app
 vehicles\appearances\decoration\v_decoration_destroyed.app
 vehicles\appearances\decoration\v_decoration_filpped.app
+vehicles\appearances\decoration\v_decoration_militech_basilisk.app
 vehicles\appearances\decoration\v_decoration_mt28_coach.app
 vehicles\appearances\decoration\v_decoration_police.app
 vehicles\appearances\decoration\v_disposal_alvarado.app
@@ -2003,6 +2022,7 @@ vehicles\appearances\sport\rayfield_caliburn__basic.app
 vehicles\appearances\sport\villefort_alvarado__basic.app
 vehicles\appearances\sportbike\arch_nemesis_basic.app
 vehicles\appearances\sportbike\brennan_apollo_basic.app
+vehicles\appearances\sportbike\brennan_apollo_police_basic.app
 vehicles\appearances\sportbike\yaiba_kusanagi_basic.app
 vehicles\appearances\standard\archer_bandit.app
 vehicles\appearances\standard\archer_hella__basic.app
@@ -2013,6 +2033,7 @@ vehicles\appearances\standard\chevalier_thrax__basic.app
 vehicles\appearances\standard\chevalier_thrax__dex_limo.app
 vehicles\appearances\standard\mahir_supron__basic.app
 vehicles\appearances\standard\makigai_maimai__basic.app
+vehicles\appearances\standard\militech_hellhound__basic.app
 vehicles\appearances\standard\thorton_colby_pickup.app
 vehicles\appearances\standard\thorton_colby_pickup_nomad.app
 vehicles\appearances\standard\thorton_colby__basic.app
@@ -2020,6 +2041,7 @@ vehicles\appearances\standard\thorton_galena_nomad.app
 vehicles\appearances\standard\thorton_galena__basic.app
 vehicles\appearances\standard\thorton_mackinaw_nomad.app
 vehicles\appearances\standard\thorton_mackinaw__basic.app
+vehicles\appearances\standard\thorton_merrimac_basic.app
 vehicles\appearances\standard\villefort_columbus__basic.app
 vehicles\appearances\standard\villefort_cortes__basic.app
 vehicles\appearances\standard\v_standard3_thorton_mackinaw_larimore.app
@@ -2045,6 +2067,8 @@ weapons\explosives\w_explosives_007__recon_grenade\w_explosives_recon_grenade.ap
 weapons\explosives\w_explosives_007__recon_grenade\appearances\w_recon_core.app
 weapons\explosives\w_explosives_008__cutting_grenade\w_explosives_cutting_grenade.app
 weapons\explosives\w_explosives_008__cutting_grenade\appearances\w_cutting_core.app
+weapons\explosives\w_explosives_010__smoke_grenade\w_explosives_smoke_grenade.app
+weapons\explosives\w_explosives_010__smoke_grenade\appearances\w_smoke_core.app
 weapons\explosives\w_explosives__homing\w_explosives_homing_delivery.app
 weapons\explosives\w_explosives__sticky\w_explosives_sticky_delivery.app
 weapons\firearms\attachments\powermodule.app
@@ -2200,6 +2224,7 @@ weapons\firearms\rifle_assault\nokota_sidewinder\appearances\w_rifle_assault__no
 weapons\firearms\rifle_assault\nokota_sidewinder\appearances\w_rifle_assault__nokota_sidewinder__mag_std_01.app
 weapons\firearms\rifle_assault\nokota_sidewinder\appearances\w_rifle_assault__nokota_sidewinder__rcv1_01.app
 weapons\firearms\rifle_assault\tsunami_kyubi\w_rifle_assault__tsunami_kyubi.app
+weapons\firearms\rifle_assault\tsunami_kyubi\w_rifle_assault__tsunami_kyubi_myers.app
 weapons\firearms\rifle_assault\tsunami_kyubi\appearances\w_rifle_assault__tsunami_kyubi__base1_01.app
 weapons\firearms\rifle_assault\tsunami_kyubi\appearances\w_rifle_assault__tsunami_kyubi__mag_stdr_01.app
 weapons\firearms\rifle_assault\tsunami_kyubi\appearances\w_rifle_assault__tsunami_kyubi__mag_std_01.app

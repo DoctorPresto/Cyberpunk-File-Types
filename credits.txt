@@ -1,2 +1,4 @@
+gameplay\gui\fullscreen\credits\creditslong_ep1_ps5.credits
+gameplay\gui\fullscreen\credits\creditslong_ep1_xbox_pc.credits
 gameplay\gui\fullscreen\credits\creditslong_ps4.credits
 gameplay\gui\fullscreen\credits\creditslong_xbox_pc.credits

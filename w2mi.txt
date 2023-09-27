@@ -234,6 +234,7 @@ materials\playstyle_boxes\duoble_jump.w2mi
 materials\playstyle_boxes\equip.w2mi
 materials\playstyle_boxes\explore.w2mi
 materials\playstyle_boxes\find_person_fast.w2mi
+materials\playstyle_boxes\find_person_satellite.w2mi
 materials\playstyle_boxes\find_person_strong.w2mi
 materials\playstyle_boxes\find_vehicle.w2mi
 materials\playstyle_boxes\find_weakness.w2mi
@@ -304,6 +305,7 @@ materials\playstyle_boxes_with_text\drag_txt.w2mi
 materials\playstyle_boxes_with_text\drop_txt.w2mi
 materials\playstyle_boxes_with_text\equip_txt.w2mi
 materials\playstyle_boxes_with_text\find_person_fast_txt.w2mi
+materials\playstyle_boxes_with_text\find_person_satellite_txt.w2mi
 materials\playstyle_boxes_with_text\find_person_strong_txt.w2mi
 materials\playstyle_boxes_with_text\find_vehicle_txt.w2mi
 materials\playstyle_boxes_with_text\find_weakness_txt.w2mi

@@ -36,6 +36,7 @@ characters\common\hair\textures\hair_profiles\custom_golden_fur.hp
 characters\common\hair\textures\hair_profiles\custom_hyena_fur.hp
 characters\common\hair\textures\hair_profiles\custom_hyena_teal.hp
 characters\common\hair\textures\hair_profiles\custom_johnny.hp
+characters\common\hair\textures\hair_profiles\custom_johnny_beard.hp
 characters\common\hair\textures\hair_profiles\custom_judy.hp
 characters\common\hair\textures\hair_profiles\custom_midnight_blue.hp
 characters\common\hair\textures\hair_profiles\custom_orange_fluorescent.hp

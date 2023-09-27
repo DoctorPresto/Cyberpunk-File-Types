@@ -6,3 +6,4 @@ gameplay\gui\hud_tank.inkhud
 gameplay\gui\hud_turret.inkhud
 gameplay\gui\hud_tutorial.inkhud
 gameplay\gui\prototype_hud.inkhud
+open_world\mini_world_stories\badlands\se5\mws_se5_03\ui\mws_se5_03_hud.inkhud

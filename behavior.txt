@@ -16,6 +16,7 @@ gameplay\ai\behaviors\combat\humanoid_combat_melee_movement.behavior
 gameplay\ai\behaviors\combat\humanoid_combat_melee_patterns.behavior
 gameplay\ai\behaviors\combat\humanoid_combat_melee_wounded.behavior
 gameplay\ai\behaviors\combat\in_vehicle_combat.behavior
+gameplay\ai\behaviors\combat\police_retreat.behavior
 gameplay\ai\behaviors\combat\spiderbot_combat.behavior
 gameplay\ai\behaviors\combat\spiderbot_combat_movement.behavior
 gameplay\ai\behaviors\combat\spiderbot_combat_patterns.behavior
@@ -31,7 +32,9 @@ gameplay\ai\behaviors\combat\bosses\oda_combat_root.behavior
 gameplay\ai\behaviors\combat\bosses\oda_combat_smg.behavior
 gameplay\ai\behaviors\combat\bosses\oda_dash_selector.behavior
 gameplay\ai\behaviors\combat\bosses\oda_test_locomotion.behavior
+gameplay\ai\behaviors\combat\bosses\prevention_max_tac_smoker.behavior
 gameplay\ai\behaviors\combat\bosses\sasquatch_combat_melee.behavior
+gameplay\ai\behaviors\combat\bosses\sasquatch_combat_melee_backup.behavior
 gameplay\ai\behaviors\combat\bosses\sasquatch_combat_ranged.behavior
 gameplay\ai\behaviors\combat\bosses\sasquatch_combat_root.behavior
 gameplay\ai\behaviors\combat\centaur\centaur_beam_attack.behavior
@@ -51,6 +54,7 @@ gameplay\ai\behaviors\combat\centaur\centaur_shockwave_attack.behavior
 gameplay\ai\behaviors\combat\centaur\centaur_turtle_stance.behavior
 gameplay\ai\behaviors\combat\centaur\centaur_weapon_charge_check.behavior
 gameplay\ai\behaviors\combat\exo\exo_combat.behavior
+gameplay\ai\behaviors\combat\exo\minotaur_combat_root.behavior
 gameplay\ai\behaviors\combat\humanoid\humanoid_combat_melee.behavior
 gameplay\ai\behaviors\combat\humanoid\humanoid_no_weapon_combat.behavior
 gameplay\ai\behaviors\combat\humanoid\humanoid_ranged.behavior
@@ -95,7 +99,9 @@ gameplay\ai\behaviors\follow\follower_stealth.behavior
 gameplay\ai\behaviors\follow\follow_base.behavior
 gameplay\ai\behaviors\follow\follow_drone.behavior
 gameplay\ai\behaviors\follow\follow_in_combat.behavior
+gameplay\ai\behaviors\follow\follow_songbird.behavior
 gameplay\ai\behaviors\follow\follow_teleport.behavior
+gameplay\ai\behaviors\follow\songbird_follower_root.behavior
 gameplay\ai\behaviors\forced_behaviors\shoot_from_veh.behavior
 gameplay\ai\behaviors\idle\idle_work.behavior
 gameplay\ai\behaviors\idle\idle_work_non_humanoid.behavior
@@ -115,11 +121,13 @@ gameplay\ai\behaviors\reactions\hit_reactions.behavior
 gameplay\ai\behaviors\reactions\investigate.behavior
 gameplay\ai\behaviors\reactions\panic.behavior
 gameplay\ai\behaviors\reactions\player_call.behavior
+gameplay\ai\behaviors\reactions\projectile_investigate.behavior
 gameplay\ai\behaviors\reactions\reactions_root.behavior
 gameplay\ai\behaviors\reactions\reaction_dm.behavior
 gameplay\ai\behaviors\reactions\reprimand.behavior
 gameplay\ai\behaviors\reactions\reprimand_follow_order.behavior
 gameplay\ai\behaviors\reactions\search_intruder.behavior
+gameplay\ai\behaviors\reactions\songbird_reactions_root.behavior
 gameplay\ai\behaviors\reactions\spiderbot_disabled.behavior
 gameplay\ai\behaviors\reactions\squad_call.behavior
 gameplay\ai\behaviors\reactions\status_effects.behavior
@@ -147,6 +155,7 @@ gameplay\ai\behaviors\reactions\mechanical\mechanical_reprimand.behavior
 gameplay\ai\behaviors\reactions\mechanical\mechanical_turn_at.behavior
 gameplay\ai\behaviors\status_effects\android_turn_off.behavior
 gameplay\ai\behaviors\status_effects\android_turn_on.behavior
+gameplay\ai\behaviors\status_effects\blackwallboss_se.behavior
 gameplay\ai\behaviors\status_effects\bleeding_se.behavior
 gameplay\ai\behaviors\status_effects\blind_se.behavior
 gameplay\ai\behaviors\status_effects\brainmelt_se.behavior
@@ -157,10 +166,12 @@ gameplay\ai\behaviors\status_effects\defeatedwithrecover_se.behavior
 gameplay\ai\behaviors\status_effects\defeated_se.behavior
 gameplay\ai\behaviors\status_effects\emp_se.behavior
 gameplay\ai\behaviors\status_effects\forceshoot_se.behavior
+gameplay\ai\behaviors\status_effects\forcestagger_se.behavior
 gameplay\ai\behaviors\status_effects\force_alerted_state.behavior
 gameplay\ai\behaviors\status_effects\hearingimpaired_se.behavior
 gameplay\ai\behaviors\status_effects\knockdown_se.behavior
 gameplay\ai\behaviors\status_effects\madness_se.behavior
+gameplay\ai\behaviors\status_effects\magnetdevicenpc_se.behavior
 gameplay\ai\behaviors\status_effects\monowiregrapple_se.behavior
 gameplay\ai\behaviors\status_effects\pain_se.behavior
 gameplay\ai\behaviors\status_effects\poisoned_se.behavior
@@ -191,11 +202,15 @@ gameplay\ai\behaviors\status_effects\drone\drone_setfriendly_se.behavior
 gameplay\ai\behaviors\status_effects\drone\drone_staggerlocomotion_se.behavior
 gameplay\ai\behaviors\status_effects\drone\drone_systemcollapse_se.behavior
 gameplay\ai\behaviors\status_effects\drone\drone_weaponjammed_se.behavior
+gameplay\ai\behaviors\status_effects\se_categories\blackwall_type.behavior
 gameplay\ai\behaviors\status_effects\se_categories\blind_type.behavior
 gameplay\ai\behaviors\status_effects\se_categories\deaf_type.behavior
 gameplay\ai\behaviors\status_effects\se_categories\kill_type.behavior
 gameplay\ai\behaviors\story\flathead_story.behavior
 gameplay\ai\behaviors\story\story.behavior
 gameplay\ai\behaviors\vehicle\default_vehicle.behavior
+gameplay\ai\behaviors\vehicle\in_vehicle_alerted.behavior
+gameplay\ai\behaviors\vehicle\ncpd_av_vehicle.behavior
 gameplay\ai\behaviors\vehicle\vehicle.behavior
+gameplay\ai\behaviors\vehicle\vehicle_approaching.behavior
 gameplay\ai\behaviors\vehicle\vehicle_drone.behavior
