@@ -1,0 +1,3622 @@
+{
+    "AccessPointController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ActionsSequencerController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ActivatedDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ActivatedDeviceNPCController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ActivatorController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AdamSmasherComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AdvertisementWidgetComponent": {
+        "var format": "AdvertisementFormat;",
+        "var adGroupTDBID": "TweakDBID;",
+        "var enableOverride": "Bool;",
+        "var adOverrideTDBID": "TweakDBID;",
+        "var adVersion": "Uint32;",
+        "var useOnlyAttachedLights": "Bool;",
+        "var glitchValue": "Float;",
+        "var tintColor": "Color;",
+        "var screenAreaMultiplier": "Float;",
+        "var textureMinMipBias": "Uint32;",
+        "var textureMaxMipBias": "Uint32;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AICAgent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AICustomComponents": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AIHumanComponent": {
+        "var movementParamsRecord": "TweakDBID;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AIMandatoryComponents": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AIObjectSelectionComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AIOffMeshConnectionComponent": {
+        "var agentSize": "NavGenAgentSize;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AIPhaseStateEventHandlerComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AIRelatedComponents": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AISignalHandlerComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AITargetTrackerComponent": {
+        "var TriggersCombat": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AIVehicleAgent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AIVehicleCoversComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AOEAreaController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AOEEffectorController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ApartmentScreenController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AppearanceRandomizerComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ArcadeMachineController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AreaEffectVisualizationComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AVComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "BarbedWireController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "BaseAnimatedDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "BaseDestructibleController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "BaseNetworkSystemController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "BasicDistractionDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "BillboardDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "BossStealthComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "BunkerComputerController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "BunkerDoorController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "C4Controller": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "CandleController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "CarComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "CentaurShieldController": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "CerberusComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ChestPressController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ChimeraComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "CleaningMachineController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "CoderController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "CombatHUDManager": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ComputerController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ConfessionBoothController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ConveyorController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "cpConveyorComponent": {
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "cpTestComponent": {
+        "var whatever": "Float;",
+        "var whateverIE": "Float;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "CrowdMemberBaseComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DataTermController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DEBUG_VisualizerComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DestructibleMasterDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DetectorModuleComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DeviceDebuggerComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DeviceSystemBaseController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DeviceTimetable": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DiodeControlComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DisarmComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DisassemblableComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DisassembleMasterController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DisplayGlassController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DisposalDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DoorController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DoorProximityDetectorController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DoorSystemController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DrillMachineScanManager": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DroneComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DropPointController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DurabilityComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ElectricBoxController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ElevatorFloorTerminalController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entAmbientSoundEmitterComponent": {
+        "var usePhysicsObstruction": "Bool;",
+        "var occlusionEnabled": "Bool;",
+        "var repositionEnabled": "Bool;",
+        "var obstructionChangeTime": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entAnimatedComponent": {
+        "var animations": "animAnimSetup;",
+        "var animTags": "redTagList;",
+        "var audioAltName": "CName;",
+        "var useLongRangeVisibility": "Bool;",
+        "var calculateAccelerationWs": "Bool;",
+        "var serverForcedLod": "Int32;",
+        "var clientForcedLod": "Int32;",
+        "var serverForcedVisibility": "Bool;",
+        "var clientForcedVisibility": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entAnimationControllerComponent": {
+        "var animDatabaseCollection": "animAnimDatabaseCollection;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entAnimationSetupExtensionComponent": {
+        "var animations": "animAnimSetup;",
+        "var isOverrideContainer": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entAnimGraphResourceContainer": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entAppearanceProxyMeshComponent": {
+        "var visibilityAnimationParam": "CName;",
+        "var simulationType": "physicsSimulationType;",
+        "var useResourceSimulationType": "Bool;",
+        "var startInactive": "Bool;",
+        "var filterDataSource": "physicsFilterDataSource;",
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedGlobalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedLocalShadows": "shadowsShadowCastingMode;",
+        "var motionBlurScale": "Float;",
+        "var visualScale": "Vector3;",
+        "var renderingPlane": "ERenderingPlane;",
+        "var objectTypeID": "ERenderObjectType;",
+        "var numInstances": "Uint32;",
+        "var chunkMask": "Uint64;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entBakedDestructionComponent": {
+        "var meshFracturedAppearance": "CName;",
+        "var numFrames": "Float;",
+        "var frameRate": "Float;",
+        "var playOnlyOnce": "Bool;",
+        "var restartOnTrigger": "Bool;",
+        "var disableCollidersOnTrigger": "Bool;",
+        "var damageThreshold": "Float;",
+        "var damageEndurance": "Float;",
+        "var impulseToDamage": "Float;",
+        "var contactToDamage": "Float;",
+        "var accumulateDamage": "Bool;",
+        "var fractureFieldMask": "physicsFractureFieldType;",
+        "var audioMetadata": "CName;",
+        "var visibilityAnimationParam": "CName;",
+        "var simulationType": "physicsSimulationType;",
+        "var useResourceSimulationType": "Bool;",
+        "var startInactive": "Bool;",
+        "var filterDataSource": "physicsFilterDataSource;",
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedGlobalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedLocalShadows": "shadowsShadowCastingMode;",
+        "var motionBlurScale": "Float;",
+        "var visualScale": "Vector3;",
+        "var renderingPlane": "ERenderingPlane;",
+        "var objectTypeID": "ERenderObjectType;",
+        "var numInstances": "Uint32;",
+        "var chunkMask": "Uint64;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entBaseCameraComponent": {
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entCharacterCustomizationSkinnedMeshComponent": {
+        "var tags": "redTagList;",
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var acceptDismemberment": "Bool;",
+        "var chunkMask": "Uint64;",
+        "var renderingPlaneAnimationParam": "CName;",
+        "var visibilityAnimationParam": "CName;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var useProxyMeshAsShadowMesh": "Bool;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var useSkinningLOD": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entClothComponent": {
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entColliderComponent": {
+        "var simulationType": "physicsSimulationType;",
+        "var startInactive": "Bool;",
+        "var useCCD": "Bool;",
+        "var massOverride": "Float;",
+        "var volume": "Float;",
+        "var mass": "Float;",
+        "var inertia": "Vector3;",
+        "var comOffset": "Transform;",
+        "var isEnabled": "Bool;",
+        "var dynamicTrafficSetting": "TrafficGenDynamicTrafficSetting;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entCorpseComponent": {
+        "var material": "CName;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entDebug_MeshComponent": {
+        "var filterName": "String;",
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedGlobalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedLocalShadows": "shadowsShadowCastingMode;",
+        "var motionBlurScale": "Float;",
+        "var visualScale": "Vector3;",
+        "var renderingPlane": "ERenderingPlane;",
+        "var objectTypeID": "ERenderObjectType;",
+        "var numInstances": "Uint32;",
+        "var chunkMask": "Uint64;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entDebug_ShapeComponent": {
+        "var shape": "entDebug_ShapeType;",
+        "var radius": "Float;",
+        "var halfHeight": "Float;",
+        "var color": "Color;",
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entDecalComponent": {
+        "var verticalFlip": "Bool;",
+        "var horizontalFlip": "Bool;",
+        "var aspectRatio": "Float;",
+        "var scale": "Float;",
+        "var visualScale": "Vector3;",
+        "var alpha": "Float;",
+        "var normalThreshold": "Float;",
+        "var roughnessScale": "Float;",
+        "var orderNo": "Uint16;",
+        "var surfaceType": "ERenderObjectType;",
+        "var decalRenderMode": "EDecalRenderMode;",
+        "var isStretchingEnabled": "Bool;",
+        "var normalsBlendingMode": "RenderDecalNormalsBlendingMode;",
+        "var shouldCollectWithRayTracing": "Bool;",
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entDynamicActorRepellingComponent": {
+        "var type": "entRepellingType;",
+        "var shape": "entRepellingShape;",
+        "var magnitude": "Float;",
+        "var bendIntensity": "Float;",
+        "var anchorPointVert": "rendWindShapeAnchorPointVert;",
+        "var anchorPointHorz": "rendWindShapeAnchorPointHorz;",
+        "var anchorPointDepth": "rendWindShapeAnchorPointDepth;",
+        "var radius": "Float;",
+        "var capsuleRadius": "Float;",
+        "var capsuleHeight": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entEditorMeshComponent": {
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedGlobalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedLocalShadows": "shadowsShadowCastingMode;",
+        "var motionBlurScale": "Float;",
+        "var visualScale": "Vector3;",
+        "var renderingPlane": "ERenderingPlane;",
+        "var objectTypeID": "ERenderObjectType;",
+        "var numInstances": "Uint32;",
+        "var chunkMask": "Uint64;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entEffectAttachmentComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entEffectSpawnerComponent": {
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entEnvProbeComponent": {
+        "var isEnabled": "Bool;",
+        "var size": "Vector3;",
+        "var edgeScale": "Vector3;",
+        "var emissiveScale": "Float;",
+        "var globalProbe": "Bool;",
+        "var boxProjection": "Bool;",
+        "var allInShadow": "Bool;",
+        "var streamingDistance": "Float;",
+        "var streamingHeight": "Float;",
+        "var blendRange": "Uint8;",
+        "var neighborMode": "envUtilsNeighborMode;",
+        "var hideSkyColor": "Bool;",
+        "var ambientMode": "envUtilsReflectionProbeAmbientContributionMode;",
+        "var brightnessEVClamp": "Uint8;",
+        "var priority": "Uint8;",
+        "var lightChannels": "rendLightChannel;",
+        "var volumeChannels": "rendLightChannel;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entExternalComponent": {
+        "var externalComponentName": "CName;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entFacialCustomizationComponent": {
+        "var debugIgnoreComponent": "Bool;",
+        "var eyes": "Uint32;",
+        "var nose": "Uint32;",
+        "var mouth": "Uint32;",
+        "var jaw": "Uint32;",
+        "var ears": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entFogVolumeComponent": {
+        "var densityFalloff": "Float;",
+        "var blendFalloff": "Float;",
+        "var densityFactor": "Float;",
+        "var color": "Color;",
+        "var absorption": "Float;",
+        "var size": "Vector3;",
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entGarmentSkinnedMeshComponent": {
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var acceptDismemberment": "Bool;",
+        "var chunkMask": "Uint64;",
+        "var renderingPlaneAnimationParam": "CName;",
+        "var visibilityAnimationParam": "CName;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var useProxyMeshAsShadowMesh": "Bool;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var useSkinningLOD": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entIMoverComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entInstancedAnimationComponent": {
+        "var animToSample": "CName;",
+        "var variantAnimToSample": "CName;",
+        "var variantTriggerTag": "CName;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entIPlacedComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entISkinableComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entISkinTargetComponent": {
+        "var useSkinningLOD": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "EntityAttachementComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "EntityStubComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entIVisualComponent": {
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entLocalizationStringComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entMarketingAnimationComponent": {
+        "var freezeAnimations": "Bool;",
+        "var enableLookAt": "Bool;",
+        "var lookAtCamera": "Bool;",
+        "var lookAtOrbitDistance": "Float;",
+        "var lookAtTargetPitch": "Float;",
+        "var lookAtTargetYaw": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entMeshComponent": {
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedGlobalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedLocalShadows": "shadowsShadowCastingMode;",
+        "var motionBlurScale": "Float;",
+        "var visualScale": "Vector3;",
+        "var renderingPlane": "ERenderingPlane;",
+        "var objectTypeID": "ERenderObjectType;",
+        "var numInstances": "Uint32;",
+        "var chunkMask": "Uint64;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entMorphTargetManagerComponent": {
+        "var externalComponentName": "CName;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entMorphTargetSkinnedMeshComponent": {
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var acceptDismemberment": "Bool;",
+        "var chunkMask": "Uint64;",
+        "var renderingPlaneAnimationParam": "CName;",
+        "var visibilityAnimationParam": "CName;",
+        "var isEnabled": "Bool;",
+        "var tags": "redTagList;",
+        "var version": "Uint8;",
+        "var useSkinningLOD": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entParticlesComponent": {
+        "var emissionRate": "Float;",
+        "var autoHideRange": "Float;",
+        "var renderLayerMask": "RenderSceneLayerMask;",
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entPhysicalDestructionComponent": {
+        "var meshAppearance": "CName;",
+        "var forceAutoHideDistance": "Float;",
+        "var destructionParams": "physicsDestructionParams;",
+        "var isEnabled": "Bool;",
+        "var audioMetadata": "CName;",
+        "var systemsToNotifyFlags": "Uint16;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entPhysicalFractureFieldComponent": {
+        "var fractureFieldParams": "physicsFractureFieldParams;",
+        "var simulationType": "physicsSimulationType;",
+        "var shape": "physicsTriggerShape;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entPhysicalImpulseAreaComponent": {
+        "var impulse": "Vector3;",
+        "var impulseRadius": "Float;",
+        "var simulationType": "physicsSimulationType;",
+        "var shape": "physicsTriggerShape;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entPhysicalMeshComponent": {
+        "var visibilityAnimationParam": "CName;",
+        "var simulationType": "physicsSimulationType;",
+        "var useResourceSimulationType": "Bool;",
+        "var startInactive": "Bool;",
+        "var filterDataSource": "physicsFilterDataSource;",
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedGlobalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedLocalShadows": "shadowsShadowCastingMode;",
+        "var motionBlurScale": "Float;",
+        "var visualScale": "Vector3;",
+        "var renderingPlane": "ERenderingPlane;",
+        "var objectTypeID": "ERenderObjectType;",
+        "var numInstances": "Uint32;",
+        "var chunkMask": "Uint64;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entPhysicalSkinnedMeshComponent": {
+        "var simulationType": "physicsSimulationType;",
+        "var useResourceSimulationType": "Bool;",
+        "var startInactive": "Bool;",
+        "var filterDataSource": "physicsFilterDataSource;",
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var acceptDismemberment": "Bool;",
+        "var chunkMask": "Uint64;",
+        "var renderingPlaneAnimationParam": "CName;",
+        "var visibilityAnimationParam": "CName;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var useProxyMeshAsShadowMesh": "Bool;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var useSkinningLOD": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entPhysicalTriggerComponent": {
+        "var simulationType": "physicsSimulationType;",
+        "var shape": "physicsTriggerShape;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entPlaceholderComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entRagdollComponent": {
+        "var isEnabled": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entRenderToTextureCameraComponent": {
+        "var isEnabled": "Bool;",
+        "var virtualCameraName": "CName;",
+        "var resolutionWidth": "Uint32;",
+        "var resolutionHeight": "Uint32;",
+        "var aspectRatio": "Float;",
+        "var params": "WorldRenderAreaSettings;",
+        "var renderingMode": "entRenderToTextureMode;",
+        "var depthCutDistance": "Float;",
+        "var backgroundColor": "Color;",
+        "var overrideBackgroundColor": "Bool;",
+        "var renderSceneLayer": "RenderSceneLayer;",
+        "var features": "entRenderToTextureFeatures;",
+        "var streamingDistance": "Float;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entSimpleColliderComponent": {
+        "var isEnabled": "Bool;",
+        "var compiledBuffer": "DataBuffer;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entSkinnedClothComponent": {
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var meshAppearance": "CName;",
+        "var chunkMask": "Uint64;",
+        "var compiledTopologyData": "meshCookedClothMeshTopologyData;",
+        "var useSkinningLOD": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entSkinnedMeshComponent": {
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var acceptDismemberment": "Bool;",
+        "var chunkMask": "Uint64;",
+        "var renderingPlaneAnimationParam": "CName;",
+        "var visibilityAnimationParam": "CName;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var useProxyMeshAsShadowMesh": "Bool;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var useSkinningLOD": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entSlotComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entSoundListenerComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entStaticOccluderMeshComponent": {
+        "var scale": "Vector3;",
+        "var color": "Color;",
+        "var occluderType": "visWorldOccluderType;",
+        "var occluderAutohideDistanceScale": "Uint8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entTargetPointComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entTransformComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entTransformHistoryComponent": {
+        "var historyLength": "Float;",
+        "var samplesAmount": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entTriggerActivatorComponent": {
+        "var radius": "Float;",
+        "var height": "Float;",
+        "var channels": "TriggerChannel;",
+        "var maxContinousDistance": "Float;",
+        "var enableCCD": "Bool;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entTriggerComponent": {
+        "var simulationType": "physicsSimulationType;",
+        "var shape": "physicsTriggerShape;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entVectorFieldComponent": {
+        "var direction": "Vector3;",
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entVertexAnimationComponent": {
+        "var vertexAnimationMapper": "entVertexAnimationMapper;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entVirtualCameraComponent": {
+        "var virtualCameraName": "CName;",
+        "var resolutionWidth": "Uint32;",
+        "var resolutionHeight": "Uint32;",
+        "var drawBackground": "Bool;",
+        "var isEnabled": "Bool;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entVirtualCameraViewComponent": {
+        "var virtualCameraName": "CName;",
+        "var targetPlaneSize": "Vector2;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entVisualControllerComponent": {
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entVisualOffsetTransformComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entWetnessComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "Example_FxSpawning": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ExplosiveDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ExplosiveTriggerDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "FactInvokerController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "FanController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "FastTravelComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "FollowSlotsComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ForkliftController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "FridgeController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "FuseBoxController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "FuseController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "FxResourceMapperComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameAIDirectorTensionAnalyzeComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameAINetStateComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameAttachmentSlots": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameAttitudeAgent": {
+        "var baseAttitudeGroup": "CName;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameaudioAcousticPortalComponent": {
+        "var radius": "Uint8;",
+        "var nominalRadius": "Uint8;",
+        "var initialyOpen": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameAudioEmitterComponent": {
+        "var EmitterName": "CName;",
+        "var EmitterType": "audioEntityEmitterContextType;",
+        "var OnAttach": "gameAudioSyncs;",
+        "var OnDetach": "gameAudioSyncs;",
+        "var updateDistance": "Float;",
+        "var emitterMetadataName": "CName;",
+        "var TagList": "redTagList;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameaudioMusicSyncComponent": {
+        "var notifyBeats": "Bool;",
+        "var notifyBars": "Bool;",
+        "var notifyGrid": "Bool;",
+        "var notifyBarProgression": "Bool;",
+        "var notifyBeatProgression": "Bool;",
+        "var syncTrack": "CName;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameaudioSoundComponent": {
+        "var voEventOverride": "CName;",
+        "var minVocalizationRepeatTime": "Float;",
+        "var streamingDistance": "Float;",
+        "var audioName": "CName;",
+        "var applyObstruction": "Bool;",
+        "var applyAcousticOcclusion": "Bool;",
+        "var applyAcousticRepositioning": "Bool;",
+        "var obstructionChangeTime": "Float;",
+        "var maxPlayDistance": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameaudioSoundComponentBase": {
+        "var audioName": "CName;",
+        "var applyObstruction": "Bool;",
+        "var applyAcousticOcclusion": "Bool;",
+        "var applyAcousticRepositioning": "Bool;",
+        "var obstructionChangeTime": "Float;",
+        "var maxPlayDistance": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameaudioVehicleAudioComponent": {
+        "var audioName": "CName;",
+        "var applyObstruction": "Bool;",
+        "var applyAcousticOcclusion": "Bool;",
+        "var applyAcousticRepositioning": "Bool;",
+        "var obstructionChangeTime": "Float;",
+        "var maxPlayDistance": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameBinkComponent": {
+        "var videoPlayerName": "CName;",
+        "var audioEvent": "CName;",
+        "var loopVideo": "Bool;",
+        "var forceVideoFrameRate": "Bool;",
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameBodyTriggerDestructionComponent": {
+        "var colliderComponentName": "CName;",
+        "var impulseForce": "Float;",
+        "var impulseRadius": "Float;",
+        "var startActive": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameBraindanceDissolveComponent": {
+        "var dissolveRadius": "Float;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameBreachComponent": {
+        "var radius": "Float;",
+        "var healthPercentageOverride": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameBreachControllerComponent": {
+        "var canHaveBreaches": "Bool;",
+        "var allowNormalBreachesAfterWeakspotsAreDestroyed": "Bool;",
+        "var debugAllowBreachesAfterDestruction": "Bool;",
+        "var breachesScale": "Float;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameBreachFinderComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameCameraComponent": {
+        "var animParamFovOverrideWeight": "CName;",
+        "var animParamFovOverrideValue": "CName;",
+        "var animParamZoomOverrideWeight": "CName;",
+        "var animParamZoomOverrideValue": "CName;",
+        "var animParamZoomWeaponOverrideWeight": "CName;",
+        "var animParamZoomWeaponOverrideValue": "CName;",
+        "var animParamdofIntensity": "CName;",
+        "var animParamdofNearBlur": "CName;",
+        "var animParamdofNearFocus": "CName;",
+        "var animParamdofFarBlur": "CName;",
+        "var animParamdofFarFocus": "CName;",
+        "var fovOverrideWeight": "Float;",
+        "var fovOverrideValue": "Float;",
+        "var zoomOverrideWeight": "Float;",
+        "var zoomOverrideValue": "Float;",
+        "var zoomWeaponOverrideWeight": "Float;",
+        "var zoomWeaponOverrideValue": "Float;",
+        "var animParamWeaponNearPlaneCM": "CName;",
+        "var animParamWeaponFarPlaneCM": "CName;",
+        "var animParamWeaponEdgesSharpness": "CName;",
+        "var animParamWeaponVignetteIntensity": "CName;",
+        "var animParamWeaponVignetteRadius": "CName;",
+        "var animParamWeaponVignetteCircular": "CName;",
+        "var animParamWeaponBlurIntensity": "CName;",
+        "var weaponPlane": "SWeaponPlaneParams;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameChaseSpawnComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameComponentsStateSaveComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameCrowdMemberComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameDeviceCameraControlComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameDeviceComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameDismembermentComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameEntitySpawnerComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameEntityStubComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameEntityStubComponentPlacedProxy": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameEnvironmentDamageReceiverComponent": {
+        "var cooldown": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameEthnicityComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameFootstepComponent": {
+        "var tweakDBID": "TweakDBID;",
+        "var leftFootSlot": "CName;",
+        "var rightFootSlot": "CName;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameFPPCameraComponent": {
+        "var pitchMin": "Float;",
+        "var pitchMax": "Float;",
+        "var yawMaxLeft": "Float;",
+        "var yawMaxRight": "Float;",
+        "var headingLocked": "Bool;",
+        "var sensitivityMultX": "Float;",
+        "var sensitivityMultY": "Float;",
+        "var timeDilationCurveName": "CName;",
+        "var animParamFovOverrideWeight": "CName;",
+        "var animParamFovOverrideValue": "CName;",
+        "var animParamZoomOverrideWeight": "CName;",
+        "var animParamZoomOverrideValue": "CName;",
+        "var animParamZoomWeaponOverrideWeight": "CName;",
+        "var animParamZoomWeaponOverrideValue": "CName;",
+        "var animParamdofIntensity": "CName;",
+        "var animParamdofNearBlur": "CName;",
+        "var animParamdofNearFocus": "CName;",
+        "var animParamdofFarBlur": "CName;",
+        "var animParamdofFarFocus": "CName;",
+        "var fovOverrideWeight": "Float;",
+        "var fovOverrideValue": "Float;",
+        "var zoomOverrideWeight": "Float;",
+        "var zoomOverrideValue": "Float;",
+        "var zoomWeaponOverrideWeight": "Float;",
+        "var zoomWeaponOverrideValue": "Float;",
+        "var animParamWeaponNearPlaneCM": "CName;",
+        "var animParamWeaponFarPlaneCM": "CName;",
+        "var animParamWeaponEdgesSharpness": "CName;",
+        "var animParamWeaponVignetteIntensity": "CName;",
+        "var animParamWeaponVignetteRadius": "CName;",
+        "var animParamWeaponVignetteCircular": "CName;",
+        "var animParamWeaponBlurIntensity": "CName;",
+        "var weaponPlane": "SWeaponPlaneParams;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameFreeCameraComponent": {
+        "var animParamFovOverrideWeight": "CName;",
+        "var animParamFovOverrideValue": "CName;",
+        "var animParamZoomOverrideWeight": "CName;",
+        "var animParamZoomOverrideValue": "CName;",
+        "var animParamZoomWeaponOverrideWeight": "CName;",
+        "var animParamZoomWeaponOverrideValue": "CName;",
+        "var animParamdofIntensity": "CName;",
+        "var animParamdofNearBlur": "CName;",
+        "var animParamdofNearFocus": "CName;",
+        "var animParamdofFarBlur": "CName;",
+        "var animParamdofFarFocus": "CName;",
+        "var fovOverrideWeight": "Float;",
+        "var fovOverrideValue": "Float;",
+        "var zoomOverrideWeight": "Float;",
+        "var zoomOverrideValue": "Float;",
+        "var zoomWeaponOverrideWeight": "Float;",
+        "var zoomWeaponOverrideValue": "Float;",
+        "var animParamWeaponNearPlaneCM": "CName;",
+        "var animParamWeaponFarPlaneCM": "CName;",
+        "var animParamWeaponEdgesSharpness": "CName;",
+        "var animParamWeaponVignetteIntensity": "CName;",
+        "var animParamWeaponVignetteRadius": "CName;",
+        "var animParamWeaponVignetteCircular": "CName;",
+        "var animParamWeaponBlurIntensity": "CName;",
+        "var weaponPlane": "SWeaponPlaneParams;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameHitRepresentationComponent": {
+        "var physicsMaterial": "CName;",
+        "var bvhRoot": "gameHitShapeBVH;",
+        "var useResourceData": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameHumanoidBody": {
+        "var basePersonalSpace": "Float;",
+        "var baseHeight": "Float;",
+        "var baseEyesHeightRatio": "Float;",
+        "var stanceAnimFeatureName": "CName;",
+        "var aimAnimFeatureName": "CName;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameImpostorComponent": {
+        "var isCharacterReplica": "Bool;",
+        "var addHead": "Bool;",
+        "var ignorePlayerHeadSlot": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameinfluenceBumpComponent": {
+        "var isPlayerControlled": "Bool;",
+        "var movementSpreadDistance": "Float;",
+        "var movementSpreadRadius": "Float;",
+        "var distanceToReactBack": "Float;",
+        "var distanceToReactFront": "Float;",
+        "var autoPlayBumpAnimation": "Bool;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameinfluenceComponent": {
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameinfluenceHeatAgentComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameinfluenceObstacleComponent": {
+        "var boundingBoxType": "gameinfluenceEBoundingBoxType;",
+        "var customBoundingBox": "Box;",
+        "var obstacleAgent": "gameinfluenceObstacleAgent;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameinteractionsComponent": {
+        "var interactionRootOffset": "Vector3;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameinteractionsReactionComponent": {
+        "var triggerAutomatically": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameInventory": {
+        "var saveInventory": "Bool;",
+        "var inventoryTag": "gameSharedInventoryTag;",
+        "var noInitialization": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameITriggerDestructionComponent": {
+        "var startActive": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameLadderComponent": {
+        "var heightOfBottomPart": "Float;",
+        "var exitStepTop": "Float;",
+        "var verticalStepTop": "Float;",
+        "var exitStepBottom": "Float;",
+        "var verticalStepBottom": "Float;",
+        "var exitStepJump": "Float;",
+        "var verticalStepJump": "Float;",
+        "var enterOffset": "Float;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamemappinsMappinComponent": {
+        "var data": "gamemappinsMappinData;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMasterDeviceComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamemountingMountableComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMovingPlatform": {
+        "var loopType": "gameMovingPlatformLoopType;",
+        "var supportLegacyUnalignedMarkers": "Bool;",
+        "var enableWaterInteractions": "Bool;",
+        "var soundPositionName": "CName;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMovingPlatformMountableComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMultiEcsManagerComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMuppetBlackboardsComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMuppetComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMuppetInputHandlerComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMuppetInputStates": {
+        "var replicationTime": "netTime;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMuppetInventory": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMuppetLocomotionComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMuppetPhysicsComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMuppetRawInput": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMuppetStats": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameMuppetUpperBodyRequestsComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameNarrationPlateComponent": {
+        "var narrationCaption": "CName;",
+        "var narrationText": "CName;",
+        "var isEnabled": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameNavmeshDetector": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameNetrunnerPrototypeComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameObjectCarrierComponent": {
+        "var objectToSpawn": "TweakDBID;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameObjectMountableComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameOccupantSlotComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePhantomEntityComponent": {
+        "var params": "gamePhantomEntityParameters;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePhotoModeBackgroundCameraComponent": {
+        "var isEnabled": "Bool;",
+        "var virtualCameraName": "CName;",
+        "var params": "WorldRenderAreaSettings;",
+        "var depthCutDistance": "Float;",
+        "var backgroundColor": "Color;",
+        "var overrideBackgroundColor": "Bool;",
+        "var renderSceneLayer": "RenderSceneLayer;",
+        "var streamingDistance": "Float;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePhotoModeBackgroundViewComponent": {
+        "var backgroundPrefabRef": "NodeRef;",
+        "var targetPointRef": "NodeRef;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePhysicalDestructionListenerComponent": {
+        "var physicalDestructionComponentName": "CName;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePingComponent": {
+        "var associatedPingType": "gamedataPingType;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePlayerCommandConsumerComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePlayerControlledComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePlayerMappinComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePlayerTierComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "GameplayRoleComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameprojectileComponent": {
+        "var onCollisionAction": "gameprojectileOnCollisionAction;",
+        "var useSweepCollision": "Bool;",
+        "var collisionsFilterClosest": "Bool;",
+        "var sweepCollisionRadius": "Float;",
+        "var rotationOffset": "Quaternion;",
+        "var deriveOwnerVelocity": "Bool;",
+        "var derivedVelocityParams": "gameprojectileVelocityParams;",
+        "var queryPreset": "physicsQueryPreset;",
+        "var explosionPreviewTime": "Float;",
+        "var gameEffectRef": "gameEffectRef;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameprojectileSpawnComponent": {
+        "var spawnOffset": "Vector3;",
+        "var slotName": "CName;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePuppetMountableComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamePuppetTriggerDestructionComponent": {
+        "var projectionDist": "Float;",
+        "var startActive": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameRootTransformAnimatorComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameScanningActivatorComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameScanningComponent": {
+        "var timeNeeded": "Float;",
+        "var autoGenerateBoundingSphere": "Bool;",
+        "var boundingSphere": "Sphere;",
+        "var ignoresScanningDistanceLimit": "Bool;",
+        "var cpoEnableMultiplePlayersScanningModifier": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameScreenshot360CameraComponent": {
+        "var animParamFovOverrideWeight": "CName;",
+        "var animParamFovOverrideValue": "CName;",
+        "var animParamZoomOverrideWeight": "CName;",
+        "var animParamZoomOverrideValue": "CName;",
+        "var animParamZoomWeaponOverrideWeight": "CName;",
+        "var animParamZoomWeaponOverrideValue": "CName;",
+        "var animParamdofIntensity": "CName;",
+        "var animParamdofNearBlur": "CName;",
+        "var animParamdofNearFocus": "CName;",
+        "var animParamdofFarBlur": "CName;",
+        "var animParamdofFarFocus": "CName;",
+        "var fovOverrideWeight": "Float;",
+        "var fovOverrideValue": "Float;",
+        "var zoomOverrideWeight": "Float;",
+        "var zoomOverrideValue": "Float;",
+        "var zoomWeaponOverrideWeight": "Float;",
+        "var zoomWeaponOverrideValue": "Float;",
+        "var animParamWeaponNearPlaneCM": "CName;",
+        "var animParamWeaponFarPlaneCM": "CName;",
+        "var animParamWeaponEdgesSharpness": "CName;",
+        "var animParamWeaponVignetteIntensity": "CName;",
+        "var animParamWeaponVignetteRadius": "CName;",
+        "var animParamWeaponVignetteCircular": "CName;",
+        "var animParamWeaponBlurIntensity": "CName;",
+        "var weaponPlane": "SWeaponPlaneParams;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameScriptableComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameSimpleOccupantSlotSpawner": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameSourceShootComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameSquadMemberComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gamestateMachineComponent": {
+        "var packageName": "String;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameStaticAreaShapeComponent": {
+        "var color": "Color;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameStaticTriggerAreaComponent": {
+        "var includeMask": "Uint32;",
+        "var excludeMask": "Uint32;",
+        "var color": "Color;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameStatsComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameStatusEffectComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameTargetingActivatorComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameTargetingComponent": {
+        "var isPrimary": "Bool;",
+        "var isDirectional": "Bool;",
+        "var isEnabled": "Bool;",
+        "var alwaysInTestRange": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameTargetingLocalizedEffectComponent": {
+        "var streamingDistance": "Float;",
+        "var visibleTargetRange": "Float;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameTargetShootComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameTPPCameraComponent": {
+        "var animParamFovOverrideWeight": "CName;",
+        "var animParamFovOverrideValue": "CName;",
+        "var animParamZoomOverrideWeight": "CName;",
+        "var animParamZoomOverrideValue": "CName;",
+        "var animParamZoomWeaponOverrideWeight": "CName;",
+        "var animParamZoomWeaponOverrideValue": "CName;",
+        "var animParamdofIntensity": "CName;",
+        "var animParamdofNearBlur": "CName;",
+        "var animParamdofNearFocus": "CName;",
+        "var animParamdofFarBlur": "CName;",
+        "var animParamdofFarFocus": "CName;",
+        "var fovOverrideWeight": "Float;",
+        "var fovOverrideValue": "Float;",
+        "var zoomOverrideWeight": "Float;",
+        "var zoomOverrideValue": "Float;",
+        "var zoomWeaponOverrideWeight": "Float;",
+        "var zoomWeaponOverrideValue": "Float;",
+        "var animParamWeaponNearPlaneCM": "CName;",
+        "var animParamWeaponFarPlaneCM": "CName;",
+        "var animParamWeaponEdgesSharpness": "CName;",
+        "var animParamWeaponVignetteIntensity": "CName;",
+        "var animParamWeaponVignetteRadius": "CName;",
+        "var animParamWeaponVignetteCircular": "CName;",
+        "var animParamWeaponBlurIntensity": "CName;",
+        "var weaponPlane": "SWeaponPlaneParams;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameTPPRepresentationComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameTransformAnimatorComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationArmCyberwareController": {
+        "var defaultGroupName": "CName;",
+        "var isHiddenInFpp": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationBeardController": {
+        "var groupName": "CName;",
+        "var isHiddenInFpp": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationBodyController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationBodyPartsController": {
+        "var isHiddenInFpp": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationBrokenNoseController": {
+        "var stage1App": "gameuiCharacterCustomizationBrokenNoseControllerBrokenNoseAppearance;",
+        "var stage2App": "gameuiCharacterCustomizationBrokenNoseControllerBrokenNoseAppearance;",
+        "var finalSceneGroup": "CName;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationFaceController": {
+        "var groupName": "CName;",
+        "var isHiddenInFpp": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationFeetController": {
+        "var liftedFeetGroupName": "CName;",
+        "var flatFeetGroupName": "CName;",
+        "var isHiddenInFpp": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationGenitalsController": {
+        "var upperBodyGroupName": "CName;",
+        "var bottomBodyGroupName": "CName;",
+        "var forceHideGenitals": "Bool;",
+        "var isHiddenInFpp": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationHairstyleController": {
+        "var groupName": "CName;",
+        "var isHiddenInFpp": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationHeadPartsController": {
+        "var groupName": "CName;",
+        "var isHiddenInFpp": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationNailsController": {
+        "var nailsGroupName": "CName;",
+        "var isHiddenInFpp": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiCharacterCustomizationPersonalLinkController": {
+        "var simpleLinkGroup": "CName;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiHolocallCameraComponent": {
+        "var isEnabled": "Bool;",
+        "var virtualCameraName": "CName;",
+        "var resolutionWidth": "Uint32;",
+        "var resolutionHeight": "Uint32;",
+        "var aspectRatio": "Float;",
+        "var params": "WorldRenderAreaSettings;",
+        "var renderingMode": "entRenderToTextureMode;",
+        "var depthCutDistance": "Float;",
+        "var backgroundColor": "Color;",
+        "var overrideBackgroundColor": "Bool;",
+        "var renderSceneLayer": "RenderSceneLayer;",
+        "var features": "entRenderToTextureFeatures;",
+        "var streamingDistance": "Float;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiICharacterCustomizationBodyController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiICharacterCustomizationBodyPartsController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameuiICharacterCustomizationComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameVisionActivatorComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameVisionModeComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameWeakspotComponent": {
+        "var defaultPhysicalDestructionProperties": "gameWeakspotPhysicalDestructionProperties;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameWeaponAudioComponent": {
+        "var audioName": "CName;",
+        "var applyObstruction": "Bool;",
+        "var applyAcousticOcclusion": "Bool;",
+        "var applyAcousticRepositioning": "Bool;",
+        "var obstructionChangeTime": "Float;",
+        "var maxPlayDistance": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameWorldSpaceBlendCamera": {
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "GenericDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "GlitchedTurretController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "HitReactionComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "HitReactionMechComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "HoloDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "HoloFeederController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "HoloTableController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "HudMeshComponent": {
+        "var meshAppearance": "CName;",
+        "var castShadows": "shadowsShadowCastingMode;",
+        "var castLocalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedGlobalShadows": "shadowsShadowCastingMode;",
+        "var castRayTracedLocalShadows": "shadowsShadowCastingMode;",
+        "var motionBlurScale": "Float;",
+        "var visualScale": "Vector3;",
+        "var renderingPlane": "ERenderingPlane;",
+        "var objectTypeID": "ERenderObjectType;",
+        "var numInstances": "Uint32;",
+        "var chunkMask": "Uint64;",
+        "var order": "Uint8;",
+        "var isEnabled": "Bool;",
+        "var LODMode": "entMeshComponentLODMode;",
+        "var forcedLodDistance": "entForcedLodDistance;",
+        "var overrideMeshNavigationImpact": "Bool;",
+        "var navigationImpact": "NavGenNavigationSetting;",
+        "var version": "Uint8;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "IceMachineController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "InputDeviceController": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "InspectableObjectComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "InspectionComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "InteractiveAdController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "InteractiveSignController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "IntercomController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "InvisibleSceneStashController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "IWorldWidgetComponent": {
+        "var glitchValue": "Float;",
+        "var tintColor": "Color;",
+        "var screenAreaMultiplier": "Float;",
+        "var textureMinMipBias": "Uint32;",
+        "var textureMaxMipBias": "Uint32;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "JukeboxController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "KurtzBossComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "KurtzComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "LadderController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "LaserDetectorController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "LcdScreenController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "LiftController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "LootContainerAccessPointController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "MainframeController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "MaintenancePanelController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "MasterController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "MediaDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "MinotaurMechComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "MotorcycleComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "MovableDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "MovableWallScreenController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "moveComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "moveDroneMotionPlannerComponent": {
+        "var snapToGround": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "moveIMotionPlannerComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "moveMotionPlannerComponent": {
+        "var snapToGround": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "movePoliciesComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "mpInteractionActivatorComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "NcartTimetableController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "NetrunnerChairController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "NetrunnerControlPanelController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "NetworkAreaController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "NPCStatesComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "NumericDisplayController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ObjectMoverComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "OdaCementBagController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "OdaComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "PachinkoMachineController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "PalladiaAdvertisementWidgetComponent": {
+        "var format": "AdvertisementFormat;",
+        "var adGroupTDBID": "TweakDBID;",
+        "var enableOverride": "Bool;",
+        "var adOverrideTDBID": "TweakDBID;",
+        "var adVersion": "Uint32;",
+        "var useOnlyAttachedLights": "Bool;",
+        "var glitchValue": "Float;",
+        "var tintColor": "Color;",
+        "var screenAreaMultiplier": "Float;",
+        "var textureMinMipBias": "Uint32;",
+        "var textureMaxMipBias": "Uint32;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "PerkTrainingController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "PersonnelSystemController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "PhotoModePlayerEntityComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "PlatformController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "PlayerPhone": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "PortalController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ProximityDetectorController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "PSD_Detector": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "PSD_Master": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "QuickSlotsManager": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "RadioController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ReactionManagerComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ReflectorController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ResourceLibraryComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "RetractableAdController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "RewireComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "RoadBlockController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "RoadBlockTrapController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "RoboticArmsController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "RoyceComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SampleComponentWithCounter": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SampleCounterDisplayComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SasquatchComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ScannerControlComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ScavengeComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "scnVoicesetComponent": {
+        "var combatVoSettingsName": "CName;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ScriptableDeviceComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ScriptableVirtualCameraViewComponent": {
+        "var virtualCameraName": "CName;",
+        "var targetPlaneSize": "Vector2;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SecurityAlarmController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SecurityAreaController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SecurityGateController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SecurityGateLockController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SecurityLockerController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SecuritySystemController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SecurityTurretController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "senseComponent": {
+        "var enableBeingDetectable": "Bool;",
+        "var isEnabled": "Bool;",
+        "var forceDisableUI": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "senseSensorObjectComponent": {
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "senseVisibleObjectComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SensorDeviceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ServerNodeController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SimpleSwitchController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SimpleTargetManager": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SlidingLadderController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SmartHouseController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SmartWindowController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SmokeMachineController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SniperNestController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SoundSystemController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SpeakerController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SquadMemberBaseComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "StashController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "StaticPlatformController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "StatusEffectManagerComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "StillageController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "StimBroadcasterComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "StreetSignWidgetComponent": {
+        "var streetSignTDBID": "TweakDBID;",
+        "var isAStreetName": "Bool;",
+        "var streetNameSignTDBID": "TweakDBID;",
+        "var signVersion": "Uint32;",
+        "var glitchValue": "Float;",
+        "var tintColor": "Color;",
+        "var screenAreaMultiplier": "Float;",
+        "var textureMinMipBias": "Uint32;",
+        "var textureMaxMipBias": "Uint32;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SurveillanceCameraController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "SurveillanceSystemController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "TankTurretComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "TargetTrackingExtension": {
+        "var TriggersCombat": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "TerminalController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "TestScriptableComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ToiletController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "TrafficIntersectionManagerController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "TrafficZebraController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "TrapComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "TVController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "UpdateComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "vehicleCameraManagerComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "vehicleChassisComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "VehicleComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "vehicleController": {
+        "var alarmCurve": "CName;",
+        "var alarmTime": "Float;",
+        "var overrideHeadlightsSettingsForPlayer": "Bool;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "vehicleGarageComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "vehiclePersistentData": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "vehicleTPPCameraComponent": {
+        "var animParamFovOverrideWeight": "CName;",
+        "var animParamFovOverrideValue": "CName;",
+        "var animParamZoomOverrideWeight": "CName;",
+        "var animParamZoomOverrideValue": "CName;",
+        "var animParamZoomWeaponOverrideWeight": "CName;",
+        "var animParamZoomWeaponOverrideValue": "CName;",
+        "var animParamdofIntensity": "CName;",
+        "var animParamdofNearBlur": "CName;",
+        "var animParamdofNearFocus": "CName;",
+        "var animParamdofFarBlur": "CName;",
+        "var animParamdofFarFocus": "CName;",
+        "var fovOverrideWeight": "Float;",
+        "var fovOverrideValue": "Float;",
+        "var zoomOverrideWeight": "Float;",
+        "var zoomOverrideValue": "Float;",
+        "var zoomWeaponOverrideWeight": "Float;",
+        "var zoomWeaponOverrideValue": "Float;",
+        "var animParamWeaponNearPlaneCM": "CName;",
+        "var animParamWeaponFarPlaneCM": "CName;",
+        "var animParamWeaponEdgesSharpness": "CName;",
+        "var animParamWeaponVignetteIntensity": "CName;",
+        "var animParamWeaponVignetteRadius": "CName;",
+        "var animParamWeaponVignetteCircular": "CName;",
+        "var animParamWeaponBlurIntensity": "CName;",
+        "var weaponPlane": "SWeaponPlaneParams;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "vehicleVehicleMountableComponent": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "vehicleVehicleProxyBlendCamera": {
+        "var animParamFovOverrideWeight": "CName;",
+        "var animParamFovOverrideValue": "CName;",
+        "var animParamZoomOverrideWeight": "CName;",
+        "var animParamZoomOverrideValue": "CName;",
+        "var animParamZoomWeaponOverrideWeight": "CName;",
+        "var animParamZoomWeaponOverrideValue": "CName;",
+        "var animParamdofIntensity": "CName;",
+        "var animParamdofNearBlur": "CName;",
+        "var animParamdofNearFocus": "CName;",
+        "var animParamdofFarBlur": "CName;",
+        "var animParamdofFarFocus": "CName;",
+        "var fovOverrideWeight": "Float;",
+        "var fovOverrideValue": "Float;",
+        "var zoomOverrideWeight": "Float;",
+        "var zoomOverrideValue": "Float;",
+        "var zoomWeaponOverrideWeight": "Float;",
+        "var zoomWeaponOverrideValue": "Float;",
+        "var animParamWeaponNearPlaneCM": "CName;",
+        "var animParamWeaponFarPlaneCM": "CName;",
+        "var animParamWeaponEdgesSharpness": "CName;",
+        "var animParamWeaponVignetteIntensity": "CName;",
+        "var animParamWeaponVignetteRadius": "CName;",
+        "var animParamWeaponVignetteCircular": "CName;",
+        "var animParamWeaponBlurIntensity": "CName;",
+        "var weaponPlane": "SWeaponPlaneParams;",
+        "var fov": "Float;",
+        "var zoom": "Float;",
+        "var nearPlaneOverride": "Float;",
+        "var farPlaneOverride": "Float;",
+        "var motionBlurScale": "Float;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "VendingMachineController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "VendingTerminalController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "VendorComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "VentilationAreaController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "VentilationEffectorController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WallScreenController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WardrobeController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WeakFenceController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WeaponPositionComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WeaponTrainingController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WeaponVendingMachineController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WidgetBaseComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WidgetHudComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WidgetHudComponentInterface": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WidgetMenuComponent": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WidgetMenuComponentInterface": {
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WindowBlindersController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WindowController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WorkspotMapperComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "workWorkspotResourceComponent": {
+        "var syncSlotName": "CName;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "WorldWidgetComponent": {
+        "var itemNameToSpawn": "CName;",
+        "var sceneWidgetProperties": "worlduiSceneWidgetProperties;",
+        "var spawnDistanceOverride": "Float;",
+        "var limitedSpawnDistanceFromVehicle": "Bool;",
+        "var glitchValue": "Float;",
+        "var tintColor": "Color;",
+        "var screenAreaMultiplier": "Float;",
+        "var textureMinMipBias": "Uint32;",
+        "var textureMaxMipBias": "Uint32;",
+        "var isEnabled": "Bool;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "AlarmLightController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "BlindingLightController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "cpGameplayLightComponent": {
+        "var reactToTime": "Bool;",
+        "var begin": "GameTime;",
+        "var end": "GameTime;",
+        "var probability": "Float;",
+        "var delayRange": "GameTime;",
+        "var type": "ELightType;",
+        "var color": "Color;",
+        "var radius": "Float;",
+        "var unit": "ELightUnit;",
+        "var intensity": "Float;",
+        "var EV": "Float;",
+        "var temperature": "Float;",
+        "var lightChannel": "rendLightChannel;",
+        "var sceneDiffuse": "Bool;",
+        "var sceneSpecularScale": "Uint8;",
+        "var directional": "Bool;",
+        "var roughnessBias": "Int8;",
+        "var scaleGI": "Uint8;",
+        "var scaleEnvProbes": "Uint8;",
+        "var useInTransparents": "Bool;",
+        "var scaleVolFog": "Uint8;",
+        "var useInParticles": "Bool;",
+        "var attenuation": "rendLightAttenuation;",
+        "var clampAttenuation": "Bool;",
+        "var group": "rendLightGroup;",
+        "var areaShape": "EAreaLightShape;",
+        "var areaTwoSided": "Bool;",
+        "var spotCapsule": "Bool;",
+        "var sourceRadius": "Float;",
+        "var capsuleLength": "Float;",
+        "var areaRectSideA": "Float;",
+        "var areaRectSideB": "Float;",
+        "var innerAngle": "Float;",
+        "var outerAngle": "Float;",
+        "var softness": "Float;",
+        "var enableLocalShadows": "Bool;",
+        "var enableLocalShadowsForceStaticsOnly": "Bool;",
+        "var contactShadows": "rendContactShadowReciever;",
+        "var shadowAngle": "Float;",
+        "var shadowRadius": "Float;",
+        "var shadowFadeDistance": "Float;",
+        "var shadowFadeRange": "Float;",
+        "var shadowSoftnessMode": "ELightShadowSoftnessMode;",
+        "var rayTracedShadowsPlatform": "rendRayTracedShadowsPlatform;",
+        "var rayTracingLightSourceRadius": "Float;",
+        "var rayTracingContactShadowRange": "Float;",
+        "var flicker": "rendSLightFlickering;",
+        "var envColorGroup": "EEnvColorGroup;",
+        "var colorGroupSaturation": "Uint8;",
+        "var portalAngleCutoff": "Uint8;",
+        "var allowDistantLight": "Bool;",
+        "var rayTracingIntensityScale": "Float;",
+        "var pathTracingLightUsage": "rendEPathTracingLightUsage;",
+        "var pathTracingOverrideScaleGI": "Bool;",
+        "var rtxdiShadowStartingDistance": "Float;",
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "CrossingLightController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DestructibleMasterLightController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "DeviceConnectionHighlightComponent": {
+        "var priority": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ElectricLightController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entLightBlockingComponent": {
+        "var radius": "Float;",
+        "var lightBlockerComponentVersion": "Uint8;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entLightChannelComponent": {
+        "var isEnabled": "Bool;",
+        "var channels": "rendLightChannel;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "entLightComponent": {
+        "var type": "ELightType;",
+        "var color": "Color;",
+        "var radius": "Float;",
+        "var unit": "ELightUnit;",
+        "var intensity": "Float;",
+        "var EV": "Float;",
+        "var temperature": "Float;",
+        "var lightChannel": "rendLightChannel;",
+        "var sceneDiffuse": "Bool;",
+        "var sceneSpecularScale": "Uint8;",
+        "var directional": "Bool;",
+        "var roughnessBias": "Int8;",
+        "var scaleGI": "Uint8;",
+        "var scaleEnvProbes": "Uint8;",
+        "var useInTransparents": "Bool;",
+        "var scaleVolFog": "Uint8;",
+        "var useInParticles": "Bool;",
+        "var attenuation": "rendLightAttenuation;",
+        "var clampAttenuation": "Bool;",
+        "var group": "rendLightGroup;",
+        "var areaShape": "EAreaLightShape;",
+        "var areaTwoSided": "Bool;",
+        "var spotCapsule": "Bool;",
+        "var sourceRadius": "Float;",
+        "var capsuleLength": "Float;",
+        "var areaRectSideA": "Float;",
+        "var areaRectSideB": "Float;",
+        "var innerAngle": "Float;",
+        "var outerAngle": "Float;",
+        "var softness": "Float;",
+        "var enableLocalShadows": "Bool;",
+        "var enableLocalShadowsForceStaticsOnly": "Bool;",
+        "var contactShadows": "rendContactShadowReciever;",
+        "var shadowAngle": "Float;",
+        "var shadowRadius": "Float;",
+        "var shadowFadeDistance": "Float;",
+        "var shadowFadeRange": "Float;",
+        "var shadowSoftnessMode": "ELightShadowSoftnessMode;",
+        "var rayTracedShadowsPlatform": "rendRayTracedShadowsPlatform;",
+        "var rayTracingLightSourceRadius": "Float;",
+        "var rayTracingContactShadowRange": "Float;",
+        "var flicker": "rendSLightFlickering;",
+        "var envColorGroup": "EEnvColorGroup;",
+        "var colorGroupSaturation": "Uint8;",
+        "var portalAngleCutoff": "Uint8;",
+        "var allowDistantLight": "Bool;",
+        "var rayTracingIntensityScale": "Float;",
+        "var pathTracingLightUsage": "rendEPathTracingLightUsage;",
+        "var pathTracingOverrideScaleGI": "Bool;",
+        "var rtxdiShadowStartingDistance": "Float;",
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "ExitLightController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "gameLightComponent": {
+        "var emissiveOnly": "Bool;",
+        "var materialZone": "gameEMaterialZone;",
+        "var meshBrokenAppearance": "CName;",
+        "var onStrength": "Float;",
+        "var turnOnByDefault": "Bool;",
+        "var turnOnTime": "Float;",
+        "var turnOnCurve": "CName;",
+        "var turnOffTime": "Float;",
+        "var turnOffCurve": "CName;",
+        "var loopTime": "Float;",
+        "var loopCurve": "CName;",
+        "var synchronizedLoop": "Bool;",
+        "var isDestructible": "Bool;",
+        "var colliderName": "CName;",
+        "var colliderTag": "CName;",
+        "var type": "ELightType;",
+        "var color": "Color;",
+        "var radius": "Float;",
+        "var unit": "ELightUnit;",
+        "var intensity": "Float;",
+        "var EV": "Float;",
+        "var temperature": "Float;",
+        "var lightChannel": "rendLightChannel;",
+        "var sceneDiffuse": "Bool;",
+        "var sceneSpecularScale": "Uint8;",
+        "var directional": "Bool;",
+        "var roughnessBias": "Int8;",
+        "var scaleGI": "Uint8;",
+        "var scaleEnvProbes": "Uint8;",
+        "var useInTransparents": "Bool;",
+        "var scaleVolFog": "Uint8;",
+        "var useInParticles": "Bool;",
+        "var attenuation": "rendLightAttenuation;",
+        "var clampAttenuation": "Bool;",
+        "var group": "rendLightGroup;",
+        "var areaShape": "EAreaLightShape;",
+        "var areaTwoSided": "Bool;",
+        "var spotCapsule": "Bool;",
+        "var sourceRadius": "Float;",
+        "var capsuleLength": "Float;",
+        "var areaRectSideA": "Float;",
+        "var areaRectSideB": "Float;",
+        "var innerAngle": "Float;",
+        "var outerAngle": "Float;",
+        "var softness": "Float;",
+        "var enableLocalShadows": "Bool;",
+        "var enableLocalShadowsForceStaticsOnly": "Bool;",
+        "var contactShadows": "rendContactShadowReciever;",
+        "var shadowAngle": "Float;",
+        "var shadowRadius": "Float;",
+        "var shadowFadeDistance": "Float;",
+        "var shadowFadeRange": "Float;",
+        "var shadowSoftnessMode": "ELightShadowSoftnessMode;",
+        "var rayTracedShadowsPlatform": "rendRayTracedShadowsPlatform;",
+        "var rayTracingLightSourceRadius": "Float;",
+        "var rayTracingContactShadowRange": "Float;",
+        "var flicker": "rendSLightFlickering;",
+        "var envColorGroup": "EEnvColorGroup;",
+        "var colorGroupSaturation": "Uint8;",
+        "var portalAngleCutoff": "Uint8;",
+        "var allowDistantLight": "Bool;",
+        "var rayTracingIntensityScale": "Float;",
+        "var pathTracingLightUsage": "rendEPathTracingLightUsage;",
+        "var pathTracingOverrideScaleGI": "Bool;",
+        "var rtxdiShadowStartingDistance": "Float;",
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "GameplayLightController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "TrafficLightController": {
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "vehicleLightComponent": {
+        "var allowSeparateEmissiveColor": "Bool;",
+        "var emissiveColor": "Color;",
+        "var lightType": "vehicleELightType;",
+        "var highBeamPitchAngle": "Float;",
+        "var highBeamRadiusMultiplier": "Float;",
+        "var highBeamConeMultiplier": "Float;",
+        "var emissiveOnly": "Bool;",
+        "var materialZone": "gameEMaterialZone;",
+        "var meshBrokenAppearance": "CName;",
+        "var onStrength": "Float;",
+        "var turnOnByDefault": "Bool;",
+        "var turnOnTime": "Float;",
+        "var turnOnCurve": "CName;",
+        "var turnOffTime": "Float;",
+        "var turnOffCurve": "CName;",
+        "var loopTime": "Float;",
+        "var loopCurve": "CName;",
+        "var synchronizedLoop": "Bool;",
+        "var isDestructible": "Bool;",
+        "var colliderName": "CName;",
+        "var colliderTag": "CName;",
+        "var type": "ELightType;",
+        "var color": "Color;",
+        "var radius": "Float;",
+        "var unit": "ELightUnit;",
+        "var intensity": "Float;",
+        "var EV": "Float;",
+        "var temperature": "Float;",
+        "var lightChannel": "rendLightChannel;",
+        "var sceneDiffuse": "Bool;",
+        "var sceneSpecularScale": "Uint8;",
+        "var directional": "Bool;",
+        "var roughnessBias": "Int8;",
+        "var scaleGI": "Uint8;",
+        "var scaleEnvProbes": "Uint8;",
+        "var useInTransparents": "Bool;",
+        "var scaleVolFog": "Uint8;",
+        "var useInParticles": "Bool;",
+        "var attenuation": "rendLightAttenuation;",
+        "var clampAttenuation": "Bool;",
+        "var group": "rendLightGroup;",
+        "var areaShape": "EAreaLightShape;",
+        "var areaTwoSided": "Bool;",
+        "var spotCapsule": "Bool;",
+        "var sourceRadius": "Float;",
+        "var capsuleLength": "Float;",
+        "var areaRectSideA": "Float;",
+        "var areaRectSideB": "Float;",
+        "var innerAngle": "Float;",
+        "var outerAngle": "Float;",
+        "var softness": "Float;",
+        "var enableLocalShadows": "Bool;",
+        "var enableLocalShadowsForceStaticsOnly": "Bool;",
+        "var contactShadows": "rendContactShadowReciever;",
+        "var shadowAngle": "Float;",
+        "var shadowRadius": "Float;",
+        "var shadowFadeDistance": "Float;",
+        "var shadowFadeRange": "Float;",
+        "var shadowSoftnessMode": "ELightShadowSoftnessMode;",
+        "var rayTracedShadowsPlatform": "rendRayTracedShadowsPlatform;",
+        "var rayTracingLightSourceRadius": "Float;",
+        "var rayTracingContactShadowRange": "Float;",
+        "var flicker": "rendSLightFlickering;",
+        "var envColorGroup": "EEnvColorGroup;",
+        "var colorGroupSaturation": "Uint8;",
+        "var portalAngleCutoff": "Uint8;",
+        "var allowDistantLight": "Bool;",
+        "var rayTracingIntensityScale": "Float;",
+        "var pathTracingLightUsage": "rendEPathTracingLightUsage;",
+        "var pathTracingOverrideScaleGI": "Bool;",
+        "var rtxdiShadowStartingDistance": "Float;",
+        "var isEnabled": "Bool;",
+        "var autoHideDistance": "Float;",
+        "var renderSceneLayerMask": "RenderSceneLayerMask;",
+        "var forceLODLevel": "Int8;",
+        "var localTransform": "WorldTransform;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    },
+    "worldTrafficLightListenerComponent": {
+        "var intersectionRef": "NodeRef;",
+        "var groupIdx": "Uint32;",
+        "var name": "CName;",
+        "var isReplicable": "Bool;",
+        "var id": "CRUID;"
+    }
+}
