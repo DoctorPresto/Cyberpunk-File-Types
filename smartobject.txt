@@ -42,3 +42,8 @@ gameplay\smart_objects\vault_10cm_combat.smartobject
 gameplay\smart_objects\vault_10cm_sprint.smartobject
 gameplay\smart_objects\vault_40cm_combat.smartobject
 gameplay\smart_objects\vault_40cm_sprint.smartobject
+ep1\gameplay\smart_objects\cerberus_crate_vault.smartobject
+ep1\gameplay\smart_objects\cerberus_double_door.smartobject
+ep1\gameplay\smart_objects\cerberus_railing_vault.smartobject
+ep1\gameplay\smart_objects\cerberus_single_door.smartobject
+ep1\gameplay\smart_objects\vault_drop_roll_landing.smartobject

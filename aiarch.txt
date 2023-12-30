@@ -11,3 +11,13 @@ gameplay\ai\archetypes\prevention_maxtac_smoker.aiarch
 gameplay\ai\archetypes\sasquatch.aiarch
 gameplay\ai\archetypes\spiderbot_follower.aiarch
 gameplay\ai\archetypes\vehicle.aiarch
+ep1\gameplay\ai\archetypes\boris_ribakov.aiarch
+ep1\gameplay\ai\archetypes\chimera.aiarch
+ep1\gameplay\ai\archetypes\ep1_cerberus_robot.aiarch
+ep1\gameplay\ai\archetypes\jurij.aiarch
+ep1\gameplay\ai\archetypes\kurt_krauser.aiarch
+ep1\gameplay\ai\archetypes\myers_chimera.aiarch
+ep1\gameplay\ai\archetypes\q302_akebono_drone.aiarch
+ep1\gameplay\ai\archetypes\songbird_follower.aiarch
+ep1\gameplay\ai\archetypes\wagner_bodyguard.aiarch
+ep1\gameplay\ai\archetypes\we_ep1_17_drone.aiarch

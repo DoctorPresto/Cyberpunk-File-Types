@@ -1,1 +1,2 @@
 journal\cooked_journal.journal
+ep1\journal\cooked_journal.journal

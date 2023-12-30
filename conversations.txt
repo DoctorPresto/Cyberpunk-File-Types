@@ -26,3 +26,7 @@ open_world\scenes\conversations\conversation_groups\vendor_client.conversations
 open_world\scenes\conversations\conversation_groups\waitress_client.conversations
 open_world\scenes\conversations\conversation_groups\workers.conversations
 open_world\scenes\conversations\conversation_groups\wraiths.conversations
+ep1\openworld\scene\conversation_groups\ep1_combat_zone_generic.conversations
+ep1\openworld\scene\conversation_groups\ep1_combat_zone_junkie.conversations
+ep1\openworld\scene\conversation_groups\ep1_combat_zone_kurt_militia.conversations
+ep1\openworld\scene\conversation_groups\ep1_combat_zone_voodoo_boys.conversations

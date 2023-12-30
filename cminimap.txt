@@ -36,3 +36,5 @@ worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c111_80
 worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c124_71_192.cminimap
 worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c124_71_193.cminimap
 worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c125_71_193.cminimap
+worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c69_63_159.cminimap
+worlds\03_night_city\sectors\_generated\minimap\special\resources\a0_0_0_c70_63_159.cminimap

@@ -1,3 +1,4 @@
 gamedefs.reslist
 journal\index.reslist
 worlds\worlds.reslist
+ep1\gamedefs.reslist

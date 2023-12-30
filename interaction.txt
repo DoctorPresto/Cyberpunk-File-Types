@@ -22,6 +22,7 @@ gameplay\devices\home_appliances\movable_wall_screen\movable_wall_screen_interac
 gameplay\devices\home_appliances\radio_sets\radio_interaction_1.interaction
 gameplay\devices\home_appliances\tv_sets\tv_interaction.interaction
 gameplay\devices\interactions\default_device_interaction.interaction
+gameplay\devices\interactions\ladder_device_interaction.interaction
 gameplay\devices\ladder\ladder_resource_10m.interaction
 gameplay\devices\ladder\ladder_resource_11m.interaction
 gameplay\devices\ladder\ladder_resource_12m.interaction
@@ -60,3 +61,5 @@ gameplay\weakspots\weakspot_base_interaction.interaction
 quest\side_quests\sq027\temp\q000_temp_panzer_bullet_interaction.interaction
 vehicles\special\v_militech_basilisk\gameplay\basilisk_device_interaction.interaction
 engine\scenesystem\hotspotdefinition.interaction
+ep1\gameplay\devices\distractors\lightning_cross_interaction.interaction
+ep1\gameplay\devices\ladder\ladder_resource_18m.interaction

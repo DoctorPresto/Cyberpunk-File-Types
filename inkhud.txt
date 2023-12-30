@@ -1,3 +1,4 @@
+gameplay\devices\binoculars\binoculars_hud.inkhud
 gameplay\gui\hud_camera.inkhud
 gameplay\gui\hud_drone.inkhud
 gameplay\gui\hud_johnny.inkhud
@@ -7,3 +8,8 @@ gameplay\gui\hud_turret.inkhud
 gameplay\gui\hud_tutorial.inkhud
 gameplay\gui\prototype_hud.inkhud
 open_world\mini_world_stories\badlands\se5\mws_se5_03\ui\mws_se5_03_hud.inkhud
+ep1\gameplay\gui\hud_kurt.inkhud
+ep1\gameplay\gui\hud_q304_car_camera.inkhud
+ep1\gameplay\gui\hud_q304_replacer.inkhud
+ep1\gameplay\gui\hud_q305_drone.inkhud
+ep1\gameplay\gui\hud_sniper_nest.inkhud

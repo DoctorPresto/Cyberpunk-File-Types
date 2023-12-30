@@ -1,2 +1,4 @@
 gameplay\gui\fullscreen\main_menu\female_cco.inkcharcustomization
 gameplay\gui\fullscreen\main_menu\male_cco.inkcharcustomization
+ep1\gameplay\gui\fullscreen\main_menu\female_cco_ep1.inkcharcustomization
+ep1\gameplay\gui\fullscreen\main_menu\male_cco_ep1.inkcharcustomization

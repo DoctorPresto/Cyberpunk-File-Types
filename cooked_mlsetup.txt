@@ -1,1 +1,2 @@
 resource.cooked_mlsetup
+ep1\resource.cooked_mlsetup

@@ -181,3 +181,4 @@ vehicles\standard\v_standard2_thorton_galena_nomad\gameplay\sand_surface.curvese
 vehicles\_e3_content\zodiac_boat\boat_rotations.curveset
 engine\time_system\ease_in.curveset
 engine\time_system\ease_out.curveset
+ep1\gameplay\curves\player\cw_breach_priorities.curveset

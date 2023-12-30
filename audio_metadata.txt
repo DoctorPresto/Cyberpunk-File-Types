@@ -1,1 +1,2 @@
 sound\metadata\cooked_metadata.audio_metadata
+ep1\sound\metadata\cooked_metadata.audio_metadata

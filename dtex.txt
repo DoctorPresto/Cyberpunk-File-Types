@@ -46,3 +46,6 @@ quest\side_quests\sq025\entities\live_feed\sq025_briefing_screen_dynamic_texture
 quest\side_quests\sq025\entities\live_feed\sq025_reception_screen_dynamic_texture.dtex
 engine\textures\global_ocean_patch\water_patch_fft.dtex
 engine\textures\global_ocean_patch\water_patch_sim.dtex
+ep1\quest\main_quests\q301\entities\streaming\q301_kurt_announcement_monitor_dynamic_texture.dtex
+ep1\quest\main_quests\q306\entities\live_feed\q306_comp_screen_dynamic_texture.dtex
+ep1\quest\minor_quests\mq305\entities\live_feed\mq305_lab_screen_dynamic_texture.dtex

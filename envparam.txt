@@ -109,6 +109,7 @@ weather\24h_basic\cp_ui_character_custom_v003.envparam
 weather\24h_basic\custom_jungle_foggy_climate.envparam
 weather\24h_basic\e3_hack_pd_env.envparam
 weather\24h_basic\for_drafts_based_on_24h_rd_tech_v002.envparam
+weather\24h_basic\metro_no_wetness.envparam
 weather\24h_basic\prefab_lut_no_fog.envparam
 weather\24h_basic\q301_gate_daytime.envparam
 weather\24h_basic\q302_deeb_blue.envparam
@@ -207,3 +208,7 @@ weather\trailer_2018\sh210_glamour.envparam
 weather\trailer_2018\sh230_mealstrom_lut.envparam
 weather\vertical_slice\av_crash\av_crash.envparam
 engine\environments\world_weather_params.envparam
+ep1\weather\cp2077_ep1_master_env_ep1_ow_trigger.envparam
+ep1\weather\cp2077_ep1_master_env_ep1_ow_trigger_v005.envparam
+ep1\weather\cp2077_ep1_master_env_ep1_ow_trigger_v006.envparam
+ep1\weather\cp2077_ep1_master_env_ep1_ow_trigger_v006_trailer_only.envparam

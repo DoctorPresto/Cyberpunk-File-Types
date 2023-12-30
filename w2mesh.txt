@@ -318,6 +318,7 @@ gameplay\devices\home_appliances\radio_sets\radio_ui_mesh.w2mesh
 gameplay\gui\meshes\hud_mesh.w2mesh
 gameplay\gui\meshes\menu_mesh.w2mesh
 items\interactive\recreation\int_recreation_002__gym_equipment_a\navmesh_blocker.w2mesh
+lighting\cylinder_gi_visible_game_invisible.w2mesh
 lighting\emissive_cylinder.w2mesh
 lighting\emissive_cylinder_a.w2mesh
 lighting\emissive_tube_judy_rtx.w2mesh
@@ -359,3 +360,5 @@ engine\meshes\editor\markers\review\review_flag_fixed.w2mesh
 engine\meshes\editor\markers\review\review_flag_open.w2mesh
 engine\meshes\waypoint\invalid.w2mesh
 engine\meshes\waypoint\valid.w2mesh
+ep1\quest\main_quests\q305\entities\q305_preambush_reed_hologram.w2mesh
+ep1\quest\main_quests\q305\entities\q305_start_position_hologram.w2mesh

@@ -1,1 +1,2 @@
 sound\localization\voicetaglist.voicetags
+ep1\sound\localization\voicetaglist.voicetags

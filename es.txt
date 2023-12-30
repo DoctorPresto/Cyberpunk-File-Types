@@ -75,3 +75,11 @@ gameplay\strike\finisher.es
 gameplay\strike\healallnpcsinrange.es
 gameplay\strike\killallnpcsinrange.es
 gameplay\strike\stats.es
+ep1\fx\gameplay\perks_ep1\ep1_perks.es
+ep1\gameplay\game_effects\cerberus_scanning.es
+ep1\gameplay\game_effects\attack_effects\chimera_beams.es
+ep1\gameplay\game_effects\attack_effects\chimera_bullet_effect.es
+ep1\gameplay\game_effects\attack_effects\chimera_explosions.es
+ep1\gameplay\game_effects\attack_effects\dots\chimera_dots.es
+ep1\gameplay\game_effects\attack_effects\explosions\explosions.es
+ep1\gameplay\game_effects\projectiles\ep1_projectiles_aoe.es
