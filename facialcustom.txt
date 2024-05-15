@@ -1,3 +1,3 @@
-21\head\player_base_heads\player_female_average\pwa_customization_set.facialcustom
-21\head\player_base_heads\player_man_average\pma_customization_set.facialcustom
-21\head\pma\h0_000_pma_c__basehead\facial_cust_set.facialcustom
+characters\head\player_base_heads\player_female_average\pwa_customization_set.facialcustom
+characters\head\player_base_heads\player_man_average\pma_customization_set.facialcustom
+characters\head\pma\h0_000_pma_c__basehead\facial_cust_set.facialcustom

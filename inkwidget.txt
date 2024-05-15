@@ -467,6 +467,7 @@ gameplay\gui\widgets\notifications\tarot_card_preview.inkwidget
 gameplay\gui\widgets\notifications\time_skip_popup_new.inkwidget
 gameplay\gui\widgets\notifications\tutorial.inkwidget
 gameplay\gui\widgets\notifications\vehicle_summon.inkwidget
+gameplay\gui\widgets\notifications\vehicle_visual_customization.inkwidget
 gameplay\gui\widgets\notifications\vendor_confirmation.inkwidget
 gameplay\gui\widgets\notifications\vendor_sell_junk_confirmation.inkwidget
 gameplay\gui\widgets\notifications\zonealert_notification.inkwidget
@@ -1276,6 +1277,9 @@ gameplay\gui\world\vending_machines_ads\tiancha_vending\tiancha_vending.inkwidge
 gameplay\gui\world\vending_machines_ads\tiancha_vending\tiancha_vending_animated.inkwidget
 gameplay\gui\world\ventilation_system\ventilation_system_device.inkwidget
 gameplay\gui\world\weapon_locker\weapon_locker.inkwidget
+gameplay\vehicles\visual_customization\vvc_car_appearance_widget.inkwidget
+gameplay\vehicles\visual_customization\vvc_car_appearance_widget_aerondight_doors.inkwidget
+gameplay\vehicles\visual_customization\vvc_car_appearance_widget_caliburn.inkwidget
 items\quest\mq007__misc\mq007_skippy_avatar_widget.inkwidget
 items\quest\q000__misc\q000_corpo_jenkins_tv_widget.inkwidget
 items\quest\q000__misc\q000_corpo_live_feed_widget.inkwidget

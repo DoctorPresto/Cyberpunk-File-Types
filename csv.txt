@@ -1,12 +1,4 @@
 censorship_swap_list.csv
-21\appearances_for_proxy_generation.csv
-21\body_parts.csv
-21\body_types_map.csv
-21\communities.csv
-21\proxy_shadows.csv
-21\player\body_parts.csv
-21\player\body_types_map.csv
-21\player\communities.csv
 animations\anim_motion_dataaction_animation.csv
 animations\anim_motion_dataaction_animation_facial.csv
 animations\anim_motion_dataadam_smasher_weapons.csv
@@ -28,6 +20,14 @@ animations\anim_motion_dataplayer_melee_attacks_deflects.csv
 animations\anim_motion_dataplayer_melee_attacks_hits.csv
 animations\anim_motion_dataplayer_vehicle_knockdown.csv
 animations\npc\animvalidationsettings.csv
+characters\appearances_for_proxy_generation.csv
+characters\body_parts.csv
+characters\body_types_map.csv
+characters\communities.csv
+characters\proxy_shadows.csv
+characters\player\body_parts.csv
+characters\player\body_types_map.csv
+characters\player\communities.csv
 fx\preload.csv
 gameplay\community_system.csv
 gameplay\dynamic_ps_classes.csv

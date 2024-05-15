@@ -2350,6 +2350,7 @@ fx\vehicles\stratospheric_plane\v_stratospheric_plane_landing_engines.effect
 fx\vehicles\stratospheric_plane\v_stratospheric_plane_landing_smoke.effect
 fx\vehicles\stratospheric_plane\v_stratospheric_plane_takeoff_engines.effect
 fx\vehicles\stratospheric_plane\v_stratospheric_plane_takeoff_smoke.effect
+fx\vehicles\visual_customization\v_visual_customization.effect
 fx\vehicles\weapons\v_vehicle_rocket_impact.effect
 fx\vehicles\weapons\v_vehicle_rocket_trail.effect
 fx\vehicles\_crystal_dome\v_crystal_dome_broken.effect
@@ -2360,6 +2361,7 @@ fx\vehicles\_crystal_dome\v_crystal_dome_start_basilisk.effect
 fx\vehicles\_crystal_dome\v_crystal_dome_start_long.effect
 fx\vehicles\_crystal_dome\v_crystal_dome_stop.effect
 fx\vehicles\_crystal_dome\v_crystal_dome_stop_basilisk.effect
+fx\vehicles\_crystal_dome\v_crystal_dome_stop_fast.effect
 fx\vehicles\_damage\av_turret_ripped_out_sparks.effect
 fx\vehicles\_damage\veh_collision_sparks.effect
 fx\vehicles\_damage\veh_rim_sparks.effect

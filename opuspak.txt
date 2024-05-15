@@ -974,6 +974,7 @@ sound\soundbanks\sfx_container_1873.opuspak
 sound\soundbanks\sfx_container_1874.opuspak
 sound\soundbanks\sfx_container_1875.opuspak
 sound\soundbanks\sfx_container_1876.opuspak
+sound\soundbanks\sfx_container_1877.opuspak
 sound\soundbanks\sfx_container_188.opuspak
 sound\soundbanks\sfx_container_189.opuspak
 sound\soundbanks\sfx_container_19.opuspak

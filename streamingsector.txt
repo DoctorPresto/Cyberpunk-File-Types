@@ -1013,7 +1013,6 @@ worlds\03_night_city\_compiled\default\exterior_-13_-2_0_0.streamingsector
 worlds\03_night_city\_compiled\default\exterior_-13_-2_0_1.streamingsector
 worlds\03_night_city\_compiled\default\exterior_-13_-2_0_3.streamingsector
 worlds\03_night_city\_compiled\default\exterior_-13_-2_2_1.streamingsector
-worlds\03_night_city\_compiled\default\exterior_-13_-2_3_0.streamingsector
 worlds\03_night_city\_compiled\default\exterior_-13_-30_0_0.streamingsector
 worlds\03_night_city\_compiled\default\exterior_-13_-30_0_1.streamingsector
 worlds\03_night_city\_compiled\default\exterior_-13_-31_0_0.streamingsector
@@ -11831,7 +11830,6 @@ worlds\03_night_city\_compiled\default\exterior_0_-4_0_3.streamingsector
 worlds\03_night_city\_compiled\default\exterior_0_-4_0_4.streamingsector
 worlds\03_night_city\_compiled\default\exterior_0_-4_1_0.streamingsector
 worlds\03_night_city\_compiled\default\exterior_0_-57_0_0.streamingsector
-worlds\03_night_city\_compiled\default\exterior_0_-58_0_0.streamingsector
 worlds\03_night_city\_compiled\default\exterior_0_-5_-1_2.streamingsector
 worlds\03_night_city\_compiled\default\exterior_0_-5_-1_3.streamingsector
 worlds\03_night_city\_compiled\default\exterior_0_-5_0_0.streamingsector
@@ -15051,6 +15049,7 @@ worlds\03_night_city\_compiled\default\exterior_7_-33_1_1.streamingsector
 worlds\03_night_city\_compiled\default\exterior_7_-34_0_0.streamingsector
 worlds\03_night_city\_compiled\default\exterior_7_-35_0_0.streamingsector
 worlds\03_night_city\_compiled\default\exterior_7_-36_0_0.streamingsector
+worlds\03_night_city\_compiled\default\exterior_7_-37_2_0.streamingsector
 worlds\03_night_city\_compiled\default\exterior_7_-3_0_2.streamingsector
 worlds\03_night_city\_compiled\default\exterior_7_-3_0_3.streamingsector
 worlds\03_night_city\_compiled\default\exterior_7_-3_0_4.streamingsector

@@ -336,6 +336,7 @@ open_world\street_stories\westbrook\japantown\sts_wbr_jpn_03\entities\sts_wbr_jp
 prefabs\environment\decoration\advertising\signage\neon_japanese_text\neon_karaoke_small_text_ball.w2mesh
 quest\main_quests\prologue\q000\entities\camera_plane_hym.w2mesh
 quest\main_quests\prologue\q004\entities\q004_pda_plane.w2mesh
+worlds\03_night_city\sectors\c_city_center\corpo_plaza\loc_arasaka_tower\loc_arasaka_tower_env\interior\jungle_tree_collision.w2mesh
 engine\constructor\sky\skybox.w2mesh
 engine\fallback\helper_no_entity.w2mesh
 engine\fallback\helper_no_mesh.w2mesh

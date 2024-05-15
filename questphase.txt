@@ -3,6 +3,7 @@ gameplay\air_traffic\phases\air_traffic_disabling_phase.questphase
 gameplay\air_traffic\phases\air_traffic_enabling_phase.questphase
 gameplay\devices\binoculars\sightseeing_binoculars_phase.questphase
 gameplay\gui\world\internet\internet_content.questphase
+gameplay\vehicles\visual_customization\vvc_control.questphase
 media\radio\radio_content.questphase
 media\tv\tv_content.questphase
 media\tv\phases\ch01_n54_news.questphase
@@ -1773,6 +1774,7 @@ quest\holocalls\frank\frank_cleanup.questphase
 quest\holocalls\frank\frank_holocall.questphase
 quest\holocalls\hanako\hanako_cleanup.questphase
 quest\holocalls\hanako\hanako_holocall.questphase
+quest\holocalls\holofixer\holofixer.questphase
 quest\holocalls\jackie\jackie_cleanup.questphase
 quest\holocalls\jackie\jackie_holocall.questphase
 quest\holocalls\jefferson\jefferson_cleanup.questphase
@@ -2486,6 +2488,7 @@ quest\minor_quests\mq049\mq049.questphase
 quest\minor_quests\mq049\phases\mq049_messages_falco.questphase
 quest\minor_quests\mq049\phases\mq049_messages_reyes.questphase
 quest\minor_quests\mq050\mq050.questphase
+quest\minor_quests\mq050\mq050_bugfixing.questphase
 quest\minor_quests\mq055\mq055.questphase
 quest\minor_quests\mq055\phases\mq055_apartment.questphase
 quest\minor_quests\mq055\phases\mq055_apartment_downtown.questphase

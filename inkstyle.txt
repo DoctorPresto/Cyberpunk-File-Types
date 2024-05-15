@@ -112,6 +112,7 @@ gameplay\gui\widgets\notifications\stats_progress_notification.inkstyle
 gameplay\gui\widgets\notifications\vendor_confirmation_style.inkstyle
 gameplay\gui\widgets\notifications\archived\stealth_alert.inkstyle
 gameplay\gui\widgets\phone\hud_phone_style.inkstyle
+gameplay\gui\widgets\phone\phone_colorblind_contact_list_override.inkstyle
 gameplay\gui\widgets\quests\quest.inkstyle
 gameplay\gui\widgets\quickhacks\quickhack_style.inkstyle
 gameplay\gui\widgets\radial_wheel\radial_styles.inkstyle
@@ -154,6 +155,8 @@ gameplay\gui\world\computers\computer_acitve.inkstyle
 gameplay\gui\world\data_terms\data_term.inkstyle
 gameplay\gui\world\drop_point\drop_point_style.inkstyle
 gameplay\gui\world\intercom\call_button_styles.inkstyle
+gameplay\gui\world\internet\home\home_page_style.inkstyle
+gameplay\gui\world\internet\templates\apartments\apartments_website.inkstyle
 gameplay\gui\world\internet\templates\growl_fm\growl_fm_website_style.inkstyle
 gameplay\gui\world\internet\templates\vehicles\vehicle_website_style.inkstyle
 gameplay\gui\world\radio\radio_ui.inkstyle

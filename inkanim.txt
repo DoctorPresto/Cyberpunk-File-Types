@@ -292,6 +292,7 @@ gameplay\gui\widgets\notifications\tarot_card_preview_animations.inkanim
 gameplay\gui\widgets\notifications\time_skip_popup_new_animations.inkanim
 gameplay\gui\widgets\notifications\tutorial_animations.inkanim
 gameplay\gui\widgets\notifications\vehicle_summon_animations.inkanim
+gameplay\gui\widgets\notifications\vehicle_visual_customization_anim.inkanim
 gameplay\gui\widgets\notifications\vendor_confirmation_animations.inkanim
 gameplay\gui\widgets\notifications\vendor_sell_junk_confirmation_animations.inkanim
 gameplay\gui\widgets\notifications\zonealert_notification_animations.inkanim
@@ -518,6 +519,7 @@ gameplay\gui\world\electric_box\electric_box_animations.inkanim
 gameplay\gui\world\elevators\elevator_animations.inkanim
 gameplay\gui\world\generic_devices\generic_device_animations.inkanim
 gameplay\gui\world\internet\internet_spinner_animations.inkanim
+gameplay\gui\world\internet\templates\vehicles\website_notification_animations.inkanim
 gameplay\gui\world\loading_screens\initial_loading_screen\initial_loading_screen_animations.inkanim
 gameplay\gui\world\loading_screens\loading_screen_10_after_q112\loading_screen_10_after_q112_animations.inkanim
 gameplay\gui\world\loading_screens\loading_screen_11_after_q113\loading_screen_11_after_q113_animations.inkanim
@@ -553,6 +555,8 @@ gameplay\gui\world\vending_machines\vending_machine_ui_plug_in_animations.inkani
 gameplay\gui\world\vending_machines\vending_machine_ui_plug_in_square_animations.inkanim
 gameplay\gui\world\vending_machines_ads\brendan_vending\brendan_vending_animations.inkanim
 gameplay\gui\world\vending_machines_ads\shwabshwab\shwabshwab_animated_animations.inkanim
+gameplay\vehicles\visual_customization\vvc_car_appearance_widget_anim.inkanim
+gameplay\vehicles\visual_customization\vvc_car_appearance_widget_caliburn_anim.inkanim
 items\quest\mq007__misc\mq007_skippy_avatar_widget_animations.inkanim
 open_world\metro\ue_metro\ui\ue_metro_gate_logo_animations.inkanim
 open_world\metro\ue_metro\ui\ue_metro_map.inkanim

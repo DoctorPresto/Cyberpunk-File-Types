@@ -1,4 +1,3 @@
-21\main_npc\yorinobu_arasaka\t2_001_ma_dress__yourinobu_arasaka_cloth_simulation_animations.anims
 animations\cyberware\default_cw.anims
 animations\cyberware\default_cw_player.anims
 animations\cyberware\pma_default_cw.anims
@@ -3561,6 +3560,7 @@ animations\quest\main_quests\part1\q112\q112_00b_secret_meeting\body\q112_00b_se
 animations\quest\main_quests\part1\q112\q112_00b_secret_meeting\body\q112_00b_secret_meeting__necklace.anims
 animations\quest\main_quests\part1\q112\q112_00b_secret_meeting\body\q112_00b_secret_meeting__player_female_sit_rail.anims
 animations\quest\main_quests\part1\q112\q112_00b_secret_meeting\body\q112_00b_secret_meeting__player_sit_rail.anims
+animations\quest\main_quests\part1\q112\q112_00b_secret_meeting\body\q112_00b_secret_meeting__villefort_cortes.anims
 animations\quest\main_quests\part1\q112\q112_00b_secret_meeting\synced\synced__q112_00b_secret_meeting__male_average.anims
 animations\quest\main_quests\part1\q112\q112_00b_secret_meeting\synced\synced__q112_00b_secret_meeting__villefort_columbus.anims
 animations\quest\main_quests\part1\q112\q112_00b_secret_meeting\synced\synced__q112_00b_secret_meeting__villefort_cortes.anims
@@ -4171,6 +4171,9 @@ animations\quest\main_quests\prologue\q005\q005_15_no_tell_motel\anim\q005_15_no
 animations\quest\main_quests\prologue\q005\q005_15_no_tell_motel\anim\q005_15_no_tell_motel__player_ma_animation.anims
 animations\quest\main_quests\prologue\q005\q005_15_no_tell_motel\anim\q005_15_no_tell_motel__player_ma_tpp_animation.anims
 animations\quest\main_quests\prologue\q005\q005_15_no_tell_motel\anim\q005_15_no_tell_motel__player_wa_tpp_animation.anims
+animations\quest\main_quests\q302\q302_05_bar\body\q302_05_bar__old_phone.anims
+animations\quest\main_quests\q302\q302_05_bar\body\q302_05_bar__player_female.anims
+animations\quest\main_quests\q302\q302_05_bar\body\q302_05_bar__player_male.anims
 animations\quest\main_quests\q305\q305_05_ambush_scenes\body\q305_05_ambush_militech_hellhound__01.anims
 animations\quest\mini_world_stories\mws_se5_03\mws_se5_03_katana.anims
 animations\quest\mini_world_stories\mws_se5_03\mws_se5_03_malorian_silverhand.anims
@@ -4927,6 +4930,7 @@ animations\synced\ue__synced__sit_ground_chilling_with_tablet__01__male_average.
 animations\synced\ue__synced__stand_bar__pour_drink_player__female_average.anims
 animations\synced\ue__synced__stand_bar__pour_drink_player__male_average.anims
 animations\synced\ue__synced__stand_bar__pour_drink_player__man_big.anims
+animations\synced\ue__synced__stand_bar__pour_drink_player__player_female.anims
 animations\synced\ue__synced__stand_bar__pour_drink_player__player_male.anims
 animations\synced\ue__synced__stand_bottle__drink_together__01__female_average.anims
 animations\synced\ue__synced__stand_bottle__drink_together__01__male_average.anims
@@ -5419,6 +5423,7 @@ animations\weapon\two_handed_hammer\pma_two_handed_hammer_finisher.anims
 animations\weapon\two_handed_hammer\pwa_two_handed_hammer.anims
 animations\weapon\two_handed_hammer\pwa_two_handed_hammer_finisher.anims
 animations\weapon\two_handed_hammer\wa_two_handed_hammer_finisher.anims
+characters\main_npc\yorinobu_arasaka\t2_001_ma_dress__yourinobu_arasaka_cloth_simulation_animations.anims
 cinematics\custom_animsets\custom_female_average.anims
 cinematics\custom_animsets\custom_male_average.anims
 cinematics\custom_animsets\custom_male_big.anims
@@ -13030,9 +13035,6 @@ ep1\animations\quest\main_quests\q302\q302_04_squot\synced\synced__q302_04_squot
 ep1\animations\quest\main_quests\q302\q302_04_squot\synced\synced__q302_04_squot__player_male.anims
 ep1\animations\quest\main_quests\q302\q302_04_squot\synced\synced__q302_04_squot__taylor.anims
 ep1\animations\quest\main_quests\q302\q302_05_bar\body\q302_05_bar__johnny.anims
-ep1\animations\quest\main_quests\q302\q302_05_bar\body\q302_05_bar__old_phone.anims
-ep1\animations\quest\main_quests\q302\q302_05_bar\body\q302_05_bar__player_female.anims
-ep1\animations\quest\main_quests\q302\q302_05_bar\body\q302_05_bar__player_male.anims
 ep1\animations\quest\main_quests\q302\q302_06a_ride\body\q302_06a_ride__merrimac_reed.anims
 ep1\animations\quest\main_quests\q302\q302_06a_ride\body\q302_06a_ride__player_female.anims
 ep1\animations\quest\main_quests\q302\q302_06a_ride\body\q302_06a_ride__player_male.anims

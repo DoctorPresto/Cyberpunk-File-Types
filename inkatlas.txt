@@ -472,6 +472,10 @@ gameplay\gui\widgets\notifications\notification_assets.inkatlas
 gameplay\gui\widgets\notifications\notification_game_saved.inkatlas
 gameplay\gui\widgets\notifications\quest_update.inkatlas
 gameplay\gui\widgets\notifications\tutorial_bg1.inkatlas
+gameplay\gui\widgets\notifications\vehicle_visual_customization_assets.inkatlas
+gameplay\gui\widgets\notifications\vehicle_visual_customization_car_preview.inkatlas
+gameplay\gui\widgets\notifications\vehicle_visual_customization_mask.inkatlas
+gameplay\gui\widgets\notifications\vehicle_visyual_customization_car_mask.inkatlas
 gameplay\gui\widgets\notifications\vignette.inkatlas
 gameplay\gui\widgets\notifications\zone_update.inkatlas
 gameplay\gui\widgets\notifications\archived\stealth_alert.inkatlas
@@ -962,6 +966,7 @@ gameplay\gui\world\vending_machines_ads\slaughterhouse_vending\slaughterhouse_ve
 gameplay\gui\world\vending_machines_ads\sojasil_vending\sojasil_vending.inkatlas
 gameplay\gui\world\vending_machines_ads\tiancha_vending\tiancha_vending.inkatlas
 gameplay\gui\world\weapon_locker\weapon_locker.inkatlas
+gameplay\vehicles\visual_customization\vehicle_visual_customization_color_mask_atlas.inkatlas
 items\quest\q000__misc\q000_corpo_live_feed_texture_atlas.inkatlas
 media\tv\entities\atlas_for_ui.inkatlas
 media\tv\entities\streaming_cameras\streaming_camera_ink_atlas.inkatlas

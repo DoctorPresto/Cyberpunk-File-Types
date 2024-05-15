@@ -1,2 +1,2 @@
-21\common\garment_default_params.garmentlayerparams
-21\common\garment_default_params_for_player.garmentlayerparams
+characters\common\garment_default_params.garmentlayerparams
+characters\common\garment_default_params_for_player.garmentlayerparams

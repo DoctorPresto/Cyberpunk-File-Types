@@ -1110,8 +1110,10 @@ prefabs\environment\architecture\watson\kabuki\wat_kab_shack_a_v1_8f1d051f-4f133
 prefabs\environment\architecture\watson\kabuki\wat_kab_shack_a_v1_909ea0f8-4e6bbdaa-bfe58d84-61dca37d.envprobe
 prefabs\environment\architecture\watson\kabuki\wat_kab_shack_a_v1_bad2a8e3-49f7600a-a891969d-313e493a.envprobe
 prefabs\environment\architecture\watson\kabuki\wat_kab_shack_a_v1_debf795c-4391fca0-90817f83-6b0e3524.envprobe
+prefabs\environment\architecture\westbrook\japan_town\wbr_jpn_diner_a_4e12c789.envprobe
 prefabs\environment\architecture\westbrook\japan_town\wbr_jpn_diner_a_98f4bc44.envprobe
 prefabs\environment\decoration\_decoration_set\food\tableware\lighting_ec5bd05b.envprobe
+prefabs\environment\decoration\_decoration_set\shop_front_deco\shop_ak\decoset_shop_ak__19c3feaa.envprobe
 prefabs\environment\decoration\_decoration_set\shop_front_deco\shop_ak\decoset_shop_ak__58fc35dd.envprobe
 prefabs\worlds\01_nightcity\watson\harbor\harbor_south\harbor_south_lighting_0b6db511-4ab279e2-05bc5c88-13d78899.envprobe
 prefabs\worlds\01_nightcity\watson\harbor\harbor_south\harbor_south_lighting_27bb6fee-45b56092-d73440be-70cf4bc7.envprobe
@@ -1382,7 +1384,6 @@ worlds\03_night_city\sectors\c_city_center\city_center_glob_a6b063da.envprobe
 worlds\03_night_city\sectors\c_city_center\city_center_glob_abfd05ca.envprobe
 worlds\03_night_city\sectors\c_city_center\city_center_glob_b12b254a.envprobe
 worlds\03_night_city\sectors\c_city_center\city_center_glob_b5563e81.envprobe
-worlds\03_night_city\sectors\c_city_center\city_center_glob_c4e64aed.envprobe
 worlds\03_night_city\sectors\c_city_center\city_center_glob_c9e10525.envprobe
 worlds\03_night_city\sectors\c_city_center\city_center_glob_cb7c5349.envprobe
 worlds\03_night_city\sectors\c_city_center\city_center_glob_ce94383e.envprobe
@@ -1542,6 +1543,7 @@ worlds\03_night_city\sectors\c_city_center\corpo_plaza\corpo_plaza_ligh_15ff1ee9
 worlds\03_night_city\sectors\c_city_center\corpo_plaza\corpo_plaza_ligh_20145a3c.envprobe
 worlds\03_night_city\sectors\c_city_center\corpo_plaza\corpo_plaza_ligh_2d3ee73e.envprobe
 worlds\03_night_city\sectors\c_city_center\corpo_plaza\corpo_plaza_ligh_38dd655c.envprobe
+worlds\03_night_city\sectors\c_city_center\corpo_plaza\corpo_plaza_ligh_55467ec5.envprobe
 worlds\03_night_city\sectors\c_city_center\corpo_plaza\corpo_plaza_ligh_65d4fb8e.envprobe
 worlds\03_night_city\sectors\c_city_center\corpo_plaza\corpo_plaza_ligh_7713d4f5.envprobe
 worlds\03_night_city\sectors\c_city_center\corpo_plaza\corpo_plaza_ligh_9e762f4a.envprobe
@@ -1905,7 +1907,6 @@ worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_26ca7
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_2be5b308.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_2ca840bc.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_2d3454fc.envprobe
-worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_2eb37fe4.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_2f4d3d62.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_30f603e1.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_3380c6a5.envprobe
@@ -1914,6 +1915,7 @@ worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_35a63
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_35a92321.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_37d20c47.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_3910882a.envprobe
+worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_39d6b597.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_3bc5b184.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_3ccad75b.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_3d777915.envprobe
@@ -1973,6 +1975,7 @@ worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_7b191
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_7bd43750.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_7c955680.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_800692a9.envprobe
+worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_8072f518.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_80a666b3.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_816580b9.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_8296590a.envprobe
@@ -1984,6 +1987,7 @@ worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_86829
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_8c09ef26.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_8c402d74.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_8f9ce2bf.envprobe
+worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_9138b144.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_919c664d.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_92405ac7.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_92645d58.envprobe
@@ -2001,6 +2005,7 @@ worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_9fe1f
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_a132a3a7.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_a258d067.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_a3d4e902.envprobe
+worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_a49053a2.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_a6cb45df.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_a712ac63.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_a73cc917.envprobe
@@ -2018,6 +2023,7 @@ worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_c4155
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_c46b6208.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_c7954783.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_c94eb77f.envprobe
+worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_cb2b4ab4.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_ce934223.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_d057b2d2.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_d330affc.envprobe
@@ -2035,7 +2041,6 @@ worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_de54a
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_dec533b0.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_dfa7d2b4.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_e073c040.envprobe
-worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_e0c1f056.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_e216d6e3.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_e4d3cf45.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\ccd_01\ccd_01_lighting_e53f2e73.envprobe
@@ -2223,6 +2228,7 @@ worlds\03_night_city\sectors\c_city_center\downtown\loc_sts_cct_dtn_04\loc_sts_c
 worlds\03_night_city\sectors\c_city_center\downtown\loc_sts_cct_dtn_04\loc_sts_cct_dtn__cc73924f.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\loc_sts_cct_dtn_04\loc_sts_cct_dtn__d34380aa.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\loc_sts_cct_dtn_04\loc_sts_cct_dtn__e39fd540.envprobe
+worlds\03_night_city\sectors\c_city_center\downtown\loc_sts_cct_dtn_04\loc_sts_cct_dtn__feb5439d.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\loc_sts_cct_dtn_05_luxury_yacht\loc_sts_cct_dtn__1c0943d6.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\loc_sts_cct_dtn_05_luxury_yacht\loc_sts_cct_dtn__31ce9c09.envprobe
 worlds\03_night_city\sectors\c_city_center\downtown\loc_sts_cct_dtn_05_luxury_yacht\loc_sts_cct_dtn__3537b89d.envprobe
@@ -2261,8 +2267,8 @@ worlds\03_night_city\sectors\c_heywood\glen\gle_ma\ma_hey_gle_03\ma_hey_gle_03_l
 worlds\03_night_city\sectors\c_heywood\glen\gle_ma\ma_hey_gle_03\ma_hey_gle_03_li_7ec6725f.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\gle_ma\ma_hey_gle_03\ma_hey_gle_03_li_ddcb7f7c.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\gle_ma\ma_hey_gle_15\ma_hey_gle_15_li_287981e9.envprobe
+worlds\03_night_city\sectors\c_heywood\glen\gle_ma\ma_hey_gle_15\ma_hey_gle_15_li_4937e3a3.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\gle_ma\ma_hey_gle_15\ma_hey_gle_15_li_68087051.envprobe
-worlds\03_night_city\sectors\c_heywood\glen\gle_ma\ma_hey_gle_15\ma_hey_gle_15_li_f0aadbcb.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\gle_sp\hey_gle_guns_01\hey_gle_guns_01__08712e0c.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\gle_sp\hey_gle_guns_01\hey_gle_guns_01__4f6e5caf.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\gle_sp\hey_gle_guns_01\hey_gle_guns_01__6e9f0cf9.envprobe
@@ -2282,7 +2288,6 @@ worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_0ff9d608.envpro
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_136d4648.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_138d2747.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_13cafe5d.envprobe
-worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_13f899d6.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_15a39408.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_169aeb88.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_18a7ca27.envprobe
@@ -2292,8 +2297,9 @@ worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_1b6e9f4c.envpro
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_1ce04eee.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_1fdfd7f2.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_211b3374.envprobe
-worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_21b9abc4.envprobe
+worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_213febe5.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_2284ab36.envprobe
+worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_22d13b9f.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_233ce8c6.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_25cdd78a.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_268e86c9.envprobe
@@ -2326,6 +2332,7 @@ worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_558a3907.envpro
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_5709cbc8.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_596c3663.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_59dc4ba8.envprobe
+worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_5ab88f29.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_5abf188e.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_5ae02631.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_5d7cbbc5.envprobe
@@ -2338,13 +2345,13 @@ worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_6f9c39d6.envpro
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_6fbf0659.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_747d78b8.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_7aa929a2.envprobe
-worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_7ae01280.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_7ba850fc.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_7c0916fc.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_7d2af2cc.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_7d3854f4.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_7e6231d4.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_810399d4.envprobe
+worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_823615d4.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_8278e047.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_83176086.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_832ea54c.envprobe
@@ -2401,7 +2408,6 @@ worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_cd24e63c.envpro
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_cd77c592.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_cdf7eaee.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_ce754b12.envprobe
-worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_ce79afa7.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_ce87d149.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_d157aea6.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_d19df8b1.envprobe
@@ -2410,6 +2416,7 @@ worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_d3b0930b.envpro
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_d3ce90e2.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_d7362edb.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_d77b4e74.envprobe
+worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_d8053766.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_d8c817d8.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_d9ce004f.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_01\hg_01_lighting_d9e33a6d.envprobe
@@ -2458,6 +2465,7 @@ worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_545e2973.envpro
 worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_56075c05.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_62ee1591.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_6bbe5120.envprobe
+worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_6dbb68ac.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_7ad0f673.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_884a6c59.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_a03133d8.envprobe
@@ -2472,7 +2480,6 @@ worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_d0a13815.envpro
 worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_df863312.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_f62ed859.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_f88978c5.envprobe
-worlds\03_night_city\sectors\c_heywood\glen\hg_03\hg_03_lighting_fe7d49a1.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\loc_q004_braindance_store\loc_q004_brainda_cdef7c41.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\loc_q108_back_alley\loc_q108_back_al_0104282a.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\loc_q108_back_alley\loc_q108_back_al_0b455cb9.envprobe
@@ -2492,7 +2499,6 @@ worlds\03_night_city\sectors\c_heywood\glen\loc_sq012_city_hall_conference_room\
 worlds\03_night_city\sectors\c_heywood\glen\loc_sq012_city_hall_conference_room\loc_sq012_city_h_a812aed9.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\loc_sq012_diner\loc_sq012_diner__20316561.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\loc_sq012_diner\loc_sq012_diner__22b1f0e6.envprobe
-worlds\03_night_city\sectors\c_heywood\glen\loc_sq012_diner\loc_sq012_diner__2d51b119.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\loc_sq012_diner\loc_sq012_diner__650c5d5d.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\loc_sq012_diner\loc_sq012_diner__7c64132c.envprobe
 worlds\03_night_city\sectors\c_heywood\glen\loc_sq012_diner\loc_sq012_diner__a286d17e.envprobe
@@ -2593,15 +2599,14 @@ worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_09
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_0f3c04a3.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_0fe880ff.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_126fe091.envprobe
-worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_16a16e6a.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_1812a21d.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_19172604.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_1ca3a5c2.envprobe
-worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_1fa3254b.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_207fe5e0.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_20c936bf.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_20d7c75f.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_21eba05c.envprobe
+worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_2a4a2d2d.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_2a5d389f.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_2c3410ba.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_2e68ec99.envprobe
@@ -2610,7 +2615,9 @@ worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_30
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_30a4282e.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_31fe7955.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_32f93638.envprobe
+worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_341be7b2.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_346674c9.envprobe
+worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_3c7217eb.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_3f561b80.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_4387dbd7.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_48b83ca9.envprobe
@@ -2658,6 +2665,7 @@ worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_ba
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_bc751ef2.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_bd4c5524.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_c50f0302.envprobe
+worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_c5881b55.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_c89dbe09.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_c9807cbd.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_c9ccf890.envprobe
@@ -2667,6 +2675,7 @@ worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_d1
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_ddee8379.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_de4fe770.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_e231bf08.envprobe
+worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_e64e870b.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_e65be5b3.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_ed10f26e.envprobe
 worlds\03_night_city\sectors\c_heywood\vista_del_rey\hvdr_01\hvdr_01_lighting_ed96514a.envprobe
@@ -2830,6 +2839,7 @@ worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_0ed29fc2
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_0f30874c.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_12c91a71.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_1362624e.envprobe
+worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_13de4e4f.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_155d33a9.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_175ed314.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_18926255.envprobe
@@ -2847,6 +2857,7 @@ worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_33b23fa2
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_34f8110d.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_353e3683.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_353f6b2a.envprobe
+worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_372f85f3.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_389dcf93.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_3bbcb242.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_3edb1ad1.envprobe
@@ -2901,7 +2912,6 @@ worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_9c78050a
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_9db0919a.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_9e313190.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_a397e90e.envprobe
-worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_a5ec9650.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_a7564701.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_a9d0c0e0.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_aaeeb8fa.envprobe
@@ -2935,10 +2945,10 @@ worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_debbc32d
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_e10e80d6.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_e14977ed.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_e59b82c2.envprobe
-worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_ee955bfa.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_f28aad65.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_f2ec477f.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_f3c8d050.envprobe
+worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_f545d96e.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_f74c3a03.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_fafdd4d3.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\hw_01\hw_01_lighting_fbb10948.envprobe
@@ -2963,8 +2973,8 @@ worlds\03_night_city\sectors\c_heywood\wellsprings\loc_sts_hey_spr_03\sts_hey_sp
 worlds\03_night_city\sectors\c_heywood\wellsprings\loc_sts_hey_spr_03\sts_hey_spr_03_l_1f960ee8.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\loc_sts_hey_spr_03\sts_hey_spr_03_l_230957cb.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\loc_sts_hey_spr_03\sts_hey_spr_03_l_266c46b9.envprobe
+worlds\03_night_city\sectors\c_heywood\wellsprings\loc_sts_hey_spr_03\sts_hey_spr_03_l_27aab64e.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\loc_sts_hey_spr_03\sts_hey_spr_03_l_409becc5.envprobe
-worlds\03_night_city\sectors\c_heywood\wellsprings\loc_sts_hey_spr_03\sts_hey_spr_03_l_67ec4f6c.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\loc_sts_hey_spr_03\sts_hey_spr_03_l_9c7de509.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\loc_sts_hey_spr_03\sts_hey_spr_03_l_9e6e1703.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\loc_sts_hey_spr_03\sts_hey_spr_03_l_b9601d43.envprobe
@@ -3017,8 +3027,11 @@ worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_guns_01\hey_sp
 worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_guns_01\hey_spr_guns_01__bcf8c0dd.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_medic_01\hey_spr_medic_01_a2144fb9.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_medic_01\hey_spr_medic_01_c3725c1f.envprobe
-worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_ripdoc_01\hey_spr_ripdoc_0_1c47357d.envprobe
-worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_ripdoc_01\hey_spr_ripdoc_0_6054ddb3.envprobe
+worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_ripdoc_01\hey_spr_ripdoc_0_15e03284.envprobe
+worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_ripdoc_01\hey_spr_ripdoc_0_400860a2.envprobe
+worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_ripdoc_01\hey_spr_ripdoc_0_4eb8fafd.envprobe
+worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_ripdoc_01\hey_spr_ripdoc_0_6ac13ddd.envprobe
+worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_ripdoc_01\hey_spr_ripdoc_0_712bcad1.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_ripdoc_01\hey_spr_ripdoc_0_94572d48.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_ripdoc_01\hey_spr_ripdoc_0_d126114c.envprobe
 worlds\03_night_city\sectors\c_heywood\wellsprings\spr_sp\hey_spr_ripdoc_01\hey_spr_ripdoc_0_d80b1bd4.envprobe
@@ -3041,6 +3054,8 @@ worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\chapel_surr
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\chapel_surroundi_ed83adf7.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\chapel_surroundi_f492878b.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_0191fead.envprobe
+worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_07d1fdce.envprobe
+worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_11e3dffe.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_21f977ba.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_3042b024.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_3b6d02cd.envprobe
@@ -3053,9 +3068,9 @@ worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_r
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_4b78e87f.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_53afc6ab.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_55b3481b.envprobe
-worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_573e177b.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_5a48930c.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_65ccc490.envprobe
+worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_678d1e65.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_79684aa9.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_7c5bbc6a.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_83551de8.envprobe
@@ -3064,6 +3079,8 @@ worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_r
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_90833fc1.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_9282a86b.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_9fdce73d.envprobe
+worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_ad8eab83.envprobe
+worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_b0e6488d.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_bab172d3.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_c5bc3b0b.envprobe
 worlds\03_night_city\sectors\c_pacifica\coastview\coastview_lighting\coastview_ref_pr_e6f3c513.envprobe
@@ -3438,7 +3455,6 @@ worlds\03_night_city\sectors\c_santo_domingo\arroyo\arroyo_ref_probes\arroyo_ref
 worlds\03_night_city\sectors\c_santo_domingo\arroyo\arroyo_ref_probes\arroyo_ref_probe_fe855219.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\arroyo\arr_ce\ce_std_arr_02\ce_std_arr_02_li_0e7e494b.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\arroyo\arr_ce\ce_std_arr_02\ce_std_arr_02_li_9a65c8c4.envprobe
-worlds\03_night_city\sectors\c_santo_domingo\arroyo\arr_ce\ce_std_arr_07\ce_std_arr_07_li_367aaf02.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\arroyo\arr_ce\ce_std_arr_07\ce_std_arr_07_li_689fddf2.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\arroyo\arr_sp\std_arr_ripdoc_01\std_arr_ripdoc_0_1dd227fb.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\arroyo\arr_sp\std_arr_ripdoc_01\std_arr_ripdoc_0_87f7dc7a.envprobe
@@ -3812,7 +3828,6 @@ worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\loc_sts_std_rcr_05\
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\loc_sts_std_rcr_05\loc_sts_std_rcr__f746e99c.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__0164eb36.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__05c8afe7.envprobe
-worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__0f54442c.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__10836bf7.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__162bf945.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__17cc633f.envprobe
@@ -3820,6 +3835,7 @@ worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__20fd69ec.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__212b24df.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__2ab38c6d.envprobe
+worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__2e159b83.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__3d0f3e0d.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__5984abbd.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\rancho_coronado_ref_probes\rancho_coronado__66673e84.envprobe
@@ -3865,7 +3881,6 @@ worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\sdrc_01\sdrc_01_lig
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\sdrc_01\sdrc_01_lighting_8f46279f.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\sdrc_01\sdrc_01_lighting_954f668a.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\sdrc_01\sdrc_01_lighting_9663bfe8.envprobe
-worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\sdrc_01\sdrc_01_lighting_aa9e1eed.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\sdrc_01\sdrc_01_lighting_af9dccf9.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\sdrc_01\sdrc_01_lighting_b978b456.envprobe
 worlds\03_night_city\sectors\c_santo_domingo\rancho_coronado\sdrc_01\sdrc_01_lighting_ba00f68c.envprobe
@@ -4020,6 +4035,7 @@ worlds\03_night_city\sectors\c_watson\kabuki\kab_sp\wat_kab_netrun_01\wat_kab_ne
 worlds\03_night_city\sectors\c_watson\kabuki\kab_sp\wat_kab_netrun_01\wat_kab_netrun_0_27b3754c.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\loc_ma_wat_kab_01\loc_ma_wat_kab_0_542c8ad3.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\loc_ma_wat_kab_01\loc_ma_wat_kab_0_ff7f6328.envprobe
+worlds\03_night_city\sectors\c_watson\kabuki\loc_ma_wat_kab_02\loc_ma_wat_kab_0_512a1aae.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\loc_ma_wat_kab_03\loc_ma_wat_kab_0_15ea61eb.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\loc_ma_wat_kab_06\loc_ma_wat_kab_0_f762b4a0.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\loc_meat_factory\loc_meat_factory_03b27252.envprobe
@@ -4337,10 +4353,10 @@ worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_018a5511.envpr
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_02f8c682.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_0443f828.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_05132c86.envprobe
+worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_06b57cbf.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_0aa24025.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_0e33bf99.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_1291edaf.envprobe
-worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_14dceee2.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_160ecf68.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_17566ba8.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_19805c5e.envprobe
@@ -4363,6 +4379,7 @@ worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_3d58d1f0.envpr
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_3e2f5652.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_3fc33819.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_3fe44f66.envprobe
+worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_400058e2.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_403acb3f.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_47689005.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_49683d48.envprobe
@@ -4390,6 +4407,7 @@ worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_7170a4ad.envpr
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_747b46a9.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_7d09a6f2.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_7eded569.envprobe
+worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_7f2e50c7.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_8144dd7e.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_82b0866c.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_8494c161.envprobe
@@ -4411,6 +4429,7 @@ worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_a44c8014.envpr
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_a637e6b0.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_a6579212.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_a858d10f.envprobe
+worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_aa46b59f.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_accd4ccb.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_ad8f5c4b.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_lighting_af3d840c.envprobe
@@ -4456,13 +4475,18 @@ worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_b_env\wk_04_b_deco_reg_
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_b_env\wk_04_b_deco_reg_b2ad18aa.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_b_env\wk_04_b_deco_reg_cb222346.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_04\wk_04_b_env\wk_04_b_deco_reg_f7bcbe93.envprobe
+worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_086e3510.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_13f3c6ae.envprobe
+worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_165b70f0.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_1d16296e.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_20ac8d1a.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_391dbf3d.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_3c9ff1c7.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_3e76d319.envprobe
+worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_4426ef3e.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_48331de0.envprobe
+worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_5d5ae07e.envprobe
+worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_6a7796ce.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_6e239f35.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_8af72001.envprobe
 worlds\03_night_city\sectors\c_watson\kabuki\wk_05\wk_05_lighting_94618817.envprobe
@@ -4674,6 +4698,7 @@ worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_ligh
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_49485be4.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_4ad8d2b0.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_4bcfb305.envprobe
+worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_4e977fb8.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_4fc94fb1.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_50858e7a.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_50fe45c5.envprobe
@@ -4709,11 +4734,11 @@ worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_ligh
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_85bb33ce.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_86503983.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_86dab99d.envprobe
-worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_8744fe2e.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_87de21d1.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_886e28b0.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_890e393a.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_8a5ed9d4.envprobe
+worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_8b8398af.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_8e2ad6f1.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_985c0ea5.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_988b2a08.envprobe
@@ -4743,6 +4768,7 @@ worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_ligh
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_bbd170ef.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_bbf2b097.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_bc99b77a.envprobe
+worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_bd036a3d.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_be68fbe3.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_be8c6342.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_c2735137.envprobe
@@ -4750,7 +4776,6 @@ worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_ligh
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_c53d7c7c.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_c5f0183c.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_c5f3eb86.envprobe
-worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_c6251494.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_c707079d.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_c7ad5c3e.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_ca7150e4.envprobe
@@ -4788,6 +4813,7 @@ worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_ligh
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_f35bd7d1.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_f3cfaa4f.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_fa8de36b.envprobe
+worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_fc3e461b.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_fe2b26a7.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_fe3e6069.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_03\wlc_03_env\wlc_03_lighting_ff4d14c8.envprobe
@@ -4800,8 +4826,12 @@ worlds\03_night_city\sectors\c_watson\little_china\wlc_06\wlc_06_env\wlc_06_arch
 worlds\03_night_city\sectors\c_watson\little_china\wlc_06\wlc_06_env\wlc_06_architecture\metro_station_li_e49380d0.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_08\wlc_08_env\wlc_08_architecture\metro_station_little_china_hospital\metro_station_li_84d6e3a5.envprobe
 worlds\03_night_city\sectors\c_watson\little_china\wlc_08\wlc_08_env\wlc_08_architecture\metro_station_little_china_hospital\metro_station_li_cf174093.envprobe
+worlds\03_night_city\sectors\c_watson\northside\northside_lighti_4e1e88b6.envprobe
+worlds\03_night_city\sectors\c_watson\northside\northside_lighti_612bcb04.envprobe
 worlds\03_night_city\sectors\c_watson\northside\northside_lighti_8b55aaa9.envprobe
 worlds\03_night_city\sectors\c_watson\northside\northside_lighti_a016d7c7.envprobe
+worlds\03_night_city\sectors\c_watson\northside\northside_lighti_e7b39bc8.envprobe
+worlds\03_night_city\sectors\c_watson\northside\northside_lighti_ea2ba938.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_ma_wat_nid_02\loc_ma_wat_nid_0_08555213.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_ma_wat_nid_03\loc_ma_wat_nid_0_a857eaa7.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_ma_wat_nid_03\loc_ma_wat_nid_0_b46f7575.envprobe
@@ -4968,8 +4998,7 @@ worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_mot
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__0e6092f4.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__1142bf12.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__1888a1b6.envprobe
-worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__244c6844.envprobe
-worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__3255d0ad.envprobe
+worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__36322380.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__4fe1423d.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__506b0754.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__64892408.envprobe
@@ -4978,21 +5007,20 @@ worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_mot
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__800db6b9.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__842401f1.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__84edbd7c.envprobe
-worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__892a6ea7.envprobe
+worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__8764a02f.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__8c0c3933.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__8cbea044.envprobe
-worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__919746a1.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__95422429.envprobe
+worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__9f070280.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__ac62a831.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__adc414f7.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__b0731cbe.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__b60bf2e7.envprobe
-worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__d3eb91f3.envprobe
+worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__c013ef31.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__d9a40707.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__dce72524.envprobe
-worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__e07e5697.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__e1f78a63.envprobe
-worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__e23ba4b2.envprobe
+worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_03_abandoned_motel\loc_sts_wat_nid__ed84cbfe.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_04_netrunner_hideout\loc_sts_wat_nid__3179eca0.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_04_netrunner_hideout\loc_sts_wat_nid__60133280.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_04_netrunner_hideout\loc_sts_wat_nid__6a61da77.envprobe
@@ -5038,6 +5066,7 @@ worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_06\loc_sts_wat_n
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_06\loc_sts_wat_nid__68772c18.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_06\loc_sts_wat_nid__6b0aeb83.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_06\loc_sts_wat_nid__7b2faef2.envprobe
+worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_06\loc_sts_wat_nid__9295426e.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_06\loc_sts_wat_nid__95341a3b.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_06\loc_sts_wat_nid__9bd2e1af.envprobe
 worlds\03_night_city\sectors\c_watson\northside\loc_sts_wat_nid_06\loc_sts_wat_nid__9e7fec20.envprobe
@@ -5128,7 +5157,6 @@ worlds\03_night_city\sectors\c_watson\northside\nid_sp\wat_nid_cloth_01\wat_nid_
 worlds\03_night_city\sectors\c_watson\northside\nid_sp\wat_nid_cloth_01\wat_nid_cloth_01_870b76b7.envprobe
 worlds\03_night_city\sectors\c_watson\northside\nid_sp\wat_nid_cloth_01\wat_nid_cloth_01_8b65697b.envprobe
 worlds\03_night_city\sectors\c_watson\northside\nid_sp\wat_nid_cloth_01\wat_nid_cloth_01_9d47493f.envprobe
-worlds\03_night_city\sectors\c_watson\northside\nid_sp\wat_nid_cloth_01\wat_nid_cloth_01_d447f598.envprobe
 worlds\03_night_city\sectors\c_watson\northside\nid_sp\wat_nid_cloth_01\wat_nid_cloth_01_e2f4842e.envprobe
 worlds\03_night_city\sectors\c_watson\northside\nid_sp\wat_nid_cloth_01\wat_nid_cloth_01_e3daaddd.envprobe
 worlds\03_night_city\sectors\c_watson\northside\nid_sp\wat_nid_cloth_01\wat_nid_cloth_01_f00d4063.envprobe
@@ -5173,6 +5201,7 @@ worlds\03_night_city\sectors\c_watson\northside\northside_ref_probes\northside_r
 worlds\03_night_city\sectors\c_watson\northside\northside_ref_probes\northside_ref_pr_3caa75ba.envprobe
 worlds\03_night_city\sectors\c_watson\northside\northside_ref_probes\northside_ref_pr_3ee648f7.envprobe
 worlds\03_night_city\sectors\c_watson\northside\northside_ref_probes\northside_ref_pr_3feddcba.envprobe
+worlds\03_night_city\sectors\c_watson\northside\northside_ref_probes\northside_ref_pr_40bae89a.envprobe
 worlds\03_night_city\sectors\c_watson\northside\northside_ref_probes\northside_ref_pr_43fa41b2.envprobe
 worlds\03_night_city\sectors\c_watson\northside\northside_ref_probes\northside_ref_pr_450435fa.envprobe
 worlds\03_night_city\sectors\c_watson\northside\northside_ref_probes\northside_ref_pr_45aad672.envprobe
@@ -5298,6 +5327,12 @@ worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_01\wbr
 worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_01\wbr_hil_food_01__6be140d0.envprobe
 worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_01\wbr_hil_food_01__8ed8ac7f.envprobe
 worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_01\wbr_hil_food_01__e6251778.envprobe
+worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_03\wbr_hil_food_03__251b1c6d.envprobe
+worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_03\wbr_hil_food_03__661e5c3e.envprobe
+worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_03\wbr_hil_food_03__731afadd.envprobe
+worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_03\wbr_hil_food_03__7dd3ff57.envprobe
+worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_03\wbr_hil_food_03__afdb4757.envprobe
+worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_03\wbr_hil_food_03__f22e350e.envprobe
 worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_food_04\wbr_hil_food_04__58fc1407.envprobe
 worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_ripdoc_01\wbr_hil_ripdoc_0_0e1f2cdc.envprobe
 worlds\03_night_city\sectors\c_westbrook\charter_hill\hil_sp\wbr_hil_ripdoc_01\wbr_hil_ripdoc_0_1ffcd954.envprobe
@@ -5460,6 +5495,7 @@ worlds\03_night_city\sectors\c_westbrook\charter_hill\wech_02\wech_02_lightnin_8
 worlds\03_night_city\sectors\c_westbrook\charter_hill\wech_02\wech_02_lightnin_aefae212.envprobe
 worlds\03_night_city\sectors\c_westbrook\charter_hill\wech_02\wech_02_lightnin_de4ffff7.envprobe
 worlds\03_night_city\sectors\c_westbrook\charter_hill\wech_02\wech_02_lightnin_ee5afd6e.envprobe
+worlds\03_night_city\sectors\c_westbrook\charter_hill\wech_03\wech_03_lighting_35ebb454.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\japan_town_ref_p_006337a0.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\japan_town_ref_p_027d3200.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\japan_town_ref_p_0345e634.envprobe
@@ -5696,14 +5732,11 @@ worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_cloth_01\wbr_
 worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_cloth_01\wbr_jpn_cloth_01_d0f40cff.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_guns_01\wbr_jpn_guns_01__0d1e1013.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_guns_01\wbr_jpn_guns_01__71ea5d28.envprobe
-worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_guns_01\wbr_jpn_guns_01__7fda11a3.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_guns_01\wbr_jpn_guns_01__96fd2c02.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_guns_01\wbr_jpn_guns_01__9be2aa00.envprobe
-worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_guns_01\wbr_jpn_guns_01__b4088b66.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_guns_01\wbr_jpn_guns_01__b990917d.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_guns_01\wbr_jpn_guns_01__c12adb26.envprobe
-worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_guns_01\wbr_jpn_guns_01__d98165b8.envprobe
-worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_medic_01\wbr_jpn_medic_01_e91b8dc7.envprobe
+worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_medic_01\wbr_jpn_medic_01_deb6c662.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_melee_01\wbr_jpn_melee_01_00094365.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_melee_01\wbr_jpn_melee_01_364f3128.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\jpn_sp\wbr_jpn_melee_01\wbr_jpn_melee_01_4b229a0a.envprobe
@@ -5844,6 +5877,7 @@ worlds\03_night_city\sectors\c_westbrook\japan_town\loc_q112_market_area\loc_q11
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_q112_market_area\loc_q112_market__8994bca0.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_q112_market_area\loc_q112_market__8ee098c0.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_q112_market_area\loc_q112_market__928195f0.envprobe
+worlds\03_night_city\sectors\c_westbrook\japan_town\loc_q112_market_area\loc_q112_market__bfdc4a85.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_q112_market_area\loc_q112_market__c258bb61.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_q112_market_area\loc_q112_market__cbae2ac4.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_q112_market_area\loc_q112_market__cf0afcf9.envprobe
@@ -5962,10 +5996,12 @@ worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq017_pachinko_lounge\lo
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq017_pachinko_lounge\loc_sq017_pachinko_lounge_lighting\loc_sq017_pachin_c41a9a94.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq017_pachinko_lounge\loc_sq017_pachinko_lounge_lighting\loc_sq017_pachin_e24f5193.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq017_pachinko_lounge\loc_sq017_pachinko_lounge_lighting\loc_sq017_pachin_f63766b7.envprobe
+worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq023_braindance_studio\loc_sq023_braind_47eef447.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq023_braindance_studio\loc_sq023_braind_5264c8fd.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq023_braindance_studio\loc_sq023_braind_5f905811.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq023_braindance_studio\loc_sq023_braind_61283dfe.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq023_braindance_studio\loc_sq023_braind_697d18de.envprobe
+worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq023_braindance_studio\loc_sq023_braind_9455e65b.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq026_ambush_floor\loc_sq026_ambush_71301c64.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq026_ambush_floor\loc_sq026_ambush_a4feecc3.envprobe
 worlds\03_night_city\sectors\c_westbrook\japan_town\loc_sq026_ambush_floor\loc_sq026_ambush_c3c7e104.envprobe

@@ -3814,6 +3814,7 @@ worlds\03_night_city\sectors\_generated\global_illumination\-21_-13_0.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-21_-13_1.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-21_-13_2.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-21_-14_0.gidata
+worlds\03_night_city\sectors\_generated\global_illumination\-21_-14_1.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-21_-15_0.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-21_-16_0.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-21_-17_0.gidata
@@ -7199,8 +7200,10 @@ worlds\03_night_city\sectors\_generated\global_illumination\-30_-13_1.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-30_-14_0.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-30_-14_1.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-30_-15_0.gidata
+worlds\03_night_city\sectors\_generated\global_illumination\-30_-15_1.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-30_-16_0.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-30_-17_0.gidata
+worlds\03_night_city\sectors\_generated\global_illumination\-30_-17_1.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-30_-18_0.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-30_-18_1.gidata
 worlds\03_night_city\sectors\_generated\global_illumination\-30_-18_2.gidata

@@ -530,11 +530,14 @@ open_world\mini_world_stories\heywood\mws_hey_02\scenes\mws_hey_02_scene.scene
 open_world\mini_world_stories\heywood\mws_hey_04\scenes\mws_hey_04_rave.scene
 open_world\mini_world_stories\pacifica\mws_pac_01\scenes\mws_pac_01.scene
 open_world\mini_world_stories\pacifica\mws_pac_05\scenes\mws_pac_05.scene
+open_world\mini_world_stories\pacifica\mws_pac_06\scenes\mws_pac_06.scene
 open_world\mini_world_stories\santo_domingo\mws_arr_01\scenes\mws_arr_01.scene
+open_world\mini_world_stories\santo_domingo\mws_arr_07\scenes\mws_arr_07.scene
 open_world\mini_world_stories\watson\mws_wat_01\scenes\mws_wat_01.scene
 open_world\mini_world_stories\watson\mws_wat_02\scenes\mws_wat_02.scene
 open_world\mini_world_stories\watson\mws_wat_03\scenes\mws_wat_03_cop_lines.scene
 open_world\mini_world_stories\watson\mws_wat_08\scenes\mws_wat_08.scene
+open_world\mini_world_stories\watson\mws_wat_09\scenes\mws_wat_09.scene
 open_world\mini_world_stories\westbrook\mws_wbr_01\scenes\mws_wbr_01.scene
 open_world\minor_activities\badlands\inland_avenue_se1\ma_bls_ina_07\scenes\ma_bls_ina_se1_07_brief.scene
 open_world\minor_activities\badlands\inland_avenue_se1\ma_bls_ina_07\scenes\versions\gold\ma_bls_ina_se1_07_brief.scene
@@ -5642,6 +5645,7 @@ quest\main_quests\part1\q103\scenes\versions\patch1_3\q103_15_roadhouse_bar.scen
 quest\main_quests\part1\q103\scenes\versions\patch2_0\q103_06b_nomad_camp.scene
 quest\main_quests\part1\q103\scenes\versions\patch2_0\q103_06_meet_panam.scene
 quest\main_quests\part1\q103\scenes\versions\patch2_0\q103_07_ghost_town_drive.scene
+quest\main_quests\part1\q103\scenes\versions\patch2_0\q103_08_ghost_town_plan.scene
 quest\main_quests\part1\q103\scenes\versions\patch2_0\q103_10_escape.scene
 quest\main_quests\part1\q103\scenes\versions\patch2_0\q103_12_tunnel_ambush.scene
 quest\main_quests\part1\q103\test\q103_chicken_teleport.scene
@@ -6189,6 +6193,7 @@ quest\main_quests\part1\q116\scenes\versions\patch1_3\q116_01_adam_smasher.scene
 quest\main_quests\part1\q116\scenes\versions\patch1_3\q116_04_mikoshi_intro.scene
 quest\main_quests\part1\q116\scenes\versions\patch1_3\q116_05_mikoshi.scene
 quest\main_quests\part1\q116\scenes\versions\patch2_0\q116_01_adam_smasher.scene
+quest\main_quests\part1\q116\scenes\versions\patch2_1\q116_01_adam_smasher.scene
 quest\main_quests\part1\q116\test\q116_00_chicken_test.scene
 quest\main_quests\part1\q116\test\versions\gold\q116_00_chicken_test.scene
 quest\main_quests\prologue\q000\scenes\q000_08_half_year_montage.scene
@@ -6652,6 +6657,12 @@ quest\minor_quests\mq014\scenes\versions\patch1_2\mq014_01_hook.scene
 quest\minor_quests\mq014\scenes\versions\patch1_2\mq014_03_second.scene
 quest\minor_quests\mq014\scenes\versions\patch1_2\mq014_05_third.scene
 quest\minor_quests\mq014\scenes\versions\patch1_2\mq014_07_fourth.scene
+quest\minor_quests\mq014\scenes\versions\patch2_0\mq014_05_third.scene
+quest\minor_quests\mq014\scenes\versions\patch2_0\mq014_06_fire.scene
+quest\minor_quests\mq014\scenes\versions\patch2_0\mq014_07_fourth.scene
+quest\minor_quests\mq014\scenes\versions\patch2_0\mq014_08_air.scene
+quest\minor_quests\mq014\scenes\versions\patch2_1\mq014_01_hook.scene
+quest\minor_quests\mq014\scenes\versions\patch2_1\mq014_03_second.scene
 quest\minor_quests\mq014\test\mq014_chicken_test.scene
 quest\minor_quests\mq014\test\versions\gold\mq014_chicken_test.scene
 quest\minor_quests\mq015\scenes\mq015_01_hook.scene
@@ -6957,6 +6968,7 @@ quest\minor_quests\mq055\scenes\versions\patch2_0\mq055_07_northside_gift.scene
 quest\minor_quests\mq055\scenes\versions\patch2_0\mq055_08_japantown_gift.scene
 quest\minor_quests\mq055\scenes\versions\patch2_0\mq055_09_heywood_gift.scene
 quest\minor_quests\mq055\scenes\versions\patch2_0\mq055_10_downtown_gift.scene
+quest\minor_quests\mq055\scenes\versions\patch2_1\mq055_03_japantown.scene
 quest\minor_quests\mq055\test\mq055_chicken.scene
 quest\minor_quests\mq056\scenes\mq056_00_commentary.scene
 quest\minor_quests\mq056\scenes\mq056_01_city_race.scene
@@ -8125,6 +8137,7 @@ ep1\openworld\street_stories\sts_ep1_10\scenes\sts_ep1_10_interrogation_room_sce
 ep1\openworld\street_stories\sts_ep1_10\scenes\sts_ep1_10_reception_chat.scene
 ep1\openworld\street_stories\sts_ep1_10\scenes\sts_ep1_10_tv_crew_follow.scene
 ep1\openworld\street_stories\sts_ep1_10\scenes\versions\patch2_0\sts_ep1_10_dodger_garage_scene.scene
+ep1\openworld\street_stories\sts_ep1_10\scenes\versions\patch2_1\sts_ep1_10_dodger_garage_scene.scene
 ep1\openworld\street_stories\sts_ep1_12\scenes\sts_ep1_12_after_sts_patrol_call_out.scene
 ep1\openworld\street_stories\sts_ep1_12\scenes\sts_ep1_12_courier_scene.scene
 ep1\openworld\street_stories\sts_ep1_12\scenes\sts_ep1_12_courier_scene_scolding_looped.scene
@@ -8283,6 +8296,7 @@ ep1\quest\main_quests\q302\scenes\q302_06_basketball.scene
 ep1\quest\main_quests\q302\scenes\q302_07_oath.scene
 ep1\quest\main_quests\q302\scenes\q302_08_call.scene
 ep1\quest\main_quests\q302\scenes\q302_squot_safehouse.scene
+ep1\quest\main_quests\q302\scenes\versions\patch2_1\q302_03_subway.scene
 ep1\quest\main_quests\q302\test\q302_chicken_test.scene
 ep1\quest\main_quests\q303\scenes\q303_02_nighthawks.scene
 ep1\quest\main_quests\q303\scenes\q303_03a_voodoo_baron.scene

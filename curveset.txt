@@ -107,6 +107,10 @@ gameplay\curves\statcurves\puppet\boss_power_level_to_dps_mult.curveset
 gameplay\curves\statcurves\puppet\boss_power_level_to_dps_mult_easy.curveset
 gameplay\curves\statcurves\puppet\boss_power_level_to_dps_mult_hard.curveset
 gameplay\curves\statcurves\puppet\boss_power_level_to_dps_mult_story.curveset
+gameplay\curves\statcurves\puppet\follower_values.curveset
+gameplay\curves\statcurves\puppet\follower_values_easy.curveset
+gameplay\curves\statcurves\puppet\follower_values_hard.curveset
+gameplay\curves\statcurves\puppet\follower_values_story.curveset
 gameplay\curves\statcurves\puppet\puppet_accuracy.curveset
 gameplay\curves\statcurves\puppet\puppet_accuracy_easy.curveset
 gameplay\curves\statcurves\puppet\puppet_accuracy_hard.curveset
@@ -165,10 +169,12 @@ gameplay\vehicles\curves\surface_presets\bikes\asphalt_surface.curveset
 gameplay\vehicles\curves\surface_presets\bikes\ground_surface.curveset
 gameplay\vehicles\curves\surface_presets\bikes\sand_surface.curveset
 gameplay\vehicles\curves\surface_presets\cars\ground_surface.curveset
+gameplay\vehicles\curves\surface_presets\cars\ground_surface_awd.curveset
 gameplay\vehicles\curves\surface_presets\cars\ground_surface_fwd.curveset
 gameplay\vehicles\curves\surface_presets\cars\ground_surface_offroad_tires.curveset
 gameplay\vehicles\curves\surface_presets\cars\road_surface.curveset
 gameplay\vehicles\curves\surface_presets\cars\road_surface_ai.curveset
+gameplay\vehicles\curves\surface_presets\cars\road_surface_awd.curveset
 gameplay\vehicles\curves\surface_presets\cars\road_surface_fwd.curveset
 gameplay\vehicles\curves\surface_presets\cars\road_surface_offroad_tires.curveset
 gameplay\vehicles\curves\surface_presets\cars\road_surface_sport.curveset

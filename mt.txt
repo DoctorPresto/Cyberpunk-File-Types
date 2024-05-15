@@ -25,6 +25,7 @@ fx\shaders\emissive_basic_transparent.mt
 fx\shaders\fog_laser.mt
 fx\shaders\hologram.mt
 fx\shaders\hologram_two_sided.mt
+fx\shaders\hologram_txaa.mt
 fx\shaders\holo_projections.mt
 fx\shaders\hud_focus_mode_scanline.mt
 fx\shaders\hud_markers_notxaa.mt
@@ -75,6 +76,7 @@ fx\shaders\simple_refraction.mt
 fx\shaders\sound_clue.mt
 fx\shaders\television_ad.mt
 fx\shaders\triplanar_projection.mt
+fx\shaders\vehicle_visual_customization_shift.mt
 fx\shaders\water_plane.mt
 fx\shaders\zoom.mt
 fx\_shaders\alt_halo.mt
@@ -310,6 +312,7 @@ materials\window_parallax_interior_proxy.mt
 materials\window_parallax_interior_proxy_buffer.mt
 materials\window_very_long_distance.mt
 materials\worldspace_grid.mt
+vehicles\common\materials\vehicle_modding_destruction.mt
 engine\materials\bink_simple.mt
 engine\materials\cable_strip.mt
 engine\materials\debugdraw_bias.mt
